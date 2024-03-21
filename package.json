@@ -13,7 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages --dist ./public --repo https://github.com/p4clab/p4clab.github.io",
+    "deploy": "gatsby build && gh-pages --dist ./public --repo https://github.com/KNU-P4C-Lab/knu-p4c-lab.github.io",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

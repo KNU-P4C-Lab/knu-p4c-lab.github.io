@@ -47,6 +47,7 @@ description: "This course aims to provide broad knowledge about interaction desi
   - In-class Activity #3 - Ideation (4%)
   - In-class Activity #4 - Paper Prototyping (4%)
   - In-class Activity #5 - Digital Prototyping (4%)
+  - ※ 수업 내 활동은 결석/또는 지각 시 점수를 받을 수 없음
 - 출석 (10%)
   - 지각 3회 = 결석 1회
   - 결석 1회에 출석 점수 1% 차감
@@ -59,26 +60,26 @@ description: "This course aims to provide broad knowledge about interaction desi
 # Schedule
 ## W01: Overview
 ### March 04: Course Overview
-* Lecture
-* (Announce) DP #0: Team Formation
+* [Lecture](https://docs.google.com/presentation/d/1GENLI44bQzqEpy25btf8tQYgLxJQPz0Xe1mTVl-oM8Y/edit?usp=drive_link)
+* (Announce) [DP #0: Team Formation](https://docs.google.com/document/d/1bWymAelfiGjDmH_jCOIuElT0Fb31kWqtfGExQwrZjD8/edit?usp=drive_link)
   * Due: March 13
   * Requirements
-    * 5 students per team
+    * 4-5 students per team
 
-### March 07: Introduction to HCI
-* Lecture
+### March 07: Interaction Design
+* [Lecture](https://docs.google.com/presentation/d/1C6XUE2Hi98jnol_gnr7pM2RWxQzLMcDmgIXRW4N_B6M/edit?usp=drive_link)
 ---
 
 ## W02: Need Finding
 ### March 11: Need Finding - Theory
-* Lecture
-* (Announce) DP #1 - Need Finding
+* [Lecture](https://docs.google.com/presentation/d/1qTFUgKoJzjdmYaDp_BrDuAG3FD7Ulnpb1pcy8Z511Yk/edit?usp=drive_link)
+* (Announce) [DP #1 - Need Finding](https://docs.google.com/document/d/1REMBy_P2AdKjB2BnlY_vQEGRIogf-TrV-TEHVglWFro/edit?usp=drive_link)
   * Due: March 21 
 * References
   * [Ro23] Chap. 11
 
 ### March 14: Need Finding - In-class Activity
-* In-class Activity #1
+* [In-class Activity #1](https://docs.google.com/document/d/1zoeNUFQddvRaGkuLc4xHaYuA3c1aFCa17clz52__Rvw/edit?usp=drive_link)
   * Need finding from user reviews (35m)
   * Need finding from user interviews (25m)
 
@@ -86,9 +87,9 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ## W03: Learnability #1
 ### March 18: Learnability #1 - Theory
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1A0N9dns1I1Nn4rVeQTZlnj0u2n22Q-Tqjmq7kcKycX0/edit?usp=drive_link)
 ### March 21: Learnability #1 - In-class Activity
-* In-class Activity #2
+* [In-class Activity #2](https://docs.google.com/document/d/1NhC8Cz2zTaVyBxIeMITEDBPjnSlgmnrdXI447r3RDUk/edit?usp=drive_link)
   * Learnability problems in Kiosk (30m)
   * Learnability problems in Smart home appliances (30m)
 

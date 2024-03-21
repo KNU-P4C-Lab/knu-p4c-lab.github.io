@@ -63,10 +63,10 @@ description: "This course covers theoretical backgrounds and practical implement
 # Schedule
 ## W01: Overview
 ### March 04: Overview
-* Lecture
-* References: None
+* [Lecture](https://docs.google.com/presentation/d/1FBc48t-eM74Blscvzvzq9XuOtoqLaV49CoOLOuzCo9U/edit?usp=drive_link)
+
 ### March 07: Machine Learning Landscape
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1RnOfOsKquPBbaBwMAFujDhw0-JS5Q_N6wKm1FBlj04g/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 1
   * [Oh21] Chap. 1
@@ -75,15 +75,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W02: Machine Learning Pipeline
 ### March 11: Machine Learning Pipeline - Theory
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1D3Lx1uLlN3jaA6BDHF1zTdTYULL8xSLn6SJzDEwj7Tc/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 2
   * D. Sculley et al. 2015. Hidden technical debt in Machine learning systems. In Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'15). 
   * Soowon Kang et al. 2023. K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels. Sci Data 10, 351 (2023). 
 
 ### March 14: Machine Learning Pipeline - End-to-End Practice
-* Lab
-* Assignment #1: End-to-End Practice for the Housing Dataset
+* [Lab](https://colab.research.google.com/drive/14wOYdiKu-oql1knUYtqaGqYJEhMPchgO?usp=drive_link)
+* [Assignment #1: End-to-End Practice for the Housing Dataset](https://www.kaggle.com/t/b14e2f63741e4508a032a0866e42a460)
   * Due: March 20
 * Reference
   * [Ge23] Chap. 3
@@ -91,16 +91,14 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## W03: Linear Model
-### March 18: 1st Order Linear Model
-* Lecture
-* Lab
+### March 18: Linear Model - Theory
+* [Lecture](https://docs.google.com/presentation/d/19LLAnK11BOA39LrH_Uh0GrR_QCGPDYTSXkuoWNDwqxo/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
 
-### March 21: Polynomial Model, Regularized Linear Model, and Logistic Regression
-* Lecture
-* Lab
+### March 21: Linear Model - Lab
+* [Lab](https://colab.research.google.com/drive/1W2IEfpdErz0ciFharcVMmbV-ooUT9Qyt?usp=drive_link)
 * Reference
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
