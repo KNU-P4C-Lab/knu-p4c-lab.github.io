@@ -20,7 +20,7 @@ Grad. School of Knowledge Service Engineering, Korea Advanced Institute of Scien
 ## M.S in Knowledge Service Engineering (Mar. 2013 - Feb. 2015)
 Grad. School of Knowledge Service Engineering, Korea Advanced Institute of Science and Technology (KAIST), South Korea (Advisor: Uichin Lee)
 
-## Ph.D. in Knowledge Service Engineering (Mar. 2006 - Feb. 2013)
+## B.S in Computer Science (Mar. 2006 - Feb. 2013)
 Department of Computer Science, Korea Advanced Institute of Science and Technology (KAIST), South Korea
 
 # Work Experience

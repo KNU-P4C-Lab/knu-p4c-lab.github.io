@@ -83,7 +83,7 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ### March 14: Machine Learning Pipeline - End-to-End Practice
 * [Lab](https://colab.research.google.com/drive/14wOYdiKu-oql1knUYtqaGqYJEhMPchgO?usp=drive_link)
-* [Assignment #1: End-to-End Practice for the Housing Dataset](https://www.kaggle.com/t/b14e2f63741e4508a032a0866e42a460)
+* [Assignment #1: End-to-End Practice for the Housing Dataset](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt1)
   * Due: March 20
 * Reference
   * [Ge23] Chap. 3
@@ -107,33 +107,33 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W04: Support Vector Machine and Decision Tree
 ### March 25: Support Vector Machine
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1ylhZxtYVyjxgAfw6CTRWs12G9fC0WKVxjXaReMavFso/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1i5DTEsxU-Zq6pytM3g5Fpy_rTnZ3a2eF?usp=drive_link)
 * Reference
   * [Ge23] Chap. 5
   * [Oh21] Chap. 11
 
 ### March 28: Decision Tree
-* Lecture
-* Lab
-* Assignment #2: Wine Quality
+* [Lecture](https://docs.google.com/presentation/d/192fpJCDUQv3oKL-2zPmhwEjoEhsXTLfR6PSqPYWhJoo/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1thviWHfEwF3N5qrxV1SiGFTV-CUW2RqU?usp=drive_link)
+* [Assignment #2: Wine Quality](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt2)
   * Due: April 03
 * Reference
   * [Ge23] Chap. 6
 
 ---
 
-## W05: Ensemble Model
-### April 01: Random Forest
-* Lecture
-* Lab
+## W05: Ensemble Learning
+### April 01: Basics & Random Forest
+* [Lecture](https://docs.google.com/presentation/d/1SrNJKv68hq2rjHVPyzA_mLZUwGxknzCTs5c45vQ-eCM/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1QhgdDpOPe8_SY0Xl1HtYK6ervJX2zK9f?usp=drive_link)
 * Reference
   * [Ge23] Chap. 7
   * [Oh21] Chap. 12
 
-### April 04: Gradient Boosted Tree
-* Lecture
-* Lab
+### April 04: Gradient Boosting
+* [Lecture](https://docs.google.com/presentation/d/1khoi9epwkYnsAeOCK6OvEjPBj4RpAgzEpvr5UIP0WWY/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1YSJD1wWFYSM0D3s4XsI8ONHGZM9SrYtp?usp=drive_link)
 * Reference
   * [Ge23] Chap. 7
 

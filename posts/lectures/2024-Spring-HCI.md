@@ -32,7 +32,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 - 중간고사 (20%): 객관식 25문항
 - 팀 디자인 과제Design Project (50%)
   - DP #0 - Team Formation (0%)
-  - Presentation: DP #1 - Need Finding (6%)
+  - [Presentation: DP #1 - Need Finding (6%)](https://drive.google.com/file/d/1M9W6Mx8c4XXmqkCXWakvlMa8gAN2QjtK/view?usp=drive_link)
   - Presentation: DP #2 - Ideation (6%)
   - Presentation: DP #3 - Paper Prototyping (6%)
   - Presentation: DP #4 - Digital Prototyping (6%)
@@ -71,7 +71,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 ---
 
 ## W02: Need Finding
-### March 11: Need Finding - Theory
+### March 11: Need Finding - Lecture
 * [Lecture](https://docs.google.com/presentation/d/1qTFUgKoJzjdmYaDp_BrDuAG3FD7Ulnpb1pcy8Z511Yk/edit?usp=drive_link)
 * (Announce) [DP #1 - Need Finding](https://docs.google.com/document/d/1REMBy_P2AdKjB2BnlY_vQEGRIogf-TrV-TEHVglWFro/edit?usp=drive_link)
   * Due: March 21 
@@ -86,9 +86,9 @@ description: "This course aims to provide broad knowledge about interaction desi
 ---
 
 ## W03: Learnability #1
-### March 18: Learnability #1 - Theory
+### March 18: Learnability - Lecture
 * [Lecture](https://docs.google.com/presentation/d/1A0N9dns1I1Nn4rVeQTZlnj0u2n22Q-Tqjmq7kcKycX0/edit?usp=drive_link)
-### March 21: Learnability #1 - In-class Activity
+### March 21: Learnability - In-class Activity
 * [In-class Activity #2](https://docs.google.com/document/d/1NhC8Cz2zTaVyBxIeMITEDBPjnSlgmnrdXI447r3RDUk/edit?usp=drive_link)
   * Learnability problems in Kiosk (30m)
   * Learnability problems in Smart home appliances (30m)
@@ -97,27 +97,27 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ## W04: Ideation
 ### March 25: DP #1 - Need Finding
-* Presentation: DP #1 - Need Finding 
-### March 28: Ideation - Theory
-* Lecture
-* (Announce) DP #2 - Ideation
+* [Presentation: DP #1 - Need Finding](https://drive.google.com/file/d/1M9W6Mx8c4XXmqkCXWakvlMa8gAN2QjtK/view?usp=drive_link) 
+### March 28: Ideation - Lecture
+* [Lecture](https://docs.google.com/presentation/d/11LQyKiRO-Mzn89pDwtyrqH3Rdx6Hm-FnTF_AYyBT_bg/edit?usp=drive_link)
+* (Announce) [DP #2 - Ideation](https://docs.google.com/document/d/134SH4PqL74ZhlzTMUuBjd2eXLmNHK7XayAxrz3ha_0g/edit?usp=drive_link)
   * Due: April 08
 ---
 
-## W05: Learnability #2
+## W05: More Learnability
 ### April 01: Ideation - In-class Activity
-* In-class Activity #3
-  * POV Exercise (30m)
-  * HMW Exercise (30m)
-### April 04: Learnability #2 - Theory
-* Lecture
+* [In-class Activity #3](https://docs.google.com/document/d/1Dlh4FA9Vc5HZf3A6yq4cRbHlid3_phx01HP_SsYtaio/edit?usp=drive_link)
+  * Storyboarding (20m)
+  * POV + HMW Exercise (30m)
+### April 04: More Learnability
+* [Lecture](https://docs.google.com/presentation/d/1o2sZX2rXJ-0xmtPUbiZ9W2ZDfhMS5yfvcbMw4B4ygYg/edit?usp=drive_link)
 
 ---
 
 ## W06: Paper Prototyping
 ### April 08: DP #2 - Ideation
 * Presentation: DP #2 - Ideation
-### April 11: Paper Prototyping - Theory
+### April 11: Paper Prototyping - Lecture
 * Lecture
 * (Announce) DP #3 - Paper Prototyping
   * Due: April 29
@@ -128,7 +128,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 * In-class Activity #4
   * Paper-prototyping a room reservation system(40m)
   * Testing the paper prototype (20m)
-### April 18: Efficiency - Theory
+### April 18: Efficiency - Lecture
 * Lecture
 ---
 
@@ -143,7 +143,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 ## W09: Digital Prototyping
 ### April 29: DP #3 - Paper Prototyping
 * Presentation: DP #3 - Paper Prototyping
-### May 02: Digital Prototyping - Theory
+### May 02: Digital Prototyping - Lecture
 * Lecture
 * (Announce) DP #4 - Digital Prototyping
   * Due: May 16
@@ -159,7 +159,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 ---
 
 ## W11: Safety and Error
-### May 13: Safety and Error - Theory
+### May 13: Safety and Error - Lecture
 * Lecture
 * (Announce) DP #5 - Heuristic Evaluation
   * Due: May 27
@@ -170,9 +170,9 @@ description: "This course aims to provide broad knowledge about interaction desi
 ---
 
 ## W12: Aesthetics/Heuristic Evaluation
-### May 20: Aesthetics - Theory
+### May 20: Aesthetics - Lecture
 * Lecture
-### May 23: Heuristic Evaluation - Theory
+### May 23: Heuristic Evaluation - Lecture
 * Lecture
 
 ---
@@ -181,12 +181,12 @@ description: "This course aims to provide broad knowledge about interaction desi
 ### May 27: Heuristic Evaluation - In-class Activity
 * In-class Activity: DP #5 - Heuristic evaluation
   * Heuristic evaluation on the project's artifact
-### May 30: Efficiency - Theory
+### May 30: Efficiency - Lecture
 * Lecture
 ---
 
 ## W14: User Testing
-### June 03: User Testing - Theory
+### June 03: User Testing - Lecture
 * Lecture
 * (Announce) DP #6 - User Testing
   * Due: June 10
