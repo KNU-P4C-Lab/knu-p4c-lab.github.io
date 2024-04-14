@@ -141,16 +141,16 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W06: Feature Engineering #1
 ### April 08: Feature Extraction
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1Bkc0roCiQEMta6i5UGlU1BfapOsJMng4oY2qv-ckvP4/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/17jRogr-GNo6_mv9JATIWkjzcdyvePLzZ?usp=drive_link)
 * Reference
   * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
   * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
 
 ### April 11: Feature Selection
-* Lecture
-* Lab
-* Assignment #3: Student Dropout vs. Success 
+* [Lecture](https://docs.google.com/presentation/d/1eWf65WIxFwl_ydln_sgOv3RmMUiIumakSMjun1JDE_g/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1XwyiRYumi1v9l-e7FaTtg75n_f_B0lj4?usp=drive_link)
+* [Assignment #3: Student Dropout vs. Success](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt3) 
   * Due: April 17
 * Reference
   * [Br20] Chap. 4
@@ -158,8 +158,8 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 ## W07: Feature Engineering #2
 ### April 15: Dimensionality Reduction
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1Vr27EMjYZHqw9_yEUuauM6c4dn1qMHp8U1f661kOicE/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/18rzjKuzANZSANLFm9svGdmomdi3RK6Tr?usp=drive_link)
 * Reference
   * [Ge23] Chap. 8
   * [Br20] Chap. 7
@@ -172,7 +172,7 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## W08: Midterm
-* Midterm Assignment (April 22 - April 28): Young Adult's Affective Data - ECG and GSR Signals
+* Midterm Assignment (April 22 - April 26): Young Adult's Affective Data - ECG and GSR Signals
 ---
 
 ## W09: Cross-Validation and Hyper-parameter Tuning

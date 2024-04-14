@@ -1,5 +1,5 @@
 ---
-name: "Sungbin Kim.md"
+name: Sungbin Kim
 type: undergraduate
 position: Undergraduate Student
 homepage: ""

@@ -116,19 +116,19 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ## W06: Paper Prototyping
 ### April 08: DP #2 - Ideation
-* Presentation: DP #2 - Ideation
+* [Presentation: DP #2 - Ideation](https://drive.google.com/file/d/1UghHCsozuS62CGi5lYQu-VGhLpZhJZLH/view?usp=drive_link)
 ### April 11: Paper Prototyping - Lecture
-* Lecture
-* (Announce) DP #3 - Paper Prototyping
+* [Lecture](https://docs.google.com/document/d/1-C1raU0GSFiM1CQTwQfP_dtcT5S9a5iGxRwhqQgKUt4/edit?usp=drive_link)
+* (Announce) [DP #3 - Paper Prototyping](https://docs.google.com/presentation/d/1FeLpAH837CXWGwEJoPwLghuA6jtiQDjPaSJCK-tYmKs/edit?usp=drive_link)
   * Due: April 29
 ---
 
 ## W07: Paper Prototyping
 ### April 15: Paper Prototyping - In-class Activity
-* In-class Activity #4
+* [In-class Activity #4](https://docs.google.com/document/d/1fzn8hUCi2TifphnTu7HT8lK8UoKgNpBQlGulV9pAOmY/edit?usp=drive_link)
   * Paper-prototyping a room reservation system(40m)
   * Testing the paper prototype (20m)
-### April 18: Efficiency - Lecture
+### April 18: Efficiency
 * Lecture
 ---
 
@@ -137,7 +137,6 @@ description: "This course aims to provide broad knowledge about interaction desi
 * No class
 ### April 25
 * Midterm Exam
-
 ---
 
 ## W09: Digital Prototyping
@@ -147,7 +146,6 @@ description: "This course aims to provide broad knowledge about interaction desi
 * Lecture
 * (Announce) DP #4 - Digital Prototyping
   * Due: May 16
-
 ---
 
 ## W10: Digital Prototyping
@@ -177,11 +175,11 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ---
 
-## W13: Efficiency
+## W13: More Efficiency
 ### May 27: Heuristic Evaluation - In-class Activity
 * In-class Activity: DP #5 - Heuristic evaluation
   * Heuristic evaluation on the project's artifact
-### May 30: Efficiency - Lecture
+### May 30: More Efficiency
 * Lecture
 ---
 
