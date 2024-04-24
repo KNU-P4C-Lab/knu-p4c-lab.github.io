@@ -129,7 +129,7 @@ description: "This course aims to provide broad knowledge about interaction desi
   * Paper-prototyping a room reservation system(40m)
   * Testing the paper prototype (20m)
 ### April 18: Efficiency
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1ivR3Y4mQN0BHozpMDBmkcw1yU2Wl31WFDcuuhY5kI-A/edit?usp=drive_link)
 ---
 
 ## W08: Midterm

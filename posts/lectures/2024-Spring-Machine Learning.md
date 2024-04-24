@@ -37,9 +37,9 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Grading Policy
 ### 팀 프로젝트Team Project (30%)
-- End-to-End Machine Learning Projects for Human Activity Recognition
-  - #1 (10%): Data collection, preprocessing, and annotation for HAR
-  - #2 (20%): Model building and evaluation for HAR
+- End-to-End Machine Learning Projects
+  - #1 (10%): Data collection
+  - #2 (20%): Model building and evaluation
 
 ### 개인 과제Assignments (40%)
 - Kaggle ML Competition
@@ -50,7 +50,7 @@ description: "This course covers theoretical backgrounds and practical implement
   - #5 (9%): Doom or Animal Crossing
   
 ### 중간 과제Midterm Assignment (20%)
-  - Kaggle ML Competition: Young Adult's Affective Data - ECG and GSR Signals
+  - Kaggle ML Competition: Classifying Emotions during Debate using Physiological Responses
 
 ### 출석Attendance (10%)
   - 지각 3회 = 결석 1회
@@ -172,20 +172,30 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## W08: Midterm
-* Midterm Assignment (April 22 - April 26): Young Adult's Affective Data - ECG and GSR Signals
+* [Midterm Assignment (April 22 - April 26): Classifying Emotions during Debate using Physiological Responses](https://www.kaggle.com/competitions/2024-knu-ml-midterm)
 ---
 
-## W09: Cross-Validation and Hyper-parameter Tuning
+## W09: Cross-Validation and Performance Measures
 ### April 29: Cross-Validation
-* Lecture
-* Lab
-* Team Assignment #1: Data Collection, Preprocessing, and Annotation for HAR
+* [Lecture](https://docs.google.com/presentation/d/1mfXA8ZTeZAGl9Ti92oiMk1DOdZKF4NCaXdauDWnb_mM/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1otfzUoLrfKSnmuINb0A_I-UBgFxqxh9d?usp=drive_link)
+* [Team Assignment #1: HIIT Workout Data Collection](https://docs.google.com/document/d/1lphQPFxZrGUJ2EBI5urmJG3JM_YP6eW_2CEfZHDD0cU/edit?usp=drive_link)
   * Due: May 12
 * Reference
   * Berrar, D. 2019. Cross-Validation
-  * HAPT Dataset?
 
-### May 02: Hyper-parameter Tuning
+### May 02: Performance Measures
+* [Lecture](https://docs.google.com/presentation/d/1wUoseq7tC5ZHPbbBb1t_QFnKK4VfZILsf0jbRP_qgSU/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1UImG6uC1oap32mw2gwjIJVKR-Mc2_a-t?usp=drive_link)
+* Reference
+  * [Br21] Chap. 3
+---
+
+## W10: Hyper-parameter Tuning
+### May 06: Substitution Holiday for Children's Day
+* No class
+
+### May 09: Hyper-parameter Tuning
 * Lecture
 * Lab
 * Reference
@@ -193,21 +203,8 @@ description: "This course covers theoretical backgrounds and practical implement
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 ---
 
-## W10: Unsupervised Learning
-### May 06: Substitution Holiday for Children's Day
-* No class
-
-### May 09: Clustering
-* Lecture
-* Lab
-* References
-  * [Ge23] Chap. 9
-  * [Oh21] Chap. 6
-
----
-
-## W11: Artificial Neural Network
-### May 13: Anomaly Detection
+## W11: Clustering and Anomaly Detection / Artificial Neural Network
+### May 13: Clustering and Anomaly Detection
 * Lecture
 * Lab
 * References
@@ -220,7 +217,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * References
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
-
 ---
 
 ## W12: Deep Neural Network
