@@ -141,10 +141,10 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ## W09: Digital Prototyping
 ### April 29: DP #3 - Paper Prototyping
-* Presentation: DP #3 - Paper Prototyping
+* [Presentation: DP #3 - Paper Prototyping](https://drive.google.com/file/d/1YitmGb8b2uccDx0wGj5340l4SZfYl4PW/view?usp=drive_link)
 ### May 02: Digital Prototyping - Lecture
-* Lecture
-* (Announce) DP #4 - Digital Prototyping
+* [Lecture](https://docs.google.com/presentation/d/1OiES1oTOALkUpVKll196WnzrmaF__ZfHxwiauAsU2DA/edit?usp=drive_link)
+* (Announce) [DP #4 - Digital Prototyping](https://docs.google.com/document/d/1_CoZ5YIUmbs5niDzxhrShONTBwsPxbTq9vrl8U91ciM/edit?usp=drive_link)
   * Due: May 16
 ---
 
@@ -152,7 +152,7 @@ description: "This course aims to provide broad knowledge about interaction desi
 ### May 06: Substitution Holiday for Children's Day
 * No class
 ### May 09: Digital Prototyping - In-class Activity
-* In-class Activity #5
+* [In-class Activity #5](https://docs.google.com/document/d/1chXgMurJOH0BQNMzG0BJDslmmVmunFgILeDsu9MFS8Q/edit?usp=drive_link)
   * Digital-prototyping a room reservation system (40m)
 ---
 

@@ -195,32 +195,32 @@ description: "This course covers theoretical backgrounds and practical implement
 ### May 06: Substitution Holiday for Children's Day
 * No class
 
-### May 09: Hyper-parameter Tuning
+### May 09: Hyper-parameter Tuning #1
 * Lecture
 * Lab
 * Reference
-  * [Ow22] Chap. 2, 3, 4, 7, 8, 9.
+  * [Ow22] Chap. 2, 3, 4, 7, 8
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 ---
 
-## W11: Clustering and Anomaly Detection / Artificial Neural Network
-### May 13: Clustering and Anomaly Detection
+## W11: Clustering
+### May 13: Hyper-parameter Tuning #2
+* Lecture
+* Lab
+* Reference
+  * [Ow22] Chap. 5, 6, 9, 10
+  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+
+### May 16: Clustering
 * Lecture
 * Lab
 * References
   * [Ge23] Chap. 9
   * [Oh21] Chap. 6
-
-### May 16: Artificial Neural Network #1
-* Lecture
-* Lab
-* References
-  * [Ge23] Chap. 10
-  * [Oh21] Chap. 3
 ---
 
-## W12: Deep Neural Network
-### May 20: Artificial Neural Network #2
+## W12: Artificial & Deep Neural Network
+### May 20: Artificial Neural Network
 * Lecture
 * Lab
 * Assignment #4: Nurse Stress Prediction using Wearable Sensors
@@ -229,63 +229,58 @@ description: "This course covers theoretical backgrounds and practical implement
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
 
-### May 23: Deep Neural Network #1
+### May 23: Deep Neural Network
 * Lecture
 * Lab
 * References
   * [Ge23] Chap. 11
   * [Oh21] Chap. 4, 5
-
 ---
 
-## W13: Convolution Neural Network #1
-### May 27: Deep Neural Network #2
+## W13: Convolution & Recurrent Neural Network
+### May 27: Convolution Neural Network
 * Lecture
 * Lab
 * Team Assignment #2: Model Building and Evaluation for HAR
   * Due: June 20
 * References
-  * [Ge23] Chap. 11
-  * [Oh21] Chap. 4, 5
-
-### May 30: Convolution Neural Network #1
-* Lecture
-* Lab
-* References
   * [Ge23] Chap. 14
   * [Oh21] Chap. 4
 
+### May 30: Recurrent Neural Network
+* Lecture
+* Lab
+* References
+  * [Ge23] Chap. 15
+  * [Oh21] Chap. 8
 ---
 
-## W14: Convolution Neural Network #2
-### June 03: Convolution Neural Network #2
+## W14: Autoencoder 
+### June 03: Autoencoder
 * Lecture
 * Lab
 * Assignment #5: Doom or Animal Crossing?
   * Due: June 12
 * References
-  * [Ge23] Chap. 14
-  * [Oh21] Chap. 4
+  * [Ge23] Chap. 17
 
 ### June 06: Memorial Day
 * No class
 
 ---
 
-## W15: Recurrent Neural Network
-### June 10: Recurrent Neural Network #1
+## W15: Generative Models & Reinforcement Learning
+### June 10: Generative Models
 * Lecture
 * Lab
 * References
-  * [Ge23] Chap. 15
-  * [Oh21] Chap. 8
+  * [Ge23] Chap. 17
   
-### June 13: Recurrent Neural Network #2
+### June 13: Reinforcement Learning
 * Lecture
 * Lab
 * References
-  * [Ge23] Chap. 15
-  * [Oh21] Chap. 8
+  * [Ge23] Chap. 18
 
 ---
 
