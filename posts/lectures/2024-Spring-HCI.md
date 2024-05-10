@@ -30,23 +30,22 @@ description: "This course aims to provide broad knowledge about interaction desi
 
 ## Grading Policy
 - 중간고사 (20%): 객관식 25문항
-- 팀 디자인 과제Design Project (50%)
+- 팀 디자인 과제Design Project (46%)
   - DP #0 - Team Formation (0%)
   - [Presentation: DP #1 - Need Finding (6%)](https://drive.google.com/file/d/1M9W6Mx8c4XXmqkCXWakvlMa8gAN2QjtK/view?usp=drive_link)
   - Presentation: DP #2 - Ideation (6%)
   - Presentation: DP #3 - Paper Prototyping (6%)
   - Presentation: DP #4 - Digital Prototyping (6%)
-  - Presentation: Final Presentation (24%) 
-    - DP #5 - Heuristic Evaluation (6%)
-    - DP #6 - User Testing (6%)
-    - DP #7 - Demo (12%)
+  - Presentation: DP #4 - Digital Prototyping (6%)
+  - Presentation: DP #5 & DP #6 - Heuristic Evaluation & User Testing (20%)
   - Extra: Early-bird benefit (2%)
-- 수업 내 활동In-class Activity (20%)
+- 수업 내 활동In-class Activity (24%)
   - In-class Activity #1 - Need Finding (4%)
   - In-class Activity #2 - Learnability (4%)
   - In-class Activity #3 - Ideation (4%)
   - In-class Activity #4 - Paper Prototyping (4%)
   - In-class Activity #5 - Digital Prototyping (4%)
+  - In-class Activity #6 - Heuristic Evaluation (4%)
   - ※ 수업 내 활동은 결석/또는 지각 시 점수를 받을 수 없음
 - 출석 (10%)
   - 지각 3회 = 결석 1회
@@ -153,60 +152,57 @@ description: "This course aims to provide broad knowledge about interaction desi
 * No class
 ### May 09: Digital Prototyping - In-class Activity
 * [In-class Activity #5](https://docs.google.com/document/d/1chXgMurJOH0BQNMzG0BJDslmmVmunFgILeDsu9MFS8Q/edit?usp=drive_link)
-  * Digital-prototyping a room reservation system (40m)
+  * Digital-prototyping a room reservation service (40m)
 ---
 
 ## W11: Safety and Error
-### May 13: Safety and Error - Lecture
-* Lecture
-* (Announce) DP #5 - Heuristic Evaluation
-  * Due: May 27
+### May 13: Midterm Exam Explanation
+* Session for explaining midterm exam
 
 ### May 16: DP #4 - Digital Prototyping
 * Presentation: DP #4 - Digital Prototyping
-
 ---
 
-## W12: Aesthetics/Heuristic Evaluation
-### May 20: Aesthetics - Lecture
+## W12: Heuristic Evaluation
+### May 20: Heuristic Evaluation - Lecture
 * Lecture
-### May 23: Heuristic Evaluation - Lecture
-* Lecture
+* (Announce) DP #5 - Heuristic Evaluation
+  * Due: May 26
 
+### May 23: Heuristic Evaluation - In-class Activity
+* In-class Activity #6
+  * Heuristic evaluation on a digital prototype of the room reservation service
 ---
 
-## W13: More Efficiency
-### May 27: Heuristic Evaluation - In-class Activity
-* In-class Activity: DP #5 - Heuristic evaluation
-  * Heuristic evaluation on the project's artifact
-### May 30: More Efficiency
+## W13: Color & Typography
+### May 27: DP #5 - Heuristic Evaluation
+* (In-class activity) DP #5 - Heuristic Evaluation
+  
+### May 30: Color & Typography - Lecture
 * Lecture
 ---
 
-## W14: User Testing
-### June 03: User Testing - Lecture
+## W14: Visual Layout
+### June 03: Visual Layout - Lecture
 * Lecture
 * (Announce) DP #6 - User Testing
-  * Due: June 10
+  * Due: June 16 & June 19
 
 ### June 06: Holiday - Memorial Day
 * No class
-
 ---
 
-## W15: User Testing
-### June 10: User Testing - In-class Activity
-* (Announce) DP #7 - Final Presentation
-* In-class Activity: DP #6 - User testing
-  * User testing on the project's artifact
+## W15: User Testing / Safety & Error
+### June 10: User Testing - Lecture
+* Lecture
 
-### June 13: Q&A Session
-* Optional attendance
+### June 13: Safety & Error - Lecture
+* Lecture
 ---
 
 ## W16: Final Presentation
-### June 17: Final Presentation 
-* Presentation: DP #7 - Final Presentation
+### June 17: User Testing 
+* Presentation: DP #6 - User Testing
 
-### June 20
-* Presentation: DP #7 - Final Presentation
+### June 20: User Testing
+* Presentation: DP #6 - User Testing

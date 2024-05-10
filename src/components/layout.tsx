@@ -87,13 +87,11 @@ const Layout = ({activeLink, children}: { activeLink?: string, children: React.R
                             </div>
                         </Link>
                         <div className="flex md:order-2 space-x-3">
-                            <DarkThemeToggle/>
                             <button type="button"
                                     className="inline-flex items-center p-2 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
                                     aria-controls="navbar"
                                     data-collapse-toggle="navbar"
                                     aria-expanded="false"
-
                             >
                                 <FaBars className='w-6 h-6' aria-hidden='true'/>
                             </button>
