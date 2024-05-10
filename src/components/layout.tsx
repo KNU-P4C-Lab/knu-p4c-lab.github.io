@@ -1,7 +1,7 @@
 import * as React from "react"
 import {graphql, Link, useStaticQuery} from "gatsby";
 import {
-    Flowbite, DarkThemeToggle, Banner
+    Flowbite, Banner
 } from "flowbite-react";
 import {FaGithub, FaCalendarDays, FaBars} from "react-icons/fa6";
 import {MdAnnouncement, MdOutlineAlternateEmail} from "react-icons/md";
