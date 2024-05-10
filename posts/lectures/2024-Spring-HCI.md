@@ -155,7 +155,7 @@ description: "This course aims to provide broad knowledge about interaction desi
   * Digital-prototyping a room reservation service (40m)
 ---
 
-## W11: Safety and Error
+## W11: Midterm Exam Explanation
 ### May 13: Midterm Exam Explanation
 * Session for explaining midterm exam
 
