@@ -163,27 +163,27 @@ description: "This course aims to provide broad knowledge about interaction desi
 * Presentation: DP #4 - Digital Prototyping
 ---
 
-## W12: Heuristic Evaluation
-### May 20: Heuristic Evaluation - Lecture
+## W12: Safety and Error / Heuristic Evaluation
+### May 20: Safety and Error - Lecture
+* Lecture
+
+### May 23: Heuristic Evaluation - Lecture
 * Lecture
 * (Announce) DP #5 - Heuristic Evaluation
-  * Due: May 26
+  * Due: May 29
+---
 
-### May 23: Heuristic Evaluation - In-class Activity
+## W13: Heuristic Evaluation
+### May 27: Heuristic Evaluation - In-Class Activity
 * In-class Activity #6
   * Heuristic evaluation on a digital prototype of the room reservation service
+
+### May 30: DP #5 - Heuristic Evaluation
+* (In-Class activity) DP #5 - Heuristic Evaluation
 ---
 
-## W13: Color & Typography
-### May 27: DP #5 - Heuristic Evaluation
-* (In-class activity) DP #5 - Heuristic Evaluation
-  
-### May 30: Color & Typography - Lecture
-* Lecture
----
-
-## W14: Visual Layout
-### June 03: Visual Layout - Lecture
+## W14: User Testing
+### June 03: User Testing
 * Lecture
 * (Announce) DP #6 - User Testing
   * Due: June 16 & June 19
@@ -192,11 +192,11 @@ description: "This course aims to provide broad knowledge about interaction desi
 * No class
 ---
 
-## W15: User Testing / Safety & Error
-### June 10: User Testing - Lecture
+## W15: Aesthetics
+### June 10: Color & Typography - Lecture
 * Lecture
 
-### June 13: Safety & Error - Lecture
+### June 13: Visual Layout - Lecture
 * Lecture
 ---
 
