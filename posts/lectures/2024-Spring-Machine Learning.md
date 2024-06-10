@@ -29,7 +29,8 @@ description: "This course covers theoretical backgrounds and practical implement
   * [Ow22] Louis Owen. 2022. Hyperparameter Tuning with Python: Boost your machine learning model’s performance via hyperparameter tuning. Packt.
   * [Br20] Jason Brownlee. 2020. Data Preparation for Machine Learning, 1.1 Ed. Machine Learning Mastery
   * [Br21] Jason Brownlee. 2021. Imbalanced Classification with Python, 1.3 Ed. Machine Learning Mastery
-
+  * [Mo24] Christoph Molnar. 2024. Interpretable Machine Learning
+  * [Ma23] Serg Masis. Interpretable Machine Learning with Python. 2023
 ## Prerequisite
 * (필수) 파이썬프로그래밍
   * 파이썬 사용법 및 Numpy/Pandas 라이브러리 사용법은 숙지된 상태라고 가정하고 수업을 진행
@@ -74,7 +75,7 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## W02: Machine Learning Pipeline
-### March 11: Machine Learning Pipeline - Theory
+### March 11: Machine Learning Pipeline - Lecture
 * [Lecture](https://docs.google.com/presentation/d/1D3Lx1uLlN3jaA6BDHF1zTdTYULL8xSLn6SJzDEwj7Tc/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 2
@@ -196,8 +197,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * No class
 
 ### May 09: Hyper-parameter Tuning #1
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1CjfExEZEw8UfBJfWTCAxJZYSQdcAoIu5kE7kJeG_6pM/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1dVzREBGXCCT_E5hOeJbMGsQqBw10KlsX?ouid=110509681883306980843&usp=drive_link)
 * Reference
   * [Ow22] Chap. 2, 3, 4, 7, 8
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
@@ -205,15 +206,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W11: Clustering
 ### May 13: Hyper-parameter Tuning #2
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1xIylvNEbJrlV5Ads3MA-rHOz9gmMwlsH8qMYF1B9Bog/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/17fdnnGtlj3HIvp332J66kPnqZ9sfwlNi?ouid=110509681883306980843&usp=drive_link)
 * Reference
   * [Ow22] Chap. 5, 6, 9, 10
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 
 ### May 16: Clustering
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1Uw_Hqyka2ArKKUz9oxz1noUvJQb1tv6SBf8Js06Dqr8/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1V8js7fjls-_hT8_srWzThv939BeYq8nf?ouid=110509681883306980843&usp=drive_link)
 * References
   * [Ge23] Chap. 9
   * [Oh21] Chap. 6
@@ -221,17 +222,17 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W12: Artificial & Deep Neural Network
 ### May 20: Artificial Neural Network
-* Lecture
-* Lab
-* Assignment #4: Nurse Stress Prediction using Wearable Sensors
-  * Due: June 02
+* [Lecture](https://docs.google.com/presentation/d/1co3vV3ZVjUKm8mxxePtixy8PzLQGT96KQmJUsClb6eQ/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1cOf6cOiDWwLPQymK1W5ED2QiZlR1bWlv?ouid=110509681883306980843&usp=drive_link)
 * References
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
 
 ### May 23: Deep Neural Network
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1yrod4UCyLWsi6CrkhMBfX4NYsMuHL7Iw7GWRBPTYHnE/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1G0dxO17hTcH2X9HLG6NamNPn7vgOVrBV?usp=drive_link)
+* [Assignment #4: Nurse Stress Prediction using Wearable Sensors](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt4)
+  * Due: May 29
 * References
   * [Ge23] Chap. 11
   * [Oh21] Chap. 4, 5
@@ -239,17 +240,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W13: Convolution & Recurrent Neural Network
 ### May 27: Convolution Neural Network
-* Lecture
-* Lab
-* Team Assignment #2: Model Building and Evaluation for HAR
-  * Due: June 20
+* [Lecture](https://docs.google.com/presentation/d/10obsFJAq94lU4WFKe6tuF48zHgG8zTqoPbm6pnNyC8U/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/11CT_Ku6xfMuU_Dc9QyiYqOs7HyiqzWmX?usp=drive_link)
 * References
   * [Ge23] Chap. 14
   * [Oh21] Chap. 4
 
 ### May 30: Recurrent Neural Network
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1Z_I1v1X_dQ1fZPUioaGE2746bDq92kb7ok6gs2dsVOY/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1TXe6JXHmNW0UUo3KTmLuIa5nLrsNyAec?ouid=110509681883306980843&usp=drive_link)
 * References
   * [Ge23] Chap. 15
   * [Oh21] Chap. 8
@@ -257,10 +256,10 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## W14: Autoencoder 
 ### June 03: Autoencoder
-* Lecture
-* Lab
-* Assignment #5: Doom or Animal Crossing?
-  * Due: June 12
+* [Lecture](https://docs.google.com/presentation/d/1QWt1sNHGmjFBOVn_FpBhwDHTl-tg5fpqZyH5Fy2-voY/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1Z42x45t2R6PTe6tDwJ2XItY3O6wcPr5h?usp=drive_link)
+* [Assignment #5: Doom or Animal Crossing?](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt5)
+  * Due: June 09
 * References
   * [Ge23] Chap. 17
 
@@ -269,20 +268,27 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ---
 
-## W15: Generative Models & Reinforcement Learning
+## W15: Generative Models & Interpretable Machine Learning
 ### June 10: Generative Models
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1KzlRiNVNSy9f_bpcNBBUe6l5_s8Ey2ziRfARTFl_qw4/edit?usp=drive_link)
+* [Lab](https://colab.research.google.com/drive/1qgg6k_fuE5xv3EgOCVXEtIceZv6RV42W?usp=drive_link)
+* [Team Assignment #2: Predicting HIIT Workout](https://www.kaggle.com/competitions/2024-knu-ml-team-asmt)
+  * Due: June 19
 * References
   * [Ge23] Chap. 17
   
-### June 13: Reinforcement Learning
+### June 13: Interpretable Machine Learning
 * Lecture
 * Lab
 * References
-  * [Ge23] Chap. 18
+  * [Mo24] Chap. 5 - 10
+  * [Ma23] Chap. 4 - 8
 
 ---
 
 ## W16: Final Term
-* No exam. Team Assignment #2 should be submitted in this week.
+### June 17: Final Term Period
+* No Class; Focus on Team Assignment #2
+
+### June 20: Final Remark
+* Summary of This Course and Announcement of Grading Policies

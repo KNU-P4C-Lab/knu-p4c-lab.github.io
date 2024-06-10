@@ -32,13 +32,12 @@ description: "This course aims to provide broad knowledge about interaction desi
 - 중간고사 (20%): 객관식 25문항
 - 팀 디자인 과제Design Project (46%)
   - DP #0 - Team Formation (0%)
-  - [Presentation: DP #1 - Need Finding (6%)](https://drive.google.com/file/d/1M9W6Mx8c4XXmqkCXWakvlMa8gAN2QjtK/view?usp=drive_link)
-  - Presentation: DP #2 - Ideation (6%)
-  - Presentation: DP #3 - Paper Prototyping (6%)
-  - Presentation: DP #4 - Digital Prototyping (6%)
-  - Presentation: DP #4 - Digital Prototyping (6%)
-  - Presentation: DP #5 & DP #6 - Heuristic Evaluation & User Testing (20%)
-  - Extra: Early-bird benefit (2%)
+  - DP #1 - Need Finding (6%)
+  - DP #2 - Ideation (6%)
+  - DP #3 - Paper Prototyping (6%)
+  - DP #4 - Digital Prototyping (6%)
+  - DP #5/#6 - Heuristic Evaluation, User Testing & Final Presentation (20 + 2%)
+    - Extra: Early-Bird Benefit (2%)
 - 수업 내 활동In-class Activity (24%)
   - In-class Activity #1 - Need Finding (4%)
   - In-class Activity #2 - Learnability (4%)
@@ -160,49 +159,50 @@ description: "This course aims to provide broad knowledge about interaction desi
 * Session for explaining midterm exam
 
 ### May 16: DP #4 - Digital Prototyping
-* Presentation: DP #4 - Digital Prototyping
+* [Presentation: DP #4 - Digital Prototyping](https://drive.google.com/file/d/1JOjMfJT_QNRAE4CIu_Ml9bG7Occ4Vvr0/view?usp=drive_link)
 ---
 
-## W12: Safety and Error / Heuristic Evaluation
-### May 20: Safety and Error - Lecture
-* Lecture
+## W12: Safety and Error / Aesthetics
+### May 20: Safety and Error
+* [Lecture](https://docs.google.com/presentation/d/1hfq08Dfo_koONlu9n4gNEZ_7yOxPcTSYVtaOhHHuThA/edit?usp=drive_link)
 
-### May 23: Heuristic Evaluation - Lecture
-* Lecture
-* (Announce) DP #5 - Heuristic Evaluation
+### May 23: Aesthetics
+* [Lecture](https://docs.google.com/presentation/d/1y1VttxXQJkZ-GHqK8Rqzd5BB8qpENX920TphriPBxls/edit?usp=drive_link)
+* (Announce) [DP #5 - Heuristic Evaluation](https://docs.google.com/document/d/1d6BHb68Ofec67P0C70j1UlMkAVfN5bSs1HoL3fGnyaw/edit?usp=drive_link)
   * Due: May 29
 ---
 
 ## W13: Heuristic Evaluation
-### May 27: Heuristic Evaluation - In-Class Activity
-* In-class Activity #6
-  * Heuristic evaluation on a digital prototype of the room reservation service
+### May 27: Heuristic Evaluation
+* [Lecture](https://docs.google.com/presentation/d/1aXivuxtG5g2lszt5xmRYqUkKYnFmmKQKwoftajxCqp0/edit?usp=drive_link)
+* [In-class Activity # 6](https://docs.google.com/document/d/1JBmQbp7gbGM3kaBtMLmy5Kt9Em06tWOR5b4YcWSjTNU/edit?usp=drive_link)
+  * Heuristic evaluation of a room reservation service (40m)
 
 ### May 30: DP #5 - Heuristic Evaluation
-* (In-Class activity) DP #5 - Heuristic Evaluation
+* [DP #5 - Heuristic Evaluation (via In-class Activity)](https://docs.google.com/document/d/1d6BHb68Ofec67P0C70j1UlMkAVfN5bSs1HoL3fGnyaw/edit?usp=drive_link)
 ---
 
-## W14: User Testing
+## W14: User Testing 
 ### June 03: User Testing
-* Lecture
-* (Announce) DP #6 - User Testing
+* [Lecture](https://docs.google.com/presentation/d/1aSpVtKO6T0_5mFeMy8MUVkGhUhbb2Dw43Xnrv-0gEkc/edit?usp=drive_link)
+* (Announce) [DP #6 - User Testing & Final Presentation](https://docs.google.com/document/d/1QQkExeAQ5m8-MAjAXcB4y7NFDWEgGtX8dlNeLSTO8bI/edit?usp=drive_link)
   * Due: June 16 & June 19
 
-### June 06: Holiday - Memorial Day
+### June 06: Memorial Day
 * No class
 ---
 
-## W15: Aesthetics
-### June 10: Color & Typography - Lecture
-* Lecture
+## W15: Accessibility / Final Presentation
+### June 10: Accessibility
+* [Lecture](https://docs.google.com/presentation/d/1qK4xjxvTimj44mj_Xwub2w7bUhV1gVANBES3-ZQ66kA/edit?usp=drive_link)
 
-### June 13: Visual Layout - Lecture
-* Lecture
+### June 13: Final Presentation (Early Bird)
+* Presentation: DP #6 - User Testing & Final Presentation
 ---
 
 ## W16: Final Presentation
-### June 17: User Testing 
-* Presentation: DP #6 - User Testing
-
-### June 20: User Testing
-* Presentation: DP #6 - User Testing
+### June 17: Final Presentation (Regular Bird)
+* Presentation: DP #6 - User Testing & Final Presentation
+ 
+### June 20: Awards & Final Remark
+* Awards Ceremony and Final Remark
