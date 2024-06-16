@@ -8,6 +8,7 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings"
 import rehypeHighlight from 'rehype-highlight'
 import rehypeKatex from 'rehype-katex'
 import remarkEmoji from 'remark-emoji'
+import remarkFrontmatter from "remark-frontmatter";
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
@@ -116,7 +117,8 @@ const config = {
                         remarkGfm,
                         remarkMath,
                         remarkEmoji,
-                        [remarkExternalLinks, { target: '_blank' }]
+                        [remarkExternalLinks, {target: '_blank'}],
+                        remarkFrontmatter
                     ],
                     rehypePlugins: [
                         rehypeSlug,
@@ -126,7 +128,7 @@ const config = {
                     ]
                 }
             },
-        }
+        },
     ]
 };
 export default config;

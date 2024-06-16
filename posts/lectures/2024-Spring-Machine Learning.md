@@ -278,8 +278,7 @@ description: "This course covers theoretical backgrounds and practical implement
   * [Ge23] Chap. 17
   
 ### June 13: Interpretable Machine Learning
-* Lecture
-* Lab
+* [Lecture](https://docs.google.com/presentation/d/1jwlDsFbCOGwU-lxnh6A9hUmxbqNt6c7aCScVXrP2xu0/edit?usp=drive_link)
 * References
   * [Mo24] Chap. 5 - 10
   * [Ma23] Chap. 4 - 8
