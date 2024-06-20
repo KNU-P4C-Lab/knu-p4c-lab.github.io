@@ -290,4 +290,4 @@ description: "This course covers theoretical backgrounds and practical implement
 * No Class; Focus on Team Assignment #2
 
 ### June 20: Final Remark
-* Summary of This Course and Announcement of Grading Policies
+* [Final Remark](https://docs.google.com/presentation/d/1cQMxIvhComFq8gV-IYwBVYHKpJ1f1ErP05Yr-uv-u5o/edit?usp=drive_link)
