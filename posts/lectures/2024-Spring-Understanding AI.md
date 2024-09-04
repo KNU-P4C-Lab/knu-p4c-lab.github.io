@@ -1,5 +1,5 @@
 ---
-code: 1130004
+code: "1130004"
 title: "인공지능의 이해 / Understanding AI"
 year: 2024
 semester: spring

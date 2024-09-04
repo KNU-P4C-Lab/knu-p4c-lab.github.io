@@ -1,5 +1,5 @@
 ---
-code: 4471019
+code: "4471019"
 title: "문제 해결 프로그래밍 / Problem Solving and Programming"
 year: 2023
 semester: fall

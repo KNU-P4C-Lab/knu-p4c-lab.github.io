@@ -1,5 +1,5 @@
 ---
-code: 4471030
+code: "4471030"
 title: "데이터베이스 / Database"
 year: 2023
 semester: fall

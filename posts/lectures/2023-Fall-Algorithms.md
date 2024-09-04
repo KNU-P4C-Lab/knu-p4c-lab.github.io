@@ -1,5 +1,5 @@
 ---
-code: 4471016
+code: "4471016"
 title: "알고리즘 / Algorithms"
 year: 2023
 semester: fall

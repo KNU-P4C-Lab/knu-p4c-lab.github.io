@@ -1,5 +1,5 @@
 import React from 'react'
-import {graphql, PageProps} from "gatsby";
+import {graphql, Link, PageProps} from "gatsby";
 import Seo from "../components/seo";
 import Layout from "../components/layout";
 import {H3, H6, Span, P, H4} from "../components/typography";
@@ -14,13 +14,18 @@ const LectureItem = ({code, title, division, description, showMore, sitePath}: {
     showMore?: boolean | null
     sitePath: string
 }) => {
+
+    const maxWords = 50
+    const descArray = description?.trim()?.split(' ') ?? []
+    const ellipsis = descArray.length > maxWords ? ' \u00B7\u00B7\u00B7' : ''
+    const truncateDesc = descArray.splice(0, maxWords).join(' ') + ellipsis
     return (
         <div className="flex flex-col text-sm items-start font-serif space-y-1">
             {code && <Span className='leading-none text-gray-400 dark:text-gray-500'>{code}</Span> }
-            <H6 className='capitalize font-sans'>
-                {title} {division && ` (${division})`}
-            </H6>
-            <P>{description}</P>
+                <H6 className='capitalize font-sans'>
+                    {title} {division && ` (${division})`}
+                </H6>
+                <P className='hidden md:flex'>{truncateDesc}</P>
             {
                 showMore &&
                 <LinkButton to={sitePath}>
@@ -42,6 +47,7 @@ const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
 
     return (
         <Layout activeLink='lectures'>
+            <div className='flex flex-col space-y-8'>
             {
                 years.map(year =>
                     <div>
@@ -52,12 +58,14 @@ const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
                                     node => node.frontmatter?.year === year && node.frontmatter?.semester === semester
                                 ).length > 0 &&
                                 <div className='flex flex-col'>
-                                    <H4 className='dark:text-primary-100 capitalize pt-2 pb-4'>{semester}</H4>
-                                    <ul className='space-y-8'>
+                                    <H4 className='dark:text-primary-100 capitalize'>{semester}</H4>
+                                    <ul className='space-y-2 pt-2 pb-4'>
                                         {
                                             lectures.nodes.filter(
                                                 node => node.frontmatter?.year === year && node.frontmatter?.semester === semester
-                                            ).map(node =>
+                                            ).sort(
+                                                (a, b) =>
+                                                    a.frontmatter?.code?.localeCompare(b.frontmatter?.code || '') || -1).map(node =>
                                                 <li>
                                                     <LectureItem
                                                         title={node.frontmatter?.title || ''}
@@ -77,6 +85,7 @@ const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
                     </div>
                 )
             }
+            </div>
         </Layout>
 )
 
