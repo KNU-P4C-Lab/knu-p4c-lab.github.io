@@ -18,7 +18,7 @@ const Seo = ({title, description, url, image} : {title?: string, description?: s
         <>
                 <meta charSet='UTF-8'/>
                 <meta property="og:site_name" content={site.siteMetadata.title}/>
-                <meta property="og:type" content='webstie'/>
+                <meta property="og:type" content='website'/>
                 <meta name='keywords' content={site.siteMetadata.keywords}/>
                 <meta name='robots' content='index, follow'/>
                 <meta name='viewport' content='width=device-width, initial-scale=1.0'/>

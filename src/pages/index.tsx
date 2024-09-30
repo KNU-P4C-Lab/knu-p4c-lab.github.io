@@ -133,7 +133,9 @@ const Index = ({ data }: PageProps<Queries.IndexPageQuery>) => {
     )
 }
 
-export const Head = () => <Seo/>
+export const Head = () => <
+    Seo title='Main'
+/>
 
 export const pageQuery = graphql`
     query IndexPage {

@@ -15,7 +15,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const SITE_METADATA = {
     title: 'P4C Lab',
     startUrl: '/',
-    siteUrl: `https://p4clab.github.io`,
+    siteUrl: `https://knu-p4c-lab.github.io`,
     slogan: 'Better Behavior with Computing',
     fullTitle: 'Pervasive, Persuasive, Personalized, Positive Computing (P4C) Lab',
     description: `Pervasive, Persuasive, Personalized, Positive Computing Laboratory (P4C Lab)
@@ -31,7 +31,7 @@ const SITE_METADATA = {
         'Republic of Korea'
     ],
     email: 'woohyeok.choi@kangwon.ac.kr',
-    github: 'https://github.com/p4clab',
+    github: 'https://github.com/KNU-P4C-Lab',
     researchGate: 'https://www.researchgate.net/profile/Woohyeok-Choi-2',
     googleScholar: 'https://scholar.google.com/citations?user=PaIwvKYAAAAJ',
     icon: 'src/images/p4c-logo.png',
