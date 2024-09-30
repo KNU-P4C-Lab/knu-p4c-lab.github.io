@@ -51,11 +51,11 @@ description: "This course introduces fundamental concepts and theories to design
 
 ## W02: Efficiency, Analysis, Order 
 ### September 09: Fibonacci Numbers / Algorithm Analysis
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1KlBDqEP6FNOi9mFAh5L-sakX_FVufJgMyhJNp-Xwlk0/edit#slide=id.g2f25d3c5f82_0_33)
 * Reference
   * [Ri 17] Chap. 1
 ### September 12: Order
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1KlBDqEP6FNOi9mFAh5L-sakX_FVufJgMyhJNp-Xwlk0/edit#slide=id.g28721a5c700_0_39)
 * Reference
   * [Ri 17] Chap. 2
 ---
@@ -63,25 +63,25 @@ description: "This course introduces fundamental concepts and theories to design
 ## W03: Divide & Conquer
 ### September 16: Chuseok Holiday
 * No Class
-### September 19: Divide & Conquer Basics / Binary Search / Merge Sort
-* Lecture
+### September 19: Divide & Conquer? / Binary Search / Merge Sort
+* [Lecture](https://docs.google.com/presentation/d/1dPS_NWcb5p1T5fJ4cxkuDT7d3NFHeqnkTFA6edeoPPk/edit#slide=id.g2df7b5336ed_0_0)
 * Reference
   * [Ri 17] Appendix B
 ---
 ## W04: Divide & Conquer
-### September 23: Recurrence Relation - General Solution
-* Lecture
+### September 23: Solution of Recurrence Relation
+* [Lecture](https://docs.google.com/presentation/d/1dPS_NWcb5p1T5fJ4cxkuDT7d3NFHeqnkTFA6edeoPPk/edit#slide=id.g2891bfa5d42_0_0)
 * Reference
   * [Ri 17] Chap. 2
-### September 26: Recurrence Relation - Asymptotic Complexity / Quick-Sort
-* Lecture
+### September 26: Quick Sort
+* [Lecture](https://docs.google.com/presentation/d/1OaiaZITEwyQegvrb9Rt8p2gZyBDgP15xMRM08BlLZe0/edit#slide=id.g3025a9b3557_0_0)
 * Reference
   * [Ri 17] Chap. 2
 ---
 
 ## W05: Divide & Conquer 
-### September 30: Matrix Multiplication
-* Lecture
+### September 30: Matrix Multiplication / Asymptotic Complexity of Recurrence Relation / Considerations on Divide & Conquer 
+* [Lecture](https://docs.google.com/presentation/d/1OaiaZITEwyQegvrb9Rt8p2gZyBDgP15xMRM08BlLZe0/edit#slide=id.g303e43caee6_0_7)
 * Reference
   * [Ri 17] Chap. 2
 

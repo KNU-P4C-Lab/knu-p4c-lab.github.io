@@ -53,13 +53,13 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Lecture](https://docs.google.com/presentation/d/1zFT2TwH90jix40d7UV0Yt8PCc6n3iBg2mE0fX21pTkE/edit?usp=drive_link)
 ---
 
-## W02: Introduction / Markov Process
+## W02: Introduction / Multi-Armed Bandits
 ### September 09: Introduction to Reinforcement Learning
 * [Lecture](https://docs.google.com/presentation/d/1TJMm8GEnZe3MQryGiENI2bxRYuXQhNPYZ1lmm2TAT_4/edit?usp=sharing)
 * Reference
   * [Ri 20] Chap. 1
-### September 12: Multi-Armed Bandit
-* Lecture
+### September 12: Multi-Armed Bandits
+* [Lecture](https://docs.google.com/presentation/d/1cabfGlcBp8CCZhU9xWNZE0MvUJF-BnNPqmK4Zx8MpgI/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 2
 ---
@@ -68,25 +68,25 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### September 16: Chuseok Holiday
 * No Class
 ### September 19: Markov Process
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1id9sY6scC2HxTcEf_0-RZzLgqaIKgp9WgMz6SPEfHoo/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 3
 ---
 
 ## W04: Dynamic Programming
-### September 23: Dynamic Programming #1
-* Lecture
+### September 23: Dynamic Programming? / Value Iteration
+* [Lecture](https://docs.google.com/presentation/d/1CLd96SC71IXm2BroVeXPo56OirutJCzdNsrpECHK7YQ/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 4
-### September 26: Dynamic Programming #2
-* Lecture
+### September 26: Policy Iteration / Dynamic Programming vs. Reinforcement Learning
+* [Lecture](https://docs.google.com/presentation/d/1CLd96SC71IXm2BroVeXPo56OirutJCzdNsrpECHK7YQ/edit#slide=id.g2f859d8ff3d_0_136)
 * Reference
   * [Ri 20] Chap. 4
 ---
 
 ## W05: Tutorial on Gymnasium
 ### September 30: Tutorial on Gymnasium
-* Lecture
+* [Lecture](https://colab.research.google.com/drive/1ZpvRoARkCRK90T3xx3Bg9heVeJ1rlbVn?usp=drive_link)
 * Reference
   * [OpenAI Gymnasium](https://gymnasium.farama.org/)
 

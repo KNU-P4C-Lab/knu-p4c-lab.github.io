@@ -173,7 +173,7 @@ export const pageQuery = graphql`
             }
             sort: {
                 frontmatter: {
-                    startDate: DESC
+                    startDate: ASC
                 }
             }
         ) {
