@@ -91,23 +91,23 @@ description: "This course introduces fundamental concepts and theories to design
 
 ## W06: Dynamic Programming
 ### October 07: Dynamic Programming Basics / Binomial Coefficient
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1WnZemaCVdirVkFM1IOX2RUniQ9X6_dxLyrstm2LHx0c/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 3
 
-### October 10: Matrix-Chain Multiplication
-* Lecture
+### October 10: Longest Common Subsequence / Matrix-Chain Multiplication
+* [Lecture](https://docs.google.com/presentation/d/1WnZemaCVdirVkFM1IOX2RUniQ9X6_dxLyrstm2LHx0c/edit#slide=id.g3071ae59f29_0_0)
 * Reference
   * [Ri 17] Chap. 3
 ---
 
 ## W07: Dynamic Programming
-### October 14: All-Pairs Shortest Path Problem
+### October 14: Minimum Edit Distance Problem / All-Pairs Shortest Path Problem
 * Lecture
 * Reference
   * [Ri 17] Chap. 3
 
-### October 17: Knapsack Problem / Traveling Salesman Problem 
+### October 17: Traveling Salesman Problem / Knapsack Problem 
 * Lecture
 * Reference
   * [Ri 17] Chap. 3
