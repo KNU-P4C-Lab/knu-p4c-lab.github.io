@@ -106,16 +106,16 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
   * [Ri 20] Chap. 5
 ---
 
-## W07: Temporal Difference Learning
-### October 14: Temporal Difference Learning #1
-* Lecture
+## W07: Temporal Difference Learning / n-Step Bootstrapping
+### October 14: Temporal Difference Learning 
+* [Lecture](https://docs.google.com/presentation/d/1Dr3PGiGdr9N_-FijjjuKP-fNXs-va7AYrcleFhEHbfE/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 6
 
-### October 17: Temporal Difference Learning #2
-* Lecture
+### October 17: n-Step Bootstrapping
+* [Lecture](https://docs.google.com/presentation/d/1JNON9pIkzIkUIRZCr_d85JOPzP6Mqac5QOY6NfgcIgE/edit?usp=drive_link)
 * Reference
-  * [Ri 20] Chap. 6
+  * [Ri 20] Chap. 7
 ---
 
 ## W08: Planning & Learning
@@ -123,57 +123,55 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Lecture
 * Reference
   * [Ri 20] Chap. 8
-* Announce: Team Competition Round 1
+* Announcement: Team Competition Round 1 - *Grid Adventure!*
 
-### October 24: Planning & Learning #2
+### October 24: No Class
+* Focus on other midterm exams
+---
+
+## W09: Planning & Learning
+### October 28: Planning & Learning #2
+* Lecture
+* Reference
+  * [Ri 20] Chap. 8
+
+### October 31: Planning & Learning #3
 * Lecture
 * Reference
   * [Ri 20] Chap. 8
 ---
 
-## W09: Prediction with Approximation
-### October 28: Prediction with Approximation #1
-* Lecture
-* Reference
-  * [Ri 20] Chap.9
-
-### October 31: Prediction with Approximation #1
-* Lecture
-* Reference
-  * [Ri 20] Chap. 9
----
-
 ## W10: Team Competition Round 1
 ### November 04: Team Competition Round 1 (Early-Bird Slot)
-* TBD
 
-### November 07: Team Competition Round 1 (Early-Bird Slot)
-* TBD
+
+### November 07: Team Competition Round 1 (Regular-Bird Slot)
+
 ---
 
-## W11: Control with Approximation
-### November 11: Control with Approximation #1
+## W11: Function Approximation
+### November 11: Function Approximation #1
 * Lecture
 * Reference
-  * [Ri 20] Chap. 10
-* Announce: Team Competition Round 2
+  * [Ri 20] Chap. 9 - 10
+* Announcement: Team Competition Round 2 - TBD
 
-### November 14: Control with Approximation #2
+### November 14: Function Approximation #2
 * Lecture
 * Reference
-  * [Ri 20] Chap. 10
+  * [Ri 20] Chap. 9 - 10
 ---
 
-## W12: Deep-Q Network / Eligibility Traces
-### November 18: Deep-Q Network
+## W12: Function Approximation
+### November 18: Function Approximation #3
 * Lecture
 * Reference
-  * [Ri 20] Chap. 10
+  * [Ri 20] Chap. 9 - 10
 
-### November 21: Eligibility Traces #1
+### November 21: Function Approximation #4
 * Lecture
 * Reference
-  * [Ri 20] Chap. 7, 12
+  * [Ri 20] Chap. 9 - 10
 ---
 
 ## W13: Team Competition Round 2
@@ -185,16 +183,16 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## W14: Eligibility Traces
-### December 02: Eligibility Traces #2
+### December 02: Eligibility Traces #1
 * Lecture
 * Reference
-  * [Ri 20] Chap. 7, 12
-* Announce: Team Competition Round 3
+  * [Ri 20] Chap. 12
+* Announcement: Team Competition Round 3 - TBD
 
-### December 05: Eligibility Traces #3
+### December 05: Eligibility Traces #2
 * Lecture
 * Reference
-  * [Ri 20] Chap. 7, 12
+  * [Ri 20] Chap. 12
 ---
 
 ## W15: Policy Gradients

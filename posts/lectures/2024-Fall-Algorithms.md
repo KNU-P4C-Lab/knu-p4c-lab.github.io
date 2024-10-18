@@ -103,12 +103,12 @@ description: "This course introduces fundamental concepts and theories to design
 
 ## W07: Dynamic Programming
 ### October 14: Minimum Edit Distance Problem / All-Pairs Shortest Path Problem
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1uWSiO3CkkQHdKleAkiAZytBNPVUY-8PNvTrU3TowiuY/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 3
 
 ### October 17: Traveling Salesman Problem / Knapsack Problem 
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1uWSiO3CkkQHdKleAkiAZytBNPVUY-8PNvTrU3TowiuY/edit#slide=id.g3071b070235_0_14)
 * Reference
   * [Ri 17] Chap. 3
 ---
@@ -117,22 +117,14 @@ description: "This course introduces fundamental concepts and theories to design
 ### October 21
 * No Class
 
+
 ### October 24: Midterm Exam
-- 시험일시/시간: 10:30 - 11:45, October 24
-- 시험범위: [Ri 17] Chap. 1 - 3
-- 시험장소: 공학 6호관 609호
-- 시험방법: 대면 시험
-- 시험문항: 하나 이상의 답이 있는 오지선다 객관식, 단답형 주관식
-- 주의사항:
-  - 시험 시작 시간인 10시 40분 내에 시험 장소에 입장하지 않을 시 0점 처리
-  - 시험 시간 내에는 화장실 사용 불가.
-  - 개인 전자 기기가 벨소리, 진동 등으로 울릴 시 0점 처리. 전원을 끌 것.
-  - 대리 시험, 컨닝 등 부정 행위 발견 시 0점 처리.
+
 ---
 
 ## W09: Greedy Algorithm
-### October 28: Midterm Exam Explanation
-* Session for explaining midterm exam questions
+### October 28: Midterm Exam Recitation
+
 
 ### October 31: Greedy Algorithm Basics / Single-Source Shortest Path Problem
 * Lecture
@@ -213,19 +205,9 @@ description: "This course introduces fundamental concepts and theories to design
 
 ## W16: Final Term Exam
 ### December 16: Final Term Exam
-- 시험일시/시간: 10:30 - 11:45, December 16
-- 시험장소: 공학 6호관 609호
-- 시험범위: [Ri 17] Chap. 4-6, 9-10
-- 시험방법: 대면 시험
-- 시험문항: 하나 이상의 답이 있는 오지선다 객관식, 단답형 주관식
-- 주의사항:
-  - 시험 시작 시간인 10시 40분 내에 시험 장소에 입장하지 않을 시 0점 처리
-  - 시험 시간 내에는 화장실 사용 불가.
-  - 개인 전자 기기가 벨소리, 진동 등으로 울릴 시 0점 처리. 전원을 끌 것.
-  - 대리 시험, 컨닝 등 부정 행위 발견 시 0점 처리.
 
-### December 19: Final Term Exam Explanation
-* Session for explaining final term exam questions
+### December 19: Final Term Exam Recitation
+
 ---
 
 
