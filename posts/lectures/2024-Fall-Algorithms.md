@@ -161,46 +161,45 @@ description: "This course introduces fundamental concepts and theories to design
 * Lecture
 * Reference
   * [Ri 17] Chap. 5
-### November 21: Knapsack Problem
+
+### November 21: Knapsack Problem / Traveling Salesman Problem
 * Lecture
 * Reference
   * [Ri 17] Chap. 5
 ---
 
-## W13: Backtracking / Branch-and-Bound
-### November 25: Traveling Salesman Problem
+## W13: Branch-and-Bound
+### November 25: Branch-and-Bound Basics / Knapsack Problem
 * Lecture
 * Reference
-  * [Ri 17] Chap. 5
+  * [Ri 17] Chap. 6
 
-### November 28: Branch-and-Bound Basics / Knapsack Problem  
+### November 28: Traveling Salesman Problem / Abductive Inference
 * Lecture
 * Reference
   * [Ri 17] Chap. 6
 ---
 
-## W14: Branch-and-Bound / NP-Theory
-### December 02: Traveling Salesman Problem / Abductive Inference 
+## W14: NP-Theory
+### December 02: NP Theory Basics
 * Lecture
 * Reference
-  * [Ri 17] Chap. 6
+  * [Ri 17] Chap. 9
 
-### December 05: NP Theory Basics 
+### December 05: NP Problems
 * Lecture
 * Reference
   * [Ri 17] Chap. 9
 ---
 
-## W15: NP Theory / Evolutionary Computation
-### December 09: NP Problems
-* Lecture
-* Reference
-  * [Ri 17] Chap. 9
-
-### December 12: Evolutionary Computation
+## W15: Evolutionary Computation
+### December 09: Evolutionary Computation
 * Lecture
 * Reference
   * [Ri 17] Chap. 10
+
+### December 12: No Class
+
 ---
 
 ## W16: Final Term Exam
@@ -209,5 +208,3 @@ description: "This course introduces fundamental concepts and theories to design
 ### December 19: Final Term Exam Recitation
 
 ---
-
-
