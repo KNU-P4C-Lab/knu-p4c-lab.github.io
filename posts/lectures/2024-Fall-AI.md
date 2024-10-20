@@ -135,10 +135,10 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
   * [Ri 20] Chap. 8
 
-### October 31: Planning & Learning #3
+### October 31: Function Approximation #1
 * Lecture
 * Reference
-  * [Ri 20] Chap. 8
+  * [Ri 20] Chap. 9 - 10
 ---
 
 ## W10: Team Competition Round 1
@@ -150,28 +150,27 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## W11: Function Approximation
-### November 11: Function Approximation #1
+### November 11: Function Approximation #2
 * Lecture
 * Reference
   * [Ri 20] Chap. 9 - 10
 * Announcement: Team Competition Round 2 - TBD
 
-### November 14: Function Approximation #2
+### November 14: Function Approximation #3
 * Lecture
 * Reference
   * [Ri 20] Chap. 9 - 10
 ---
 
 ## W12: Function Approximation
-### November 18: Function Approximation #3
+### November 18: Function Approximation #4
 * Lecture
 * Reference
   * [Ri 20] Chap. 9 - 10
 
-### November 21: Function Approximation #4
+### November 21: Deep-Q Network
 * Lecture
 * Reference
-  * [Ri 20] Chap. 9 - 10
 ---
 
 ## W13: Team Competition Round 2
