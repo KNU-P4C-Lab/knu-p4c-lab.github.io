@@ -127,43 +127,43 @@ description: "This course introduces fundamental concepts and theories to design
 
 
 ### October 31: Greedy Algorithm Basics / Single-Source Shortest Path Problem
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1kPSLaIUdnQ8jzfbm1CKNaGy6fGBzTpiv-PmQOapBA_M/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 4
 ---
 
 ## W10: Greedy Algorithm
 ### November 04: Prim's Minimum Spanning Tree
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1kPSLaIUdnQ8jzfbm1CKNaGy6fGBzTpiv-PmQOapBA_M/edit#slide=id.g30f26d9690f_0_204)
 * Reference
 * [Ri 17] Chap. 4
 
 ### November 07: Kruskal's Minimum Spanning Tree
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1kPSLaIUdnQ8jzfbm1CKNaGy6fGBzTpiv-PmQOapBA_M/edit#slide=id.g30f26d9690f_0_244)
 * Reference
   * [Ri 17] Chap. 4
 ---
 
 ## W11: Greedy Algorithm / Backtracking
 ### November 11: Huffman Code
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1kPSLaIUdnQ8jzfbm1CKNaGy6fGBzTpiv-PmQOapBA_M/edit#slide=id.g30f26d9690f_0_305)
 * Reference
   * [Ri 17] Chap. 4
 
 ### November 14: Backtracking Basics / n-Queen Problem
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/180D8_suimKpIWPH9wSS2hWGt3vuLgcKWmbFgx6ttajQ/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 5
 ---
 
 ## W12: Backtracking
-### November 18: Monte Carlo Method / Graph Coloring
-* Lecture
+### November 18: Monte-Carlo Method / Graph Coloring
+* [Lecture](https://docs.google.com/presentation/d/180D8_suimKpIWPH9wSS2hWGt3vuLgcKWmbFgx6ttajQ/edit#slide=id.g313146b3cb4_0_386)
 * Reference
   * [Ri 17] Chap. 5
 
-### November 21: Knapsack Problem / Traveling Salesman Problem
-* Lecture
+### November 21: Traveling Salesman Problem / Knapsack Problem
+* [Lecture](https://docs.google.com/presentation/d/180D8_suimKpIWPH9wSS2hWGt3vuLgcKWmbFgx6ttajQ/edit#slide=id.g313146b3cb4_0_689)
 * Reference
   * [Ri 17] Chap. 5
 ---

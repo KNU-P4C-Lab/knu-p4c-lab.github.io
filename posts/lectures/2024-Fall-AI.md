@@ -120,10 +120,10 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## W08: Planning & Learning
 ### October 21: Planning & Learning #1
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1teU9eDvMrVnXx-8BiPAbIWwpwl92rdRbY6aTw9GKZfY/edit?usp=sharing)
 * Reference
   * [Ri 20] Chap. 8
-* Announcement: Team Competition Round 1 - *Grid Adventure!*
+* [Announcement: Team Competition Round 1 - *Grid Adventure!*](https://docs.google.com/document/d/1DMapV7a4Rdw6Izys0AC_niAnsCbWH_ue6llX_sjVBc8/edit?usp=sharing)
 
 ### October 24: No Class
 * Focus on other midterm exams
@@ -131,12 +131,12 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## W09: Planning & Learning
 ### October 28: Planning & Learning #2
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1teU9eDvMrVnXx-8BiPAbIWwpwl92rdRbY6aTw9GKZfY/edit#slide=id.g2feb4e5b9c9_0_23)
 * Reference
   * [Ri 20] Chap. 8
 
 ### October 31: Function Approximation #1
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1HJYsQw_FHQj8f7DPC-daL5RednzsZtzKpU0OXmED7Og/edit?usp=sharing)
 * Reference
   * [Ri 20] Chap. 9 - 10
 ---
@@ -151,34 +151,37 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## W11: Function Approximation
 ### November 11: Function Approximation #2
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1HJYsQw_FHQj8f7DPC-daL5RednzsZtzKpU0OXmED7Og/edit#slide=id.g30fb6f98658_0_0)
 * Reference
   * [Ri 20] Chap. 9 - 10
-* Announcement: Team Competition Round 2 - TBD
+* [Announcement: Team Competition Round 2 - *Grid Survivor!*](https://docs.google.com/document/d/1meNNdSXjKz4h3rC6tYa_H6gr1xSnDJQkco9Q1Exi51Q/edit?usp=sharing)
 
 ### November 14: Function Approximation #3
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1HJYsQw_FHQj8f7DPC-daL5RednzsZtzKpU0OXmED7Og/edit#slide=id.g30fb6f98658_0_33)
 * Reference
   * [Ri 20] Chap. 9 - 10
 ---
 
 ## W12: Function Approximation
 ### November 18: Function Approximation #4
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1HJYsQw_FHQj8f7DPC-daL5RednzsZtzKpU0OXmED7Og/edit#slide=id.g31505c2e1f4_0_1)
 * Reference
   * [Ri 20] Chap. 9 - 10
 
 ### November 21: Deep-Q Network
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1NF3kmKb2gwgJBrDlULBRH7SpDAJVT02cTA3cUBQjEN8/edit?usp=sharing)
 * Reference
+  * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+  * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
+  * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
+
 ---
 
 ## W13: Team Competition Round 2
 ### November 25: Team Competition Round 2 (Early-Bird Slot)
-* TBD
 
 ### November 28: Team Competition Round 2 (Regular-Bird Slot)
-* TBD
+
 ---
 
 ## W14: Eligibility Traces
