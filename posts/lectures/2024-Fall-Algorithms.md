@@ -170,31 +170,31 @@ description: "This course introduces fundamental concepts and theories to design
 
 ## W13: Branch-and-Bound
 ### November 25: Branch-and-Bound Basics / Knapsack Problem
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1NrkA4_0Y_4TjBTaFq7AIRyA1x3ud6G52SzvF72eEQqs/edit#slide=id.g313146b3cb4_0_0)
 * Reference
   * [Ri 17] Chap. 6
 
 ### November 28: Traveling Salesman Problem / Abductive Inference
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1NrkA4_0Y_4TjBTaFq7AIRyA1x3ud6G52SzvF72eEQqs/edit#slide=id.g319515ec1aa_0_109)
 * Reference
   * [Ri 17] Chap. 6
 ---
 
 ## W14: NP-Theory
 ### December 02: NP Theory Basics
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1sshiLkX6ldqFI4fXN6RXuJl4VpxvECY7uITXHLqSGMs/edit#slide=id.g3025a9b3557_0_0)
 * Reference
   * [Ri 17] Chap. 9
 
 ### December 05: NP Problems
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1sshiLkX6ldqFI4fXN6RXuJl4VpxvECY7uITXHLqSGMs/edit#slide=id.g31ae3f5a042_0_295)
 * Reference
   * [Ri 17] Chap. 9
 ---
 
 ## W15: Evolutionary Computation
 ### December 09: Evolutionary Computation
-* Lecture
+* [Lecture](https://docs.google.com/presentation/d/1onjE3LPiUN03Qkw_U_iKlbRVFFqHELxruaL0rd2lgns/edit?usp=drive_link)
 * Reference
   * [Ri 17] Chap. 10
 

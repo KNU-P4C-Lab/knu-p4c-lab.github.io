@@ -184,33 +184,36 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ---
 
-## W14: Eligibility Traces
-### December 02: Eligibility Traces #1
-* Lecture
-* Reference
-  * [Ri 20] Chap. 12
-* Announcement: Team Competition Round 3 - TBD
-
-### December 05: Eligibility Traces #2
-* Lecture
-* Reference
-  * [Ri 20] Chap. 12
----
-
-## W15: Policy Gradients
-### December 09: Policy Gradients #1
+## W14: Policy Gradient Methods #1
+### December 02: Policy Gradient?
+* [Lecture](https://docs.google.com/presentation/d/1_HuNWjGBoUT7q6n95PYqoI13D4w9CCIKk0i6FKI29cA/edit#slide=id.g2ea10f9c449_0_21)
 * Reference
   * [Ri 20] Chap. 13
-### December 12: Policy Gradients #2
+* [Announcement: Team Competition Round 3 - *Road Hog!*](https://docs.google.com/document/d/190zElflpGtB_ldWz7r0vcOEJ20YE1LWSstduOAvhHDg/edit?tab=t.0)
+
+### December 05: REINFORCE / Actor-Critic Methods
+* [Lecture](https://docs.google.com/presentation/d/1_HuNWjGBoUT7q6n95PYqoI13D4w9CCIKk0i6FKI29cA/edit#slide=id.g31b029cc917_0_140)
 * Reference
   * [Ri 20] Chap. 13
 ---
+
+## W15: Policy Gradient Methods #2
+### December 09: Asynchronous Advantage Actor-Critic 
+* [Lecture](https://docs.google.com/presentation/d/1_HuNWjGBoUT7q6n95PYqoI13D4w9CCIKk0i6FKI29cA/edit#slide=id.g31b029cc917_0_212)
+* Reference
+  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. :Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+
+
+### December 12: No Class
+* Focus on (other) final exams
+---
+
 
 ## W16: Team Competition Round 3
 ### December 16: Team Competition Round 3 (Early-Bird Slot)
-* TBD
+
 ### December 19: Team Competition Round 3 (Regular-Bird Slot)
-* TBD
+
 ---
 
 
