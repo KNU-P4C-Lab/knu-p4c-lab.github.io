@@ -1,5 +1,5 @@
-import { dirname } from "path"
-import { fileURLToPath } from "url"
+import {dirname} from "path"
+import {fileURLToPath} from "url"
 import remarkGfm from 'remark-gfm'
 import remarkExternalLinks from "remark-external-links"
 import remarkMath from "remark-math"
@@ -26,7 +26,7 @@ const SITE_METADATA = {
     keywords: 'pervasive computing, persuasive computing, personalization, positive computing, human-computer interaction, human-ai interaction',
     address: [
         'Kangwon National University (Chuncheon Campus)',
-        'College of Engineering #6, Room 417',
+        'College of Engineering #6, Room 416',
         '1 Gangwondaehakgil, Chuncheon-si, Gangwon-do (24341)',
         'Republic of Korea'
     ],
@@ -36,14 +36,13 @@ const SITE_METADATA = {
     googleScholar: 'https://scholar.google.com/citations?user=PaIwvKYAAAAJ',
     icon: 'src/images/p4c-logo.png',
     display: `standalone`,
-    calendar: 'https://calendar.google.com/calendar/embed?height=600&mode=WEEK&wkst=1&bgcolor=%239CA3AF&ctz=Asia%2FSeoul&showCalendars=0&showPrint=0&src=NTE4MmExOGI1ZmQ4NzAwY2Q0NGZlNzFiNDlmMGE4Yzg4NWI5NDdmYmIwYTQ2Zjc3ODY1N2UzZGQ0YjZkNDNhMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NDU2MGY2NTQ2NGU2N2MxZjQyNWVjMTczMDY3YTBiNWE0YTY4MjU0Yjg0MTU2OWM1Y2U1MmQwMGVhNWNmNDAwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cW85amRwb2RnMnJ1aWQ2MjAzYmVzNjR1am9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%233F51B5&color=%23009688&color=%23D50000'
+    calendar: 'https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSeoul&showPrint=0&mode=AGENDA&src=ODViNjAzZjU5ZmE4NTRjZWJjYzIwNzFkZWQ3ODNkMzE0MmYyOTkyZTc1YzIwZGExODU4NmEzZGQ0MWY0MGNiNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MjJmM2UxOWU4NGQwMjA2ZDY3M2JjODljNzJiZmUyNjhlNDIwMDE1MTZmOWFmZTQxMDlhNWYxYmM5YmE0NzJiMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NDU2MGY2NTQ2NGU2N2MxZjQyNWVjMTczMDY3YTBiNWE0YTY4MjU0Yjg0MTU2OWM1Y2U1MmQwMGVhNWNmNDAwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cW85amRwb2RnMnJ1aWQ2MjAzYmVzNjR1am9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YjEyZDRjZDcxODMwNDRmNDYzMGMyMWMyYzQ4YzliMjJjNzFhMGRmNGE4OTllNzM5NDMwY2QzMDk2N2Y2ZDM3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=a28uc291dGhfa29yZWEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F6BF26&color=%23D50000&color=%23009688&color=%239E69AF&color=%23E67C73&color=%237CB342'
 }
-
 const config = {
     // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
     // If you use VSCode you can also use the GraphQL plugin
     // Learn more at: https://gatsby.dev/graphql-typegen
-    siteMetadata : {...SITE_METADATA},
+    siteMetadata: {...SITE_METADATA},
     graphqlTypegen: true,
     plugins: [
         {

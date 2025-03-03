@@ -34,19 +34,18 @@ description: "This course covers theoretical backgrounds and practical implement
   * All materials were prepared assuming students were proficient in Python programming and familiar with Numpy and Pandas.
 
 ## Grading Policy
-### Team Assignments (30%)
-- End-to-End Machine Learning Projects
-  - #1 (10%): Data collection
-  - #2 (20%): Model building and evaluation
+### Data Collection (10%)
+- Collect sensor data for human activity recognition
 
-### Individual ML Competitions via Kaggle (60%)
+### Individual ML Competitions via Kaggle (80%)
 - Round 0 - Being Familiar with Kaggle (5%)
-- Round 1 - TBD (8%)
-- Round 2 - TBD (8%)
-- Round 3 - TBD (8%)
-- Special Round (Midterm) - TBD (15%)
-- Round 4 - TBD (8%)
-- Round 5 - TBD (8%)
+- Round 1 - TBD (9%)
+- Round 2 - TBD (0%)
+- Round 3 - TBD (9%)
+- Special Round - TBD (15%)
+- Round 4 - TBD (9%)
+- Round 5 - TBD (9%)
+- Final Round - Human Activity Recognition (15%)
 
 ### Attendance (10%)
 - 1% of credit is deducted for each absence
@@ -55,11 +54,11 @@ description: "This course covers theoretical backgrounds and practical implement
 
 # Schedule
 ## Week 01
-### March 04: Overview
-* [Lecture]()
+### March 04: Overview & Logistics
+* [Lecture](https://docs.google.com/presentation/d/1hMQiyuwxFDG0WGuYa5ZbLKGAo3ExeI_vyCN7rsqPzxc/edit?usp=drive_link)
 
 ### March 05: Machine Learning Landscape
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1mmlhMdLr_xB9cZd5yRqIEmaxk4UdUDJa5XVkP2r6bGo/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 1
   * [Oh21] Chap. 1
@@ -141,7 +140,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ge23] Chap. 7
 
-### April 09: Feature Extraction
+### April 09: Outlier Detection & Feature Extraction
 * [Lecture]()
 * [Lab]()
 * Reference
@@ -267,7 +266,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lab]()
 * References
   * Ashish Vaswani et al. 2017. Attention is all you need. Advances in Neural Information Processing Systems
-* (Announce) [Team Assignment #2: TBD]()
+* (Announce) [Individual ML Competition Final Round: Human Activity Recognition]()
   * Due: June 16
 
 
