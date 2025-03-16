@@ -67,19 +67,18 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 02
 ### March 11: Machine Learning Pipeline
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1y_piCF1j2HX34IeUpeV2KZHoOeobsd2icyl0DTHmO74/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 2
   * D. Sculley et al. 2015. Hidden technical debt in Machine learning systems. In Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'15). 
   * Soowon Kang et al. 2023. K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels. Sci Data 10, 351 (2023). 
 
 ### March 12: End-to-End Practice for Machine Learning Pipeline
-* [Lab]()
+* [Lab](https://colab.research.google.com/drive/18fT1CXEiq_aiGFx0fOXRDYX3OLPuwRi6?usp=drive_link)
 * Reference
   * [Ge23] Chap. 3
-* (Announce) [Individual ML Competition Round 0: End-to-End Practice]()
+* (Announce) Individual ML Competition Round 0: Getting Familiar w/ Kaggle
   * Due: Mar. 18
-
 ---
 
 ## Week 03
@@ -89,31 +88,28 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
-* (Announce) [Individual ML Competition Round 1: TBD]()
-  * Due: Mar. 31
 
-### March 19: Support Vector Machine
-* [Lecture]()
-* [Lab]()
-* Reference
-  * [Ge23] Chap. 5
-  * [Oh21] Chap. 11
-
----
-
-## Week 04
-### March 25: Performance Measures
+### March 19: Performance Measures 
 * [Lecture]()
 * [Lab]()
 * Reference
   * [Br21] Chap. 3
-
-### March 26: Cross-Validation
+* (Announce) Individual ML Competition Round 1: Marketing
+  * Due: Mar. 31
+---
+## Week 04
+### March 25: Cross-Validation
 * [Lecture]()
 * [Lab]()
 * Reference
   * Berrar, D. 2019. Cross-Validation
 
+### March 26: Support Vector Machine
+* [Lecture]()
+* [Lab]()
+* Reference
+  * [Ge23] Chap. 5
+  * [Oh21] Chap. 11
 ---
 
 ## Week 05
@@ -122,8 +118,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lab]()
 * Reference
   * [Ge23] Chap. 6
-* (Announce) [Individual ML Competition Round 2: TBD]()
-  * Due: Apr. 14
 
 ### April 02: Ensemble Learning Basics & Random Forest
 * [Lecture]()
@@ -131,6 +125,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ge23] Chap. 7
   * [Oh21] Chap. 12
+* (Announce) [Individual ML Competition Round 2: TBD]()
+  * Due: Apr. 14
 ---
 
 ## Week 06
@@ -154,8 +150,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lab]()
 * Reference
   * [Br20] Chap. 4
-* (Announce) [Individual ML Competition Special Round: TBD]()
-  * Due: Apr. 28
 
 ### April 16: Dimensionality Reduction
 * [Lecture]()
@@ -163,6 +157,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ge23] Chap. 8
   * [Br20] Chap. 7
+* (Announce) [Individual ML Competition Special Round: TBD]()
+  * Due: Apr. 28
 ---
 
 ## Week 08
@@ -184,10 +180,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ow22] Chap. 2, 3, 4, 7, 8
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
-* (Announce) [Individual ML Competition Round 3: TBD]()
-  * Due: May. 12
-* (Announce) [Team Assignment #1: TBD]()
-  * Due: May. 12
 
 ### April 30: Hyper-parameter Tuning #2
 * [Lecture]()
@@ -195,6 +187,10 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ow22] Chap. 5, 6, 9, 10
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+* (Announce) [Individual ML Competition Round 3: TBD]()
+  * Due: May. 12
+* (Announce) [Team Assignment #1: TBD]()
+  * Due: May. 12
 ---
 
 ## Week 10
@@ -216,8 +212,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * References
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
-* (Announce) [Individual ML Competition Round 4: TBD]()
-  * Due: May. 26
+
 
 ### May 14: Deep Neural Network
 * [Lecture]()
@@ -225,6 +220,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * References
   * [Ge23] Chap. 11
   * [Oh21] Chap. 4, 5
+* (Announce) [Individual ML Competition Round 4: TBD]()
+  * Due: May. 26
 ---
 
 ## Week 12
@@ -249,15 +246,14 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lab]()
 * References
   * [Ge23] Chap. 17
-* (Announce) [Individual ML Competition Round 5: TBD]()
-  * Due: June. 02
-
 
 ### May 28: Generative Models
 * [Lecture]()
 * [Lab]()
 * References
   * [Ge23] Chap. 17
+* (Announce) [Individual ML Competition Round 5: TBD]()
+  * Due: June. 09
 ---
 
 ## Week 14 
@@ -266,9 +262,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lab]()
 * References
   * Ashish Vaswani et al. 2017. Attention is all you need. Advances in Neural Information Processing Systems
-* (Announce) [Individual ML Competition Final Round: Human Activity Recognition]()
-  * Due: June 16
-
 
 ### June 04: Interpretability
 * [Lecture]()
@@ -276,14 +269,15 @@ description: "This course covers theoretical backgrounds and practical implement
 * References
   * [Mo24] Chap. 5 - 10
   * [Ma23] Chap. 4 - 8
-
 ---
 
 ## Week 15
 ### June 10: Reinforcement Learning
 * [Lecture]()
+* (Announce) [Individual ML Competition Final Round: Human Activity Recognition]()
+  * Due: June 16
 
-### June 11: Focus on the Team Assigment!
+### June 11: Focus on the Final Assigment!
 * No Class
 ---
 
