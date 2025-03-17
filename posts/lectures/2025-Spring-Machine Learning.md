@@ -74,7 +74,7 @@ description: "This course covers theoretical backgrounds and practical implement
   * Soowon Kang et al. 2023. K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels. Sci Data 10, 351 (2023). 
 
 ### March 12: End-to-End Practice for Machine Learning Pipeline
-* [Lab](https://colab.research.google.com/drive/18fT1CXEiq_aiGFx0fOXRDYX3OLPuwRi6?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/18fT1CXEiq_aiGFx0fOXRDYX3OLPuwRi6?usp=drive_link)
 * Reference
   * [Ge23] Chap. 3
 * (Announce) Individual ML Competition Round 0: Getting Familiar w/ Kaggle
@@ -83,109 +83,111 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 03
 ### March 18: Linear Model
-* [Lecture]()
-* [Lab]()
+* [Lecture](https://docs.google.com/presentation/d/1GLrGpNKtFmqN3sfK11XFFdgK0yCYJc283AqLpSEJx6U/edit?usp=sharing)
 * Reference
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
 
-### March 19: Performance Measures 
-* [Lecture]()
-* [Lab]()
+### March 19: Practice for Linear Model 
+* [Practice]()
 * Reference
-  * [Br21] Chap. 3
+  * [Ge23] Chap. 4
+  * [Oh21] Chap. 2
 * (Announce) Individual ML Competition Round 1: Marketing
   * Due: Mar. 31
+
 ---
 ## Week 04
-### March 25: Cross-Validation
+### March 25: Performance Measures 
 * [Lecture]()
-* [Lab]()
+* [Practice]()
+* Reference
+  * [Br21] Chap. 3
+
+### March 26: Cross-Validation
+* [Lecture]()
+* [Practice]()
 * Reference
   * Berrar, D. 2019. Cross-Validation
-
-### March 26: Support Vector Machine
-* [Lecture]()
-* [Lab]()
-* Reference
-  * [Ge23] Chap. 5
-  * [Oh21] Chap. 11
+  
 ---
 
 ## Week 05
-### April 01: Decision Tree
+### April 01: Support Vector Machine
 * [Lecture]()
-* [Lab]()
+* [Practice]()
+* Reference
+  * [Ge23] Chap. 5
+  * [Oh21] Chap. 11
+
+### April 02: Decision Tree
+* [Lecture]()
+* [Practice]()
 * Reference
   * [Ge23] Chap. 6
+* (Announce) [Individual ML Competition Round 2: TBD]()
+  * Due: Apr. 14
 
-### April 02: Ensemble Learning Basics & Random Forest
+---  
+
+## Week 06
+### April 08: Ensemble Learning #1: Random Forest
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * Reference
   * [Ge23] Chap. 7
   * [Oh21] Chap. 12
-* (Announce) [Individual ML Competition Round 2: TBD]()
-  * Due: Apr. 14
----
 
-## Week 06
-### April 08: Gradient Boosting
+### April 09: Ensemble Learning #2: Gradient Boosting
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * Reference
   * [Ge23] Chap. 7
 
-### April 09: Outlier Detection & Feature Extraction
-* [Lecture]()
-* [Lab]()
-* Reference
-  * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
-  * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
 ---
 
 ## Week 07
-### April 15: Feature Selection
+### April 15: Outlier Detection & Feature Extraction
 * [Lecture]()
-* [Lab]()
+* [Practice]()
+* Reference
+  * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
+  * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
+
+### April 16: Feature Selection
+* [Lecture]()
+* [Practice]()
 * Reference
   * [Br20] Chap. 4
-
-### April 16: Dimensionality Reduction
-* [Lecture]()
-* [Lab]()
-* Reference
-  * [Ge23] Chap. 8
-  * [Br20] Chap. 7
 * (Announce) [Individual ML Competition Special Round: TBD]()
   * Due: Apr. 28
 ---
 
 ## Week 08
-### April 22: Balancing Label Distribution
+### April 22: Dimensionality Reduction 
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * Reference
-  * [Br21] Chap. 4
+  * [Ge23] Chap. 8
+  * [Br20] Chap. 7
 
-### April 23: Focus on the Individual Assigment!
+### April 23: Focus on Midterm Exam
 * No Class
-
 ---
 
 ## Week 09
-### April 29: Hyper-parameter Tuning #1
+
+### April 29: Balancing Label Distribution
 * [Lecture]()
-* [Lab]()
+* [Practice]()
+* Reference
+  * [Br21] Chap. 4
+
+### April 30: Hyper-parameter Tuning #1
+* [Lecture]()
+* [Practice]()
 * Reference
   * [Ow22] Chap. 2, 3, 4, 7, 8
-  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
-
-### April 30: Hyper-parameter Tuning #2
-* [Lecture]()
-* [Lab]()
-* Reference
-  * [Ow22] Chap. 5, 6, 9, 10
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 * (Announce) [Individual ML Competition Round 3: TBD]()
   * Due: May. 12
@@ -197,26 +199,26 @@ description: "This course covers theoretical backgrounds and practical implement
 ### May 06: Substitution Holiday for Children's Day
 * No Class
 
-### May 07: Clustering
+### May 07: Hyper-parameter Tuning #2
 * [Lecture]()
-* [Lab]()
-* References
-  * [Ge23] Chap. 9
-  * [Oh21] Chap. 6
+* [Practice]()
+* Reference
+  * [Ow22] Chap. 5, 6, 9, 10
+  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+
 ---
 
 ## Week 11
 ### May 13: Artificial Neural Network
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
 
-
 ### May 14: Deep Neural Network
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 11
   * [Oh21] Chap. 4, 5
@@ -227,14 +229,14 @@ description: "This course covers theoretical backgrounds and practical implement
 ## Week 12
 ### May 20: Convolution Neural Network
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 14
   * [Oh21] Chap. 4
 
 ### May 21: Recurrent Neural Network
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 15
   * [Oh21] Chap. 8
@@ -243,13 +245,13 @@ description: "This course covers theoretical backgrounds and practical implement
 ## Week 13
 ### May 27: Autoencoder
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 17
 
 ### May 28: Generative Models
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Ge23] Chap. 17
 * (Announce) [Individual ML Competition Round 5: TBD]()
@@ -259,25 +261,29 @@ description: "This course covers theoretical backgrounds and practical implement
 ## Week 14 
 ### June 03: Attention and Transformer
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * Ashish Vaswani et al. 2017. Attention is all you need. Advances in Neural Information Processing Systems
 
 ### June 04: Interpretability
 * [Lecture]()
-* [Lab]()
+* [Practice]()
 * References
   * [Mo24] Chap. 5 - 10
   * [Ma23] Chap. 4 - 8
 ---
 
 ## Week 15
-### June 10: Reinforcement Learning
+### June 10: Clustering
 * [Lecture]()
+* [Practice]()
+* References
+  * [Mo24] Chap. 5 - 10
+  * [Ma23] Chap. 4 - 8
 * (Announce) [Individual ML Competition Final Round: Human Activity Recognition]()
   * Due: June 16
 
-### June 11: Focus on the Final Assigment!
+### June 11: Focus on the Final Exam!
 * No Class
 ---
 
