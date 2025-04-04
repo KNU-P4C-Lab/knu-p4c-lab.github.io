@@ -10,15 +10,13 @@ import {MdHome, MdOutlineAlternateEmail} from "react-icons/md";
 const PeopleItem = ({name, position, email, homepage, sitePath, picture}: {name: string, position: string, email: string, homepage?: string, sitePath?: string, picture?: IGatsbyImageData}) => {
     return (
         <div className="p-4 bg-white space-y-4 border border-gray-200 rounded-lg dark:bg-gray-800 dark:border-gray-700">
-            <div>
-                {
-                    picture ? <GatsbyImage
-                        alt={name}
-                        image={picture}
-                        className='rounded-lg'
-                    /> : <StaticImage src='../images/placeholder.jpg' alt={name} className='rounded-lg'/>
-                }
-            </div>
+            {
+                picture ? <GatsbyImage
+                    alt={name}
+                    image={picture}
+                    className='rounded-lg h-64 w-full'
+                /> : <StaticImage src='../images/placeholder.jpg' alt={name} className='rounded-lg w-64 w-full'/>
+            }
 
             <div>
                 <H6>{name}</H6>
@@ -68,7 +66,7 @@ const People = ({data}: PageProps<Queries.PeoplePageQuery>) => {
                 faculty.length &&
                 <div>
                     <H3 className='dark:text-primary-100'>Faculty and Postdocs</H3>
-                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 '>
                         {
                             faculty.map(p =>
                                 <PeopleItem
@@ -91,7 +89,7 @@ const People = ({data}: PageProps<Queries.PeoplePageQuery>) => {
                 graduate.length > 0 &&
                 <div>
                     <H3 className='dark:text-primary-100'>Graduate Students</H3>
-                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 '>
                         {
                             graduate.map(p =>
                                 <PeopleItem
@@ -115,7 +113,7 @@ const People = ({data}: PageProps<Queries.PeoplePageQuery>) => {
                 undergraduate.length > 0 &&
                 <div>
                     <H3 className='dark:text-primary-100'>Undergraduate Students</H3>
-                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+                    <div className='mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 '>
                         {
                             undergraduate.map(p =>
                                 <PeopleItem
@@ -155,6 +153,13 @@ const People = ({data}: PageProps<Queries.PeoplePageQuery>) => {
                     </ul>
                 </div>
             }
+            {
+                /** Gallery **/
+
+            }
+
+
+
         </Layout>
     )
 }

@@ -20,7 +20,7 @@ const PeopleTemplate = ({data, children}: PageProps<Queries.PeopleTemplateQuery>
                                 image={people.frontmatter.picture.image.data}
                                 className='rounded-lg max-w-xs mx-auto'
                             /> : <StaticImage src='../images/placeholder.jpg' alt={people?.frontmatter?.name || ''}
-                                              className='rounded-lg max-w-xs mx-auto '/>
+                                              className='rounded-lg max-w-xs mx-auto'/>
                         }
                     </div>
 

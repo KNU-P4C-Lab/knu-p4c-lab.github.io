@@ -4,7 +4,7 @@ type: director # director, postdoc, phd, master, undergraduate
 position: Director 
 homepage: ""
 email: woohyeok.choi@kangwon.ac.kr
-picture: "./res/woohyeok.choi.png"
+picture: "./res/woohyeok.choi.jpeg"
 startDate: 2023-09
 endDate: 
 ---
@@ -54,13 +54,13 @@ Project title: Designing Interactive Exercise Games for Group Fitness Swimming
 
 # Academic Services
 * External Reviewer, JMIR mHealth & uHealth (2022 - 2023)
-* Associate Chair, MobileHCI ‘22, ‘23
+* External Reviewer, Nature ScientificData (2024)
+* Associate Chair, MobileHCI (2022 - 2023)
 * External Reviewer, IEEE Pervasive Computing (2021)
-* External Reviewer, ACM CHI 2021 Late-Breaking Work (2021)
 * External Reviewer, ACM HEALTH (2019)
-* External Reviewer, ACM IMWUT, Aug 2019 (2019)
-* External Reviewer, ACM CHI 2020 Papers (2019)
-* External Reviewer, ACM CHI 2017 Papers and Notes (2017)
+* External Reviewer, ACM IMWUT (2019, 2022, 2025)
+* External Reviewer, ACM CHI Papers (2017, 2020, 2023, 2025)
+* External Reviewer, ACM CHI Late Braking Work (2021, 2024)
 
 
 

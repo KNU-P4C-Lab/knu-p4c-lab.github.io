@@ -1,6 +1,6 @@
 ---
 code: "4471037"
-title: "Machine Learning"
+title: "기계학습 / Machine Learning"
 year: 2025
 semester: spring
 division: "2 Div"
@@ -40,7 +40,7 @@ description: "This course covers theoretical backgrounds and practical implement
 ### Individual ML Competitions via Kaggle (80%)
 - Round 0 - Being Familiar with Kaggle (5%)
 - Round 1 - TBD (9%)
-- Round 2 - TBD (0%)
+- Round 2 - TBD (9%)
 - Round 3 - TBD (9%)
 - Special Round - TBD (15%)
 - Round 4 - TBD (9%)
@@ -88,12 +88,12 @@ description: "This course covers theoretical backgrounds and practical implement
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
 
-### March 19: Practice for Linear Model 
-* [Practice]()
+### March 19: Linear Model - Practice 
+* [Practice](https://colab.research.google.com/drive/1y3BbjChl6JHGdkoLQc5W4KAqgyK8Rns2?usp=drive_link)
 * Reference
   * [Ge23] Chap. 4
   * [Oh21] Chap. 2
-* (Announce) Individual ML Competition Round 1: Marketing
+* (Announce) Individual ML Competition Round 1: Telemarketing
   * Due: Mar. 31
 
 ---
@@ -125,9 +125,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 6
-* (Announce) [Individual ML Competition Round 2: TBD]()
+* (Announce) Individual ML Competition Round 2
   * Due: Apr. 14
-
 ---  
 
 ## Week 06
@@ -143,11 +142,10 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 7
-
 ---
 
 ## Week 07
-### April 15: Outlier Detection & Feature Extraction
+### April 15: Feature Extraction
 * [Lecture]()
 * [Practice]()
 * Reference
@@ -159,12 +157,12 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Br20] Chap. 4
-* (Announce) [Individual ML Competition Special Round: TBD]()
+* (Announce) Individual ML Competition Midterm Round
   * Due: Apr. 28
 ---
 
 ## Week 08
-### April 22: Dimensionality Reduction 
+### April 22: Unsupervised Learning - Dimensionality Reduction 
 * [Lecture]()
 * [Practice]()
 * Reference
@@ -176,22 +174,21 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 09
-
-### April 29: Balancing Label Distribution
+### April 29: Unsupervised Learning - Clustering 
 * [Lecture]()
 * [Practice]()
-* Reference
-  * [Br21] Chap. 4
+* References
+  * [Mo24] Chap. 5 - 10
+  * [Ma23] Chap. 4 - 8
 
-### April 30: Hyper-parameter Tuning #1
+### April 30: Unsupervised Learning - Novelty and Outlier Detection
 * [Lecture]()
 * [Practice]()
-* Reference
-  * [Ow22] Chap. 2, 3, 4, 7, 8
-  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
-* (Announce) [Individual ML Competition Round 3: TBD]()
+* References
+  * [Br20] Chap. 5
+* (Announce) Individual ML Competition Round 3
   * Due: May. 12
-* (Announce) [Team Assignment #1: TBD]()
+* (Announce) Team Assignment: Sensor Data Collection
   * Due: May. 12
 ---
 
@@ -199,42 +196,57 @@ description: "This course covers theoretical backgrounds and practical implement
 ### May 06: Substitution Holiday for Children's Day
 * No Class
 
-### May 07: Hyper-parameter Tuning #2
+### May 07: Imbalanced Classification
+* [Lecture]()
+* [Practice]()
+* Reference
+  * [Br21] Chap. 4
+---
+
+## Week 11
+### May 13: Hyper-parameter Tuning #1
+* [Lecture]()
+* [Practice]()
+* Reference
+  * [Ow22] Chap. 2, 3, 4, 7, 8
+  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+
+
+### May 14: Hyper-parameter Tuning #2
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ow22] Chap. 5, 6, 9, 10
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
-
 ---
 
-## Week 11
-### May 13: Artificial Neural Network
+## Week 12
+### May 20: Artificial Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 10
   * [Oh21] Chap. 3
 
-### May 14: Deep Neural Network
+### May 21: Deep Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 11
   * [Oh21] Chap. 4, 5
-* (Announce) [Individual ML Competition Round 4: TBD]()
+* (Announce) Individual ML Competition Round 4
   * Due: May. 26
 ---
 
-## Week 12
-### May 20: Convolution Neural Network
+## Week 13
+### May 27: Convolution Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 14
   * [Oh21] Chap. 4
 
-### May 21: Recurrent Neural Network
+### May 28: Recurrent Neural Network
 * [Lecture]()
 * [Practice]()
 * References
@@ -242,45 +254,31 @@ description: "This course covers theoretical backgrounds and practical implement
   * [Oh21] Chap. 8
 ---
 
-## Week 13
-### May 27: Autoencoder
-* [Lecture]()
-* [Practice]()
-* References
-  * [Ge23] Chap. 17
-
-### May 28: Generative Models
-* [Lecture]()
-* [Practice]()
-* References
-  * [Ge23] Chap. 17
-* (Announce) [Individual ML Competition Round 5: TBD]()
-  * Due: June. 09
----
-
 ## Week 14 
-### June 03: Attention and Transformer
+### June 03: Autoencoder
 * [Lecture]()
 * [Practice]()
 * References
-  * Ashish Vaswani et al. 2017. Attention is all you need. Advances in Neural Information Processing Systems
+  * [Ge23] Chap. 17
 
-### June 04: Interpretability
+### June 04: Generative Models
 * [Lecture]()
 * [Practice]()
 * References
-  * [Mo24] Chap. 5 - 10
-  * [Ma23] Chap. 4 - 8
+  * [Ge23] Chap. 17
+* (Announce) Individual ML Competition Round 5
+  * Due: June. 09
+
 ---
 
 ## Week 15
-### June 10: Clustering
+### June 10: Interpretability
 * [Lecture]()
 * [Practice]()
 * References
   * [Mo24] Chap. 5 - 10
   * [Ma23] Chap. 4 - 8
-* (Announce) [Individual ML Competition Final Round: Human Activity Recognition]()
+* (Announce) Individual ML Competition Final Round: Human Activity Recognition
   * Due: June 16
 
 ### June 11: Focus on the Final Exam!
