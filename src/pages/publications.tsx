@@ -94,7 +94,7 @@ const PublicationItem = ({
                 </ModalBody>
             </Modal>
 
-            <div className="flex flex-col items-start text-sm font-serif space-y-1">
+            <div className="flex flex-col items-start text-sm font-serif space-y-2">
                 <Span className='font-serif leading-none text-gray-400 dark:text-gray-500'>{date}</Span>
                 <H6 className='capitalize items-center font-sans'>
                     {title}

@@ -13,7 +13,7 @@ const MdxTemplate = ({children} : {children: React.ReactNode})  => {
         li: (props: object) => <li className='my-0' {...props}/>,
         a: (props: object) => <A {...props}/>,
         pre: (props: object) => <pre className='p-0' {...props}/>,
-        table: (props: object) => <table className='font-medium text-md font-serif' {...props}/>
+        table: (props: object) => <table className='font-medium text-md font-serif' {...props}/>,
     }
 
     return (

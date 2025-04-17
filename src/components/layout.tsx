@@ -17,7 +17,7 @@ const MENU = {
     'Projects': '/projects',
     'Publications': '/publications',
     'Lectures': '/lectures',
-    'News': '/news',
+    'News & Activities': '/news',
 }
 
 const Layout = ({activeLink, children}: { activeLink?: string, children: React.ReactNode }) => {

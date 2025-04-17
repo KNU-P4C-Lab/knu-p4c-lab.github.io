@@ -8,12 +8,12 @@
     "P4C Lab"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "gatsby clean && gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages --dist ./public --repo https://github.com/KNU-P4C-Lab/knu-p4c-lab.github.io",
+    "deploy": "gatsby clean && gatsby build && gh-pages --dist ./public --repo https://github.com/KNU-P4C-Lab/knu-p4c-lab.github.io",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
@@ -33,12 +33,12 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^6.13.0",
     "gatsby-remark-images": "^7.13.0",
-    "gatsby-remark-katex": "^7.13.0",
+    "gatsby-remark-katex": "^4.2.0",
     "gatsby-remark-prismjs": "^7.13.0",
     "gatsby-source-filesystem": "^5.13.0",
     "gatsby-transformer-remark": "^6.13.0",
     "gatsby-transformer-sharp": "^5.13.0",
-    "katex": "^0.13.24",
+    "katex": "0.16.21",
     "moment": "^2.30.1",
     "postcss": "^8.4.32",
     "react": "^18.2.0",

@@ -1,0 +1,23 @@
+---
+title: "Trip to HCI KOREA 2025"
+dateTime: "2025-02-12 00:00:00"
+readMore: true
+---
+We participated in the national conference, [HCI KOREA 2025](https://conference.hcikorea.org/hcik2025/main/main.asp), which was held at Sono Belle Vivaldi Park, Hong-cheon goon, Kangwon-do.
+
+
+import {PhotoItem} from "../../src/components/photo-item";
+
+export const items = [
+    {
+        title: 'The very first photo where P4C lab members are present :)',
+        src: 'https://drive.google.com/thumbnail?id=1F5lyPmHOEgFUvghaHpGny4bMoXeIIvKI&sz=w1000'
+    }
+];
+
+<div className='mt-6 grid grid-cols-1'>
+{
+    items.map(s => <PhotoItem title={s.title} src={s.src}/>)
+}
+</div>
+

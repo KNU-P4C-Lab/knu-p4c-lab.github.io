@@ -1,0 +1,36 @@
+---
+title: "Welcome dinner for new members"
+dateTime: "2025-04-03 00:00:00"
+readMore: true
+---
+Two new members have participated in the P4C Lab since April 2025; thus, the P4C Lab now has five student researchers! We had dinner together to welcome new members.
+
+
+import {PhotoItem} from "../../src/components/photo-item";
+
+export const items = [
+    {
+        src: 'https://drive.google.com/thumbnail?id=1F3s5HbSPI8KrJBGRGRDoT08v0Ei3_Ba6&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1En2XZf2izu0O18AU4ZLpPghlulXj7oCB&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1Em3fIZXVZ-_92wYqxXSxs_E_xeQw9Sz_&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1F6lQaHRUGMsyepl49KoOATtB58_qUSGz&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1FD9onpeWysXycXXyyML6nosSEpaecy7Q&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1EiNwkDkeZHaLJchNKnomvatZK9x74Fzn&sz=w1000'
+    }
+];
+
+<div className='mt-6 grid grid-cols-1 gap-2 sm:grid-cols-3'>
+    {
+        items.map(s => <PhotoItem src={s.src}/>)
+    }
+</div>

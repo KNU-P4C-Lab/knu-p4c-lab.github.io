@@ -29,7 +29,11 @@ const News = ({data}: PageProps<Queries.NewsPageQuery>) => {
                             <TimelineTitle className='font-sans text-xl'>{node.frontmatter?.title}</TimelineTitle>
                             <TimelineBody>{node.excerpt}</TimelineBody>
                         </TimelineContent>
-                        {(node.fields?.timeToRead?.words || 0) > 150 &&
+                        {
+                            (
+                                ((node.fields?.timeToRead?.words || 0) > 150) ||
+                                (node.frontmatter?.readMore == true)
+                            ) &&
                             <LinkButton to={node.fields?.sitePath!!}>
                                 Read More
                                 <FaArrowRight className='ml-2 h-3 w-3'/>
@@ -41,7 +45,7 @@ const News = ({data}: PageProps<Queries.NewsPageQuery>) => {
         </Layout>
     )
 }
-export const Head = () => <Seo title='News'/>
+export const Head = () => <Seo title='News & Activities'/>
 
 export const pageQuery = graphql`
     query NewsPage {
@@ -63,6 +67,7 @@ export const pageQuery = graphql`
                 frontmatter {
                     title
                     dateTime(formatString: "hh:mm A, MMM Do, YYYY")
+                    readMore
                 }
                 excerpt(pruneLength: 300)
                 fields {

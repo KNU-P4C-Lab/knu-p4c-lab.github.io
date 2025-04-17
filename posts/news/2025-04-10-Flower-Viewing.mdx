@@ -1,0 +1,25 @@
+---
+title: "Three Men with Cherry Blossoms"
+dateTime: "2025-04-10 00:00:00"
+readMore: true
+---
+
+Cherry blossoms came into bloom all around the school!
+
+
+import {PhotoItem} from "../../src/components/photo-item";
+
+export const items = [
+    {
+        src: 'https://drive.google.com/thumbnail?id=1FU0RnCFtzr8XdGTMpOw-AqOOelWgpxa-&sz=w1000',
+        title: 'Three Idi...no, three handsome guys'
+    }
+];
+
+<div className='mt-6 grid grid-cols-1'>
+{
+    items.map(s => <PhotoItem title={s.title} src={s.src}/>)
+}
+</div>
+
+

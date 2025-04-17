@@ -15,7 +15,7 @@ const PeopleItem = ({name, position, email, homepage, sitePath, picture}: {name:
                     alt={name}
                     image={picture}
                     className='rounded-lg h-64 w-full'
-                /> : <StaticImage src='../images/placeholder.jpg' alt={name} className='rounded-lg w-64 w-full'/>
+                /> : <StaticImage src='../images/placeholder.jpg' alt={name} className='rounded-lg w-full'/>
             }
 
             <div>
