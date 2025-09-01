@@ -1,0 +1,35 @@
+---
+title: "Trip to KCC 2025"
+dateTime: "2025-07-02 00:00:00"
+readMore: true
+---
+We participated in the national conference, [KCC 2025](https://www.kiise.or.kr/conference/kcc/2025/), which was held at the International Convention Center, Jeju.
+
+import {PhotoItem} from "../../src/components/photo-item";
+
+export const items = [
+    {
+        src: 'https://drive.google.com/thumbnail?id=1mzr-CF7oCBfk1JIbidE4ffsKrqEXCN9_&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=168_dKyxb5zzVou4Q9YHfhS5JQDjrG4fS&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=18DOt5y3ko2Jo4seQK1tuJhKf9DBB5FGQ&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1fOk-V0-EYYxzt2ka_XmLZrVZI8rAhI6C&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1RnghuxsZmwPSQ4NwutGgvgt1kv7kM7_n&sz=w1000'
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1yYE4Yn_XxWBTL241tYw2oRaCLiIX8oM_&sz=w1000'
+    }
+];
+
+<div className='mt-6 grid grid-cols-1'>
+    {
+        items.map(s => <PhotoItem title={s.title} src={s.src}/>)
+    }
+</div>

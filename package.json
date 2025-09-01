@@ -8,7 +8,7 @@
     "P4C Lab"
   ],
   "scripts": {
-    "develop": "gatsby clean && gatsby develop",
+    "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",

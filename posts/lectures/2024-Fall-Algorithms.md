@@ -1,10 +1,11 @@
 ---
 code: "4471016"
-title: "알고리즘 / Algorithms"
-year: 2024
+year: "2024"
 semester: fall
-division: "3분반"
-description: "This course introduces fundamental concepts and theories to design and analyze computer algorithms that are widely employed in computer science. Throughout the course, we will cover divide-and-conquer, dynamic programming, greedy algorithms, backtracking, branch-and-bound, genetic algorithms, and NP theory."
+division: "3 Div."
+title: Algorithms
+types: major
+description: "This courses introduces fundamental concepts and theories to design and analyze computer algorithms that are widely employed in computer science. Throughout the courses, we will cover divide-and-conquer, dynamic programming, greedy algorithms, backtracking, branch-and-bound, genetic algorithms, and NP theory."
 ---
 # Instruction
 ## Course Staff

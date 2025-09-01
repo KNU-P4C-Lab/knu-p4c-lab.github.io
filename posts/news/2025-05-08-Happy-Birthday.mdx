@@ -1,0 +1,28 @@
+---
+title: "Happy Birthday, Sungbin and Hyeseon!"
+dateTime: "2025-05-08 00:00:00"
+readMore: true
+---
+
+May 5 and 12 are Sungbin and Hyeseon's birthdays, respectively. To celebrate it, we enjoyed dinner and Karaoke :)
+
+
+import {PhotoItem} from "../../src/components/photo-item";
+
+export const items = [
+    {
+        src: 'https://drive.google.com/thumbnail?id=1rIGSdTl5rF6Hqidrnuq6i-YiE4M2589P&sz=w1000',
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1rNKq-CGouYbvV1xJRqNHzaQLe2ChMM8O&sz=w1000',
+    },
+    {
+        src: 'https://drive.google.com/thumbnail?id=1rXnSbWYAop1cDl-_ENB3U15qhil9O7z4&sz=w1000',
+    }
+];
+
+<div className='mt-6 grid grid-cols-1'>
+{
+    items.map(s => <PhotoItem title={s.title} src={s.src}/>)
+}
+</div>

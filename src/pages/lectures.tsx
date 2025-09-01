@@ -1,93 +1,105 @@
 import React from 'react'
-import {graphql, Link, PageProps} from "gatsby";
+import {graphql, PageProps} from "gatsby";
 import Seo from "../components/seo";
 import Layout from "../components/layout";
-import {H3, H6, Span, P, H4} from "../components/typography";
-import {FaArrowRight} from "react-icons/fa6";
-import LinkButton from "../components/link-button";
-
-const LectureItem = ({code, title, division, description, showMore, sitePath}: {
-    code?: string | number,
-    title?: string,
-    division?: string | number,
-    description?: string | null,
-    showMore?: boolean | null
-    sitePath: string
-}) => {
-
-    const maxWords = 50
-    const descArray = description?.trim()?.split(' ') ?? []
-    const ellipsis = descArray.length > maxWords ? ' \u00B7\u00B7\u00B7' : ''
-    const truncateDesc = descArray.splice(0, maxWords).join(' ') + ellipsis
-    return (
-        <div className="flex flex-col text-sm items-start font-serif space-y-1">
-            {code && <Span className='leading-none text-gray-400 dark:text-gray-500'>{code}</Span> }
-                <H6 className='capitalize font-sans'>
-                    {title} {division && ` (${division})`}
-                </H6>
-                <P className='hidden md:flex'>{truncateDesc}</P>
-            {
-                showMore &&
-                <LinkButton to={sitePath}>
-                    Learn More
-                    <FaArrowRight className='ml-2 h-3 w-3'/>
-                </LinkButton>
-            }
-        </div>
-    )
-}
-
-const SEMESTERS = ['spring', 'summer', 'fall', 'winter', 'precollege']
+import {H3, Span, P, H5, InnerLink} from "../components/typography";
 
 const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
-    const {lectures} = data
-    const years = Array.from(
-        new Set(lectures.nodes.map(node => node.frontmatter?.year || 0))
-    ).sort((a, b) => b - a)
+    const { lectures } = data
+    const majorArtCodes = Array.from(
+        new Set(
+            lectures.nodes.filter(
+                node => node.frontmatter?.types == "major"
+            ).map(
+                node => node.frontmatter?.code
+            )
+        )
+    )
+    const liberalArtCodes = Array.from(
+        new Set(
+            lectures.nodes.filter(
+                node => node.frontmatter?.types == "liberal"
+            ).map(
+                node => node.frontmatter?.code
+            )
+        )
+    )
 
     return (
         <Layout activeLink='lectures'>
             <div className='flex flex-col space-y-8'>
-            {
-                years.map(year =>
+                {
+                    majorArtCodes.length > 0 &&
                     <div>
-                        <H3 className='dark:text-primary-100'>{year}</H3>
-                        {
-                            SEMESTERS.map(semester =>
-                                lectures.nodes.filter(
-                                    node => node.frontmatter?.year === year && node.frontmatter?.semester === semester
-                                ).length > 0 &&
-                                <div className='flex flex-col'>
-                                    <H4 className='dark:text-primary-100 capitalize'>{semester}</H4>
-                                    <ul className='space-y-2 pt-2 pb-4'>
-                                        {
-                                            lectures.nodes.filter(
-                                                node => node.frontmatter?.year === year && node.frontmatter?.semester === semester
-                                            ).sort(
-                                                (a, b) =>
-                                                    a.frontmatter?.code?.localeCompare(b.frontmatter?.code || '') || -1).map(node =>
-                                                <li>
-                                                    <LectureItem
-                                                        title={node.frontmatter?.title || ''}
-                                                        code={node.frontmatter?.code || ''}
-                                                        division={node.frontmatter?.division || ''}
-                                                        description={node.frontmatter?.description || ''}
-                                                        sitePath={node.fields?.sitePath || ''}
-                                                        showMore={(node.fields?.timeToRead?.words || 0) > 0}
-                                                    />
-                                                </li>
-                                            )
-                                        }
-                                    </ul>
-                                </div>
-                            )
-                        }
+                        <H3 className='dark:text-primary-100 mb-6'>Major Arts (Computer Science &amp; Engineering)</H3>
+                        <div className='flex flex-col space-y-6'>
+                            {
+                                majorArtCodes.map(code => {
+                                    const curLectures = lectures.nodes.filter(node => node.frontmatter?.code === code)
+                                    const lastLecture = curLectures.at(0)
+
+                                    return (
+                                        <div className="flex flex-col border-b border-gray-200 dark:border-gray-700 pb-6 last:border-b-0">
+                                            {
+                                                code && <Span className='text-sm font-sans text-gray-400 dark:text-gray-500'>{code}</Span>
+                                            }
+                                            {
+                                                lastLecture?.frontmatter?.title && <H5 className='capitalize font-sans mb-2'>{lastLecture?.frontmatter?.title}</H5>
+
+                                            }
+                                            {
+                                                lastLecture?.frontmatter?.description && <P className='hidden md:flex'>{lastLecture?.frontmatter?.description}</P>
+                                            }
+                                            <ul className='grid grid-cols-3 list-disc list-inside space-x-6'>
+                                                {
+                                                    curLectures.map(node =>
+                                                        <li className='text-gray-500 dark:text-gray-400'>
+                                                            <InnerLink href={node.fields?.sitePath || ""} className='capitalize'>{node.frontmatter?.semester || ""} {node.frontmatter?.year || ""}</InnerLink>
+                                                        </li>
+                                                    )
+                                                }
+                                            </ul>
+                                        </div>
+                                    )
+                                })
+                            }
+                        </div>
                     </div>
-                )
-            }
+                }
+                {
+                    liberalArtCodes.length > 0 &&
+                    <div>
+                        <H3 className='dark:text-primary-100 mb-6'>Liberal Arts</H3>
+                        <div className='flex flex-col space-y-6'>
+                            {
+                                liberalArtCodes.map(code => {
+                                    const curLectures = lectures.nodes.filter(node => node.frontmatter?.code === code)
+                                    const lastLecture = curLectures.at(0)
+
+                                    return (
+                                        <div className="flex flex-col border-b border-gray-200 dark:border-gray-700 pb-6 last:border-b-0">
+                                            {
+                                                code && <Span className='text-sm font-sans text-gray-400 dark:text-gray-500'>{code}</Span>
+                                            }
+                                            {
+                                                lastLecture?.frontmatter?.title && <H5 className='capitalize font-sans mb-2'>{lastLecture?.frontmatter?.title}</H5>
+
+                                            }
+                                            {
+                                                lastLecture?.frontmatter?.description && <P className='hidden md:flex'>{lastLecture?.frontmatter?.description}</P>
+                                            }
+                                        </div>
+                                    )
+                                })
+                            }
+                        </div>
+                    </div>
+                }
             </div>
+
+
         </Layout>
-)
+    )
 
 }
 
@@ -113,16 +125,14 @@ export const pageQuery = graphql`
             nodes {
                 fields {
                     sitePath
-                    timeToRead {
-                        words
-                    }
                 }
                 frontmatter {
                     code
-                    title
                     year
                     semester
                     division
+                    title
+                    types
                     description
                 }
             }

@@ -1,10 +1,11 @@
 ---
 code: "4471019"
-title: "문제 해결 프로그래밍 / Problem Solving and Programming"
-year: 2023
+year: "2023"
 semester: fall
-division: "3분반"
-description: "This course aims to cultivate practical skills to solve programming challenges based on what students learned from the data structure and additional techniques, including string manipulation, sorting, backtracking, graph traversal, and dynamic programming."
+division: "3 Div."
+title: "Problem Solving and Programming"
+types: major
+description: "This courses aims to cultivate practical skills to solve programming challenges based on what students learned from the data structure and additional techniques, including string manipulation, sorting, backtracking, graph traversal, and dynamic programming."
 ---
 # Instruction
 ## Course Staff

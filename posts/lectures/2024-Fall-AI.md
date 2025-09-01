@@ -1,10 +1,11 @@
 ---
 code: "4471032"
-title: "인공지능 / Artificial Intelligence"
-year: 2024
+year: "2024"
 semester: fall
-division: "4분반"
-description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This course will cover the foundational concepts of RL, including state-action-reward pairs, the Markov decision process, and exploration versus exploitation. In addition, we will learn key RL algorithms, such as the Monte Carlo method, temporal difference learning, function approximation, and policy gradients. Furthermore, you will work on a small team project to implement an RL agent to solve problems with different difficulties, from simple to complex ones."
+division: "4 Div."
+title: "Artificial Intelligence"
+types: major
+description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This courses will cover the foundational concepts of RL, including state-action-reward pairs, the Markov decision process, and exploration versus exploitation. In addition, we will learn key RL algorithms, such as the Monte Carlo method, temporal difference learning, function approximation, and policy gradients. Furthermore, you will work on a small team project to implement an RL agent to solve problems with different difficulties, from simple to complex ones."
 ---
 
 # Instruction

@@ -1,10 +1,11 @@
 ---
 code: "4471030"
-title: "데이터베이스 / Database"
-year: 2023
+year: "2023"
 semester: fall
-division: "3분반"
-description: "This course covers fundamental concepts of database and database management systems and how to build and query your own database using Structured Query Language. In addition, you will learn a theoretical background for designing a **good** database and basic techniques for concurrency control and recovery."
+division: "3 Div."
+title: "Database"
+types: major
+description: "This courses covers fundamental concepts of database and database management systems and how to build and query your own database using Structured Query Language. In addition, you will learn a theoretical background for designing a good database and basic techniques for concurrency control and recovery."
 ---
 # Instruction
 ## Course Staff

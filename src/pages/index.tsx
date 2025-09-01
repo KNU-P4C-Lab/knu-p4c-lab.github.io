@@ -118,7 +118,11 @@ const Index = ({ data }: PageProps<Queries.IndexPageQuery>) => {
                                 <TimelineTitle className="font-sans">{node.frontmatter?.title}</TimelineTitle>
                                 <TimelineBody>{node.excerpt}</TimelineBody>
                             </TimelineContent>
-                            { (node.fields?.timeToRead?.words || 0) > 150 &&
+                            {
+                                (
+                                    ((node.fields?.timeToRead?.words || 0) > 150)  ||
+                                    (node.frontmatter?.readMore == true)
+                                ) &&
                                 <LinkButton to={node.fields?.sitePath!!}>
                                     Read More
                                     <FaArrowRight className='ml-2 h-3 w-3'/>
@@ -188,11 +192,12 @@ export const pageQuery = graphql`
                     dateTime: DESC
                 }
             }
-            limit: 6
+            limit: 5
         ) {
             nodes {
                 frontmatter {
                     title
+                    readMore
                     dateTime(formatString: "hh:mm A, MMM Do, YYYY")
                 }
                 excerpt(pruneLength: 150)

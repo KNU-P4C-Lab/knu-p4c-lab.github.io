@@ -1,7 +1,7 @@
 ---
 name: "Sanghyeon Hwang"
-type: undergraduate
-position: Undergraduate Student  
+type: graduate
+position: M.S Student
 homepage: 
 email: "sanghyeon.hwang@kangwon.ac.kr"
 picture: "./res/sanghyeon.hwang.png"
