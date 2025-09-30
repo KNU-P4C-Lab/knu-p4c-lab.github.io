@@ -12,7 +12,9 @@ description: "This courses introduces fundamental concepts and theories to desig
 * Lecturer: Woohyeok Choi
   * Office: #407, College of Engineering #6
   * Mail: woohyeok.choi@kangwon.ac.kr
-* Teaching Assistant: TBA
+* Teaching Assistant: Sanghyeon Hwang
+  * Office: #416, College of Engineering #6
+  * Mail: sanghyeon.hwang@kangwon.ac.kr
   
 ## Time & Location
 * Mon./Thu. 10:30 - 11:45, #609, College of Engineering #6
@@ -53,57 +55,57 @@ description: "This courses introduces fundamental concepts and theories to desig
 # Schedule
 ## Week 01
 ### September 01 — Course Overview & Logistics 
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1PT4F1n4to3Wyk4cgZEvdXW3rLoZpKFMJknX_eZjmIn0/edit?usp=drive_link)
 
 ### September 04 — Efficiency, Analysis, Order: Algorithm Description & Sequential Search vs. Binary Search
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1kXsysYtU_gmC--EBmyQlT_M5scr9bdglkPvsYX8iVWM/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 1
 ---
 
 ## Week 02
 ### September 08 — Efficiency, Analysis, Order: Fibonacci Numbers & Algorithm Analysis
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1kXsysYtU_gmC--EBmyQlT_M5scr9bdglkPvsYX8iVWM/edit?slide=id.g344af5190ce_0_77#slide=id.g344af5190ce_0_77)
 * Reference
   * [Ri 17] Chap. 1
 * 
 ### September 11 — Efficiency, Analysis, Order: Order
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1kXsysYtU_gmC--EBmyQlT_M5scr9bdglkPvsYX8iVWM/edit?slide=id.g3732956b007_1_17#slide=id.g3732956b007_1_17)
 * Reference
   * [Ri 17] Chap. 1
 ---
 
 ## Week 03
 ### September 15 — Divide & Conquer: Binary Search & Merge Sort
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1ky05OxTEHsvrxEi5cl7O-ZXE4D__pEy3I4nV0u-h9HY/edit?usp=drive_link)
 * Reference
   * [Ri 17] Chap. 2
 
 ### September 18 — Divide & Conquer: Solution of Recurrence Relation
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1ky05OxTEHsvrxEi5cl7O-ZXE4D__pEy3I4nV0u-h9HY/edit?slide=id.g2891bfa5d42_0_0#slide=id.g2891bfa5d42_0_0)
 * Reference
   * [Ri 17] Appendix B
 ---
 ## Week 04
 ### September 22 — Divide & Conquer: Quick Sort
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1dIxjUGBO6zdiePcB-xlaYJDKFq7Nb6nLnmXxSGE6a9w/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 2
 
 ### September 25 — Divide & Conquer: Matrix Multiplication & Asymptotic Complexity of Recurrence Relation
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1dIxjUGBO6zdiePcB-xlaYJDKFq7Nb6nLnmXxSGE6a9w/edit?slide=id.g303e43caee6_0_7#slide=id.g303e43caee6_0_7)
 * Reference
   * [Ri 17] Chap. 2
 ---
 
 ## Week 05
 ### September 29 — Dynamic Programming: Binomial Coefficient
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1E9rZ6yoqEmBzI9LAgJGnv4PeoNMVpDDTiZLJh3J4dZw/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 3
 
 ### October 02 — Dynamic Programming: Longest Common Subsequence & Matrix-Chain Multiplication
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1E9rZ6yoqEmBzI9LAgJGnv4PeoNMVpDDTiZLJh3J4dZw/edit?slide=id.g3071ae59f29_0_0#slide=id.g3071ae59f29_0_0)
 * Reference
   * [Ri 17] Chap. 3
 ---

@@ -13,7 +13,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Lecturer: Woohyeok Choi
   * Office: #407, College of Engineering #6
   * Mail: woohyeok.choi@kangwon.ac.kr
-* Teaching Assistant: TBA
+* Teaching Assistant: Geonwoo Choi
+  * Office: #416, College of Engineering #6
+  * Mail: geonwoo.choi@kangwon.ac.kr
 
 ## Time & Location
 * Mon./Thu. 09:00 - 10:15, #609, College of Engineering #6
@@ -42,58 +44,58 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 # Schedule
 ## Week 01
 ### September 01 — Overview & Logistics
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/17gLEgaOEPUvdMWK81P6iV0AKIlRIDNCJSXBHX7gxWho/edit?usp=drive_link)
 
 ### September 04 — Basic Math
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1GriviaJvzV4fVzXjKO4sLs41OzK7OdP-UoKTrJhHgkw/edit?usp=drive_link)
 ---
 
 ## Week 02
 ### September 08 — Introduction to Reinforcement Learning
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1HN9cyVj2Z7euSlmGCzc2sP49TU9q-L5K0MpFyn_t6OA/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 1
 
 ### September 11 — Multi-Armed Bandits
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1YlZUhQSnKJG5UBs8vTyX06If9TiFinvThy4k-JIhf8w/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 2
 ---
 
 ## Week 03
 ### September 15 — Markov Process
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1qI7kH-daSl7nRL1BV-FQKOk2SxAt_SGIOjf3NzEqIlA/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 3
 
 ### September 18 — Dynamic Programming
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1RkGeBwWZrGOnxF0K9ItV3EIZSWS0diZdwkiXcYHP_BQ/edit?usp=drive_link)
 * Reference
   * [Ri 20] Chap. 4
 ---
 
 ## Week 04
 ### September 22 — Tutorial on Gymnasium
-* [Practice]()
-* [(Announce) Competition Round 1: Grid Crossing!]()
+* [Practice](https://colab.research.google.com/drive/1ycD7rqJ7l-HIycsx1pTMuSzbmS7_LfWX?usp=drive_link)
+* [(Announce) Competition Round 1: Grid Crossing!](https://docs.google.com/document/d/1tE5EERsMNz9aaZgEYk1bD-fGF_oc1p-MS9WNrTrGqBk/edit?usp=drive_link)
     * Due: Oct. 13
 * Readings
     * [OpenAI Gymnasium](https://gymnasium.farama.org/)
 
 ### September 25 — Monte-Carlo Methods: On-Policy Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1fAo2gTYu5tWNgurSrTPqca9KF8jrrMPVJoGx2rgB7AA/edit?usp=drive_link)
 * Reference
     * [Ri 20] Chap. 5
 ---
 
 ## Week 05
 ### September 29 — Monte-Carlo Methods: Off-Policy Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1fAo2gTYu5tWNgurSrTPqca9KF8jrrMPVJoGx2rgB7AA/edit?slide=id.g306b0c5bb0f_0_74#slide=id.g306b0c5bb0f_0_74)
 * Reference
     * [Ri 20] Chap. 5
 
 ### October 02 — Temporal Difference Learning
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1VbzNNw7TeCD6gQ0urb_b1gt6SKCijNcMfS9MArJ0Tqo/edit?usp=drive_link)
 * Reference
     * [Ri 20] Chap. 6
 ---
@@ -181,7 +183,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 13
-### November 24 — Policy Gradient: Basics
+### November 24 — Self-Play / Policy Gradient: Basics
 * [Lecture]()
 * Reference
     * [Ri 20] Chap. 13
@@ -193,28 +195,27 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 14
-### December 01 — Policy Gradient: Actor-Critic with Eligibility Traces & Asynchronous Advantage Actor-Critic
+### December 01 — Policy Gradient: Asynchronous Advantage Actor-Critic
 * [Lecture]()
 * Reference
     * [Ri 20] Chap. 13
     * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
 
-### December 04 - Self-Play
-* [Lecture]()
-* Reference
-  * Zhang, Ruize, Zelai Xu, Chengdong Ma, Chao Yu, Wei-Wei Tu, Wenhao Tang, Shiyu Huang et al. "A survey on self-play methods in reinforcement learning." arXiv preprint arXiv:2408.01072 (2024).
+### December 04 - Focus on the Final Round
+* No Class
+
 ---
 
 ## Week 15
-### December 08 — Focus on Final Exam 
-* No Class
+### December 08 — Competition Round 4: Al-Kka-Gi! - League Stage (Rise Group) 
+* [Leaderboard]()
 
-### December 11 — Competition Round 5: League Stage
+### December 11 — Competition Round 4: Al-Kka-Gi! - League Stage (Legend Group)
 * [Leaderboard]()
 ---
 
 ## Week 16
-### December 15 — Competition Round 5: Playoff Stage
+### December 15 — Competition Round 5: Al-Kka-Gi! - Playoff
 * [Leaderboard]()
 
 ### December 18 — Final Remark
