@@ -121,17 +121,17 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 08
-### October 20 — Focus on Midterm Exam
-* No Class
+### October 20 — Planning & Learning
+* [Lecture]()
 
-### October 23— Planning & Learning: Model-based Methods & Experience Sampling
+### October 23 — Function Approximation: Basics & Non-Parametric FA
 * [Lecture]()
 * Reference
-    * [Ri 20] Chap. 8
+    * [Ri 20] Chap. 9 - 10
 ---
 
 ## Week 09
-### October 27 — Planning & Learning: Trajectory Sampling & Decision-Time Planning
+### October 27 — Function Approximation: Linear Function Approximation
 * [Lecture]()
 * Reference
     * [Ri 20] Chap. 9 - 10
@@ -143,31 +143,40 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 10
-### November 03 — Function Approximation: Basics & Non-Parametric FA
+### November 03 — Non-Linear Function Approximation: Artificial Neural Network
 * [Lecture]()
+* Readings
+    * [Colab Practice]()
 * Reference
     * [Ri 20] Chap. 9 - 10
 
-### November 06 — Function Approximation: Linear Function Approximation
+### November 06 — Non-Linear Function Approximation: Deep Neural Network
 * [Lecture]()
+* Readings
+  * [Colab Practice]()
 * Reference
     * [Ri 20] Chap. 9 - 10
+
 ---
 
 ## Week 11
-### November 10 — Function Approximation: Artificial Neural Network
+### November 10 — Non-Linear Function Approximation: Convolution Neural Network
 * [Lecture]()
+* Readings
+  * [Colab Practice]()
 * Reference
     * [Ri 20] Chap. 9 - 10
 
-### November 13 — Function Approximation: Convolution Neural Network
+### November 13 — Deep-Q Network: Basics 
 * [Lecture]()
 * Reference
-    * [Ri 20] Chap. 9 - 10
+    * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+    * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
+    * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
 ---
 
 ## Week 12
-### November 17 — Function Approximation: Deep-Q Network
+### November 17 — Deep-Q Network: Variants
 * [Lecture]()
 * Reference
     * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
@@ -179,7 +188,6 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Leaderboard]()
 * [(Announce) Competition Round 4: Al-Kka-Gi!]()
     * Due: Dec. 11
-
 ---
 
 ## Week 13
@@ -188,36 +196,39 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
     * [Ri 20] Chap. 13
  
-### November 27 — Policy Gradient: REINFORCE & Actor-Critic Methods
+### November 27 — Policy Gradient: REINFORCE 
 * [Lecture]()
 * Reference
     * [Ri 20] Chap. 13
 ---
 
 ## Week 14
-### December 01 — Policy Gradient: Asynchronous Advantage Actor-Critic
+### December 01 — Policy Gradient: Actor-Critic Methods
 * [Lecture]()
 * Reference
     * [Ri 20] Chap. 13
     * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
 
-### December 04 - Focus on the Final Round
-* No Class
-
+### December 04 — Policy Gradient: Proximal Policy Optimization
+* [Lecture]()
+* Reference
+  * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 ---
 
 ## Week 15
-### December 08 — Competition Round 4: Al-Kka-Gi! - League Stage (Rise Group) 
-* [Leaderboard]()
+### December 08 — Preparing for Final Competition
+* No Class
 
-### December 11 — Competition Round 4: Al-Kka-Gi! - League Stage (Legend Group)
+### December 11 — Competition Round 4: Al-Kka-Gi! - League Stage (Rise Group)
 * [Leaderboard]()
 ---
 
 ## Week 16
-### December 15 — Competition Round 5: Al-Kka-Gi! - Playoff
+### December 15 — Competition Round 4: Al-Kka-Gi! - League Stage (Legend Group)
 * [Leaderboard]()
 
-### December 18 — Final Remark
-* [Lecture]()
+
+### December 18 — Competition Round 5: Al-Kka-Gi! - Playoff
+* [Leaderboard]()
+
 ---
