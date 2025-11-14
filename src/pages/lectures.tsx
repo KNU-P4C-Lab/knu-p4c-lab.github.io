@@ -50,7 +50,7 @@ const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
                                             {
                                                 lastLecture?.frontmatter?.description && <P className='hidden md:flex'>{lastLecture?.frontmatter?.description}</P>
                                             }
-                                            <ul className='grid grid-cols-3 list-disc list-inside space-x-6'>
+                                            <ul className='md:grid md:grid-cols-3 md:space-x-6 list-disc list-inside '>
                                                 {
                                                     curLectures.map(node =>
                                                         <li className='text-gray-500 dark:text-gray-400'>

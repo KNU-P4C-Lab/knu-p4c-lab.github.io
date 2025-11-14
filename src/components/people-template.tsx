@@ -12,17 +12,17 @@ const PeopleTemplate = ({data, children}: PageProps<Queries.PeopleTemplateQuery>
     return (
         <Layout activeLink='people'>
             <div>
-                <div className='flex flex-col items-center sm:flex-row sm:items-start '>
+                <div className='flex flex-col md:flex-row md:items-start '>
                     {
                         people?.frontmatter?.picture?.image?.data ? <GatsbyImage
                             alt={people.frontmatter.name || ''}
                             image={people.frontmatter.picture.image.data}
-                            className='rounded-lg max-w-xs'
+                            className='rounded-lg md:max-w-xs'
                         /> : <StaticImage src='../images/placeholder.jpg' alt={people?.frontmatter?.name || ''}
-                                          className='rounded-lg max-w-xs'/>
+                                          className='rounded-lg md:max-w-xs'/>
                     }
 
-                    <div className="flex flex-col space-y-2 sm:pt-0 sm:pl-4 font-serif">
+                    <div className="flex flex-col space-y-2 pt-2 md:pl-4 md:pt-0 font-serif">
                         <Span>{people?.frontmatter?.position || ''}</Span>
                         <H4 className='font-sans'>{people?.frontmatter?.name || ''}</H4>
                         <Span>{people?.frontmatter?.startDate} - {people?.frontmatter?.endDate || 'Present'}</Span>

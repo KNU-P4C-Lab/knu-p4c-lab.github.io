@@ -120,20 +120,19 @@ description: "This courses introduces fundamental concepts and theories to desig
 
 ## Week 07
 ### October 13 — Dynamic Programming: Minimum Edit Distance Problem & All-Pairs Shortest Path Problem
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1P0MzXQI9kpwCPV_UF8FdcQQILxq_EPGWVUd4cjN3hTk/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 3
 
 
 ### October 16 — Dynamic Programming: Traveling Salesman Problem & Knapsack Problem
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1P0MzXQI9kpwCPV_UF8FdcQQILxq_EPGWVUd4cjN3hTk/edit?slide=id.g3071b070235_0_14#slide=id.g3071b070235_0_14)
 * Reference
   * [Ri 17] Chap. 3
 ---
 
 ## Week 08
-### October 20 — Preparing for Midterm Exam
-* Q & A Session in class
+### October 20 — Q&A for Midterm Exam
 
 ### October 23 — Midterm Exam
 
@@ -144,7 +143,7 @@ description: "This courses introduces fundamental concepts and theories to desig
 
 
 ### October 30 — Greedy Algorithm: Single-Source Shortest Path Problem
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1LgwsfmcBgyB-zvC71gMx8KgrB6FQk5CBqCSNK9yxlQ8/edit?slide=id.g3025a9b3557_0_0#slide=id.g3025a9b3557_0_0)
 * Reference
   * [Ri 17] Chap. 4
 
@@ -152,36 +151,36 @@ description: "This courses introduces fundamental concepts and theories to desig
 
 ## Week 10
 ### November 03 — Greedy Algorithm: Prim's Minimum Spanning Tree
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1LgwsfmcBgyB-zvC71gMx8KgrB6FQk5CBqCSNK9yxlQ8/edit?slide=id.g30f26d9690f_0_204#slide=id.g30f26d9690f_0_204)
 * Reference
   * [Ri 17] Chap. 4
 
 ### November 06 — Greedy Algorithm: Kruskal's Minimum Spanning Tree
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1LgwsfmcBgyB-zvC71gMx8KgrB6FQk5CBqCSNK9yxlQ8/edit?slide=id.g30f26d9690f_0_244#slide=id.g30f26d9690f_0_244)
 * Reference
   * [Ri 17] Chap. 4
 ---
 
 ## Week 11
 ### November 10 — Greedy Algorithm: Huffman Code
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1LgwsfmcBgyB-zvC71gMx8KgrB6FQk5CBqCSNK9yxlQ8/edit?slide=id.g30f26d9690f_0_305#slide=id.g30f26d9690f_0_305)
 * Reference
   * [Ri 17] Chap. 4
 
 ### November 13 — Backtracking: n-Queen Problem
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1YnfRFLS3_9CKmYgBHgpXB0hvCp7FdrPwcJ_DkBlTN2k/edit?usp=sharing)
 * Reference
   * [Ri 17] Chap. 5
 ---
 
 ## Week 12
 ### November 17 — Backtracking: Monte-Carlo Method & Graph Coloring
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1YnfRFLS3_9CKmYgBHgpXB0hvCp7FdrPwcJ_DkBlTN2k/edit?slide=id.g313146b3cb4_0_386#slide=id.g313146b3cb4_0_386)
 * Reference
   * [Ri 17] Chap. 5
 
 ### November 20 — Backtracking: Traveling Salesman Problem & Knapsack Problem
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1YnfRFLS3_9CKmYgBHgpXB0hvCp7FdrPwcJ_DkBlTN2k/edit?slide=id.g313146b3cb4_0_689#slide=id.g313146b3cb4_0_689)
 * Reference
   * [Ri 17] Chap. 5
 ---

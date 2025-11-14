@@ -8,7 +8,7 @@
     "P4C Lab"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "set NODE_OPTIONS=--max-old-space-size=16384 && gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
