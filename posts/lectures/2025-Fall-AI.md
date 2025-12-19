@@ -175,58 +175,57 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 12
 ### November 17 — Policy Gradient Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/18-xzmJIiCkHVW85I820ZWrW5EBdDniMeMKBS4FYYorM/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 13
 
 ### November 20 — Competition Round 3: Avoid Blurp!
-* [Leaderboard]()
+* [Leaderboard](https://docs.google.com/document/d/1GIZoo2RKFobGNoGd3ggQ3NRP7EnzDhBzbE5IyN8tPLQ/edit?tab=t.0#heading=h.kyv1b7uh65c)
 * [(Announce) Competition Round 4: Al-Kka-Gi!]()
     * Due: Dec. 11
 ---
 
 ## Week 13
 ### November 24 — Practice on Policy Gradient Methods
-* [Lecture]()
+* [Lecture](https://drive.google.com/file/d/1_UGoaF3sJcnUiSrbCNeWMqRPtTOt0Q9L/view?usp=drive_link)
 * Reference
-    * [Ri20] Chap. 13
+  * [Ri20] Chap. 13
 
  
-### November 27 — Advanced Algorithms: Distributed Reinforcement Learning
-* [Lecture]()
+### November 27 — Advanced Algorithms: Off-Policy Policy Gradient / Asynchronous Methods
+* [Lecture](https://docs.google.com/presentation/d/1HsVLAmPc0CLaWzCzkCKMt6qEhtW7XBiPzC0DCBaOY5o/edit?usp=drive_link)
 * Reference
-    * [Ri20] Chap. 13
-    * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
 ---
 
 ## Week 14
-### December 01 — Advanced Algorithms: Policy Optimization
-* [Lecture]()
-* Reference
-  * Schulman, John, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR, 2015. 
-  * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
-
-### December 04 — Advanced Algorithms: Deterministic Policy Gradient
-* [Lecture]()
+### December 01 — Advanced Algorithms: Deterministic Policy Gradient / Soft Actor-Critic
+* [Lecture](https://docs.google.com/presentation/d/1HsVLAmPc0CLaWzCzkCKMt6qEhtW7XBiPzC0DCBaOY5o/edit?usp=drive_link)
 * Reference
   * Lillicrap, Timothy P., Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
   * Dankwa, Stephen and Zheng, Wenfeng. "Twin-Delayed DDPG: A Deep Reinforcement Learning Technique to Model a Continuous Movement of an Intelligent Robot Agent". In Proceedings of the 3rd International Conference on Vision, Image and Signal Processing (ICVISP 2019). Association for Computing Machinery, New York, NY, USA, Article 66, 1–5. (2020) https://doi.org/10.1145/3387168.3387199
   * Haarnoja, Tuomas, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018).
+
+### December 04 — Advanced Algorithms: Policy Optimization
+* [Lecture](https://docs.google.com/presentation/d/1HsVLAmPc0CLaWzCzkCKMt6qEhtW7XBiPzC0DCBaOY5o/edit?usp=drive_link)
+* Reference
+  * Schulman, John, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR, 2015.
+  * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 
 ## Week 15
 ### December 08 — Preparing for Final Competition
 * No Class
 
 ### December 11 — Competition Round 4: Al-Kka-Gi! - League Stage (Rise Group)
-* [Leaderboard]()
+* [Leaderboard](https://docs.google.com/presentation/d/1PadtiDCoVfyDMl-6AL9IEyXZ8FOe1kmOjsKta3ovA74/edit?usp=sharing)
 ---
 
 ## Week 16
 ### December 15 — Competition Round 4: Al-Kka-Gi! - League Stage (Legend Group)
-* [Leaderboard]()
+* [Leaderboard](https://docs.google.com/presentation/d/1PadtiDCoVfyDMl-6AL9IEyXZ8FOe1kmOjsKta3ovA74/edit?usp=sharing)
 
 
-### December 18 — Competition Round 5: Al-Kka-Gi! - Playoff
-* [Leaderboard]()
+### December 18 — Competition Round 5: Al-Kka-Gi! - Play-Off/In & Final Stage
+* [Leaderboard](https://docs.google.com/presentation/d/1PadtiDCoVfyDMl-6AL9IEyXZ8FOe1kmOjsKta3ovA74/edit?usp=sharing)
 
 ---

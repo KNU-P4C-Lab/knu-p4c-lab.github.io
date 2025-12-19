@@ -211,7 +211,7 @@ description: "This courses introduces fundamental concepts and theories to desig
 
 ## Week 15
 ### December 08 — Evolutionary Computation
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1jjPxKlnW_rDpVDd9MmgdFAy_PfyJPLt3WRubLjgFMLs/edit?usp=drive_link)
 * Reference
   * [Ri 17] Chap. 10
 
