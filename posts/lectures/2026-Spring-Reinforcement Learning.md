@@ -1,8 +1,8 @@
 ---
 code: "-"
-year: "2025"
+year: "2026"
 semester: spring
-division: "-"
+division: "1 Div."
 title: "Reinforcement Learning"
 types: major
 description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This courses will cover the foundational concepts of RL, including state-action-reward pairs, the Markov decision process, and exploration versus exploitation. In addition, we will learn key RL algorithms, such as the Monte Carlo method, temporal difference learning, function approximation, and policy gradients. Furthermore, you will work on a small team project to implement an RL agent to solve problems with different difficulties, from simple to complex ones."
@@ -13,12 +13,10 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Lecturer: Woohyeok Choi
   * Office: #407, College of Engineering #6
   * Mail: woohyeok.choi@kangwon.ac.kr
-* Teaching Assistant: Geonwoo Choi
-  * Office: #416, College of Engineering #6
-  * Mail: geonwoo.choi@kangwon.ac.kr
+* Teaching Assistant: TBA
 
 ## Time & Location
-* TBD
+* Mon./Thu. 09:00 - 10:15, #600, College of Engineering #6
 
 ## Office Hours
 * Tue. 13:00 - 15:00
@@ -31,15 +29,14 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Grading Policy
 ### Reinforcement Learning Competitions (90%)
-* (5%) Competition Round 0: Grid Crossing
-* (15%) Competition Round 1: Grid Adventure
-* (20%) Competition Round 2: Avoid Blurp
-* (20%) Competition Round 3: Survive from Bullet Bill
-* (30%) Competition Round 4: Angry Birds
+* (5%) Competition Round 0: TBA
+* (15%) Competition Round 1: TBA
+* (20%) Competition Round 2: TBA
+* (20%) Competition Round 3: TBA
+* (30%) Competition Round 4: TBA
 
 ### Attendance (10%)
-- 1% of credit is deducted for each absence
-- 3-Lateness = 1-Absence
+- 1% of credit is deducted for each absence or each 3-lateness
 - At least 11-Absence = F grade
 
 # Schedule
@@ -96,9 +93,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
   * [Ri20] Chap. 5
 
-### April 06 — Competition Round 0: Grid Crossing!
+### April 06 — Competition Round 0: TBA
 * [Leaderboard]()
-* [(Announce) Competition Round 1: TBD]()
+* [(Announce) Competition Round 1: TBA]()
   * Due: April 23
 ---
 
@@ -127,9 +124,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 08
-### April 23 — Competition Round 1: TBD
+### April 23 — Competition Round 1: TBA
 * [Leaderboard]()
-* [(Announce) Competition Round 2: TBD]()
+* [(Announce) Competition Round 2: TBA]()
   * Due: May 11
   
 ### April 27 — Nonlinear Function Approximation: Deep Neural Network
@@ -160,9 +157,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
   * [Ri20] Chap. 11
   * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
 
-### May 11 — Competition Round 2: TBD
+### May 11 — Competition Round 2: TBA
 * [Leaderboard]()
-* [(Announce) Competition Round 3: TBD]()
+* [(Announce) Competition Round 3: TBA]()
   * Due: June 18
 ---
 
@@ -192,9 +189,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 13
-### May 28 — Competition Round 3: TBD
+### May 28 — Competition Round 3: TBA
 * [Leaderboard]()
-* [(Announce) Competition Round 4: TBD]()
+* [(Announce) Competition Round 4: TBA]()
   * Due: June 15
 
 ### June 01 — Advanced Topics: Deterministic Policy Gradient Methods 
@@ -221,7 +218,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### June 11 — Focus on RL Final Competition
 * No Class
 
-### June 15 — Competition Round 4: TBD
+### June 15 — Competition Round 4: TBA
 * [Leaderboard]()
 ---
 

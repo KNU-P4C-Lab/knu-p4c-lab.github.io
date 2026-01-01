@@ -1,10 +1,10 @@
 ---
 code: "4471037"
-year: "2025"
+year: "2026"
 semester: spring
 title: 'Machine Learning'
 types: major
-division: "-"
+division: "2 Div."
 description: "This course covers theoretical backgrounds and practical implementation of different machine learning techniques, including supervised learning, unsupervised learning, deep learning, active learning, anmd reinforcement learning. In addition, it explores the entire pipeline to build applications of machine learning with practices. Furthermore, it provides a broad introduction to ethical issues relevant to machine learning."
 ---
 # Instruction
@@ -12,9 +12,10 @@ description: "This course covers theoretical backgrounds and practical implement
 * Lecturer: Woohyeok Choi
   * Office: #407, College of Engineering #6
   * Mail: woohyeok.choi@kangwon.ac.kr
+* Teaching Assistant: TBA
 
 ## Time & Location
-* TBD
+* Tue./Wed. 09:00 - 10:45, #608, College of Engineering #6
 
 ## Office Hours
 * Tue. 13:00 - 15:00
@@ -37,14 +38,14 @@ description: "This course covers theoretical backgrounds and practical implement
 - Collect sensor data for human activity recognition
 
 ### Individual ML Competitions via Kaggle (80%)
-- Round 0 - Being Familiar with Kaggle (5%)
-- Round 1 - TBD (9%)
-- Round 2 - TBD (9%)
-- Round 3 - TBD (9%)
-- Special Round - TBD (15%)
-- Round 4 - TBD (9%)
-- Round 5 - TBD (9%)
-- Final Round - Human Activity Recognition (15%)
+- Round 0 – Being Familiar with Kaggle (5%)
+- Round 1 – TBA (9%)
+- Round 2 – TBA (9%)
+- Round 3 – TBA (15%)
+- Round 4 – TBA (9%)
+- Round 5 – TBA (9%)
+- Round 6 – TBA (9%)
+- Round 7 – Human Activity Recognition (15%)
 
 ### Attendance (10%)
 - 1% of credit is deducted for each absence
@@ -75,8 +76,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 3
-* (Announce) Individual ML Competition Round 0: Getting Familiar w/ Kaggle
-  * Due: March 18
+* (Announce) ML Competition Round 0: Getting Familiar w/ Kaggle
+  * Due: March 17
 ---
 
 ## Week 03
@@ -89,7 +90,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 4
-* (Announce) Individual ML Competition Round 1: Telemarketing
+* (Announce) ML Competition Round 1
   * Due: March 31
 
 ---
@@ -109,7 +110,7 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 05
-### April 31: Support Vector Machine
+### March 31: Support Vector Machine
 * [Lecture]()
 * [Practice]()
 * Reference
@@ -121,7 +122,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 6
-* (Announce) Individual ML Competition Round 2
+* (Announce) ML Competition Round 2
   * Due: April 14
 ---  
 
@@ -152,7 +153,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
   * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
-* (Announce) Individual ML Competition Midterm Round
+* (Announce) ML Competition Round 3
   * Due: April 28
 ---
 
@@ -163,7 +164,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Br20] Chap. 4
 
-### April 22: Focus on Midterm Exam
+### April 22: Focus on ML Competition
 * No Class
 ---
 
@@ -180,7 +181,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 9
-* (Announce) Individual ML Competition Round 3
+* (Announce) ML Competition Round 4
   * Due: May 12
 ---
 
@@ -209,7 +210,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 10
-* (Announce) Individual ML Competition Round 4
+* (Announce) ML Competition Round 5
   * Due: May 26
 ---
 
@@ -241,7 +242,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 17
-* (Announce) Individual ML Competition Round 5
+* (Announce) ML Competition Round 6
   * Due: June 09
 ---
 
@@ -267,12 +268,12 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lecture]()
 * References
   * [Fo23] Chap. 8
-* (Announce) Individual ML Competition Final Round
-  * Due: June 22
+* (Announce) ML Competition Round 7
+  * Due: June 16
 ---
 
 ## Week 16
-### June 16: Focus on Final Assigment
+### June 16: Focus on ML Competition
 * No Class
 
 ### June 17: Final Remark
