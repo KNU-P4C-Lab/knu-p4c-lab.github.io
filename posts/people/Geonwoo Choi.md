@@ -1,7 +1,7 @@
 ---
 name: Geonwoo Choi
-type: undergraduate
-position: Undergraduate Student
+type: graduate
+position: M.S. Student
 homepage: ""
 email: geonwoo.choi@kangwon.ac.kr
 picture: "./res/geonwoo.choi.jpg"

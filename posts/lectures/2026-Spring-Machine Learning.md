@@ -34,18 +34,17 @@ description: "This course covers theoretical backgrounds and practical implement
   * All materials were prepared assuming students were proficient in Python programming and familiar with Numpy and Pandas.
 
 ## Grading Policy
-### Data Collection (10%)
-- Collect sensor data for human activity recognition
+### Data Collection (15%)
+- Sensor data collection for human activity recognition
 
-### Individual ML Competitions via Kaggle (80%)
+### Individual ML Competitions via Kaggle (75%)
 - Round 0 – Being Familiar with Kaggle (5%)
-- Round 1 – TBA (9%)
-- Round 2 – TBA (9%)
-- Round 3 – TBA (15%)
-- Round 4 – TBA (9%)
-- Round 5 – TBA (9%)
-- Round 6 – TBA (9%)
-- Round 7 – Human Activity Recognition (15%)
+- Round 1 – TBA (11%)
+- Round 2 – TBA (11%)
+- Round 3 – TBA (11%)
+- Round 4 – TBA (11%)
+- Round 5 – TBA (11%)
+- Round 6 – Human Activity Recognition (15%)
 
 ### Attendance (10%)
 - 1% of credit is deducted for each absence
@@ -77,21 +76,21 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * [Ge23] Chap. 3
 * (Announce) ML Competition Round 0: Getting Familiar w/ Kaggle
-  * Due: March 17
+  * Due: March 25
 ---
 
 ## Week 03
-### March 17: Linear Model
+### March 17: Linear Regression
 * [Lecture]()
-* Reference
-  * [Ge23] Chap. 4
-
-### March 18: Linear Model - Practice 
 * [Practice]()
 * Reference
   * [Ge23] Chap. 4
-* (Announce) ML Competition Round 1
-  * Due: March 31
+
+### March 18: Logistic Regression
+* [Lecture]()
+* [Practice]()
+* Reference
+  * [Ge23] Chap. 4
 
 ---
 ## Week 04
@@ -106,7 +105,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * Berrar, D. 2019. Cross-Validation
-  
+* (Announce) ML Competition Round 1
+    * Due: April 07  
 ---
 
 ## Week 05
@@ -122,8 +122,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 6
-* (Announce) ML Competition Round 2
-  * Due: April 14
 ---  
 
 ## Week 06
@@ -132,6 +130,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Ge23] Chap. 7
+* (Announce) ML Competition Round 2
+    * Due: April 21
 
 ### April 08: Ensemble Learning #2: Gradient Boosting
 * [Lecture]()
@@ -153,8 +153,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * Reference
   * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
   * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
-* (Announce) ML Competition Round 3
-  * Due: April 28
+
 ---
 
 ## Week 08
@@ -163,6 +162,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * Reference
   * [Br20] Chap. 4
+* (Announce) ML Competition Round 3
+    * Due: April 28
 
 ### April 22: Focus on ML Competition
 * No Class
@@ -181,8 +182,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 9
-* (Announce) ML Competition Round 4
-  * Due: May 12
 ---
 
 ## Week 10
@@ -192,6 +191,8 @@ description: "This course covers theoretical backgrounds and practical implement
 ### May 06: Hyper-parameter Tuning #1
 * [Lecture]()
 * [Practice]()
+* (Announce) ML Competition Round 4
+    * Due: May 19
 * Reference
   * [Ow22] Chap. 2, 3, 4, 7, 8
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
@@ -210,18 +211,18 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 10
-* (Announce) ML Competition Round 5
-  * Due: May 26
+* (Announce) Data Collection Assignment: Sensor Data Collection
+    * Due: May 26
 ---
 
 ## Week 12
 ### May 19: Deep Learning - Deep Neural Network
 * [Lecture]()
 * [Practice]()
+* (Announce) ML Competition Round 5
+    * Due: June 02
 * References
   * [Ge23] Chap. 11
-* (Announce) Data Collection Assignment: Sensor Data Collection
-  * Due: June 03
 
 ### May 20: Deep Learning - Convolution Neural Network
 * [Lecture]()
@@ -242,8 +243,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Ge23] Chap. 17
-* (Announce) ML Competition Round 6
-  * Due: June 09
+
 ---
 
 ## Week 14 
@@ -252,6 +252,8 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Practice]()
 * References
   * [Fo23] Chap. 3, Chap. 5
+* (Announce) ML Competition Round 6
+    * Due: June 17
 
 ### June 03: Substitution Holiday for Local Election
 * No class
@@ -268,8 +270,6 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lecture]()
 * References
   * [Fo23] Chap. 8
-* (Announce) ML Competition Round 7
-  * Due: June 16
 ---
 
 ## Week 16
