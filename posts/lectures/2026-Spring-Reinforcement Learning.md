@@ -42,33 +42,33 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 # Schedule
 ## Week 01
 ### March 05 — Overview & Logistics
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1DctdNt39p7a_273LCm4X0AxSADK1fatrXhstw6l3OXY/edit?usp=drive_link)
 
 ### March 09 — Basic Math
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1LVXomwd24daD5bRRPhwFHGFYG9HUChtU9XMqgUV8zMk/edit?usp=drive_link)
 
 ---
 
 ## Week 02
 ### March 12 — Introduction to Reinforcement Learning
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1ln7IPqeUAOSwy2pKNYFMuN0ekvDU1bn1Iux3_nx8fxU/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 1
 
 ### March 16 — Multi-Armed Bandits
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/19gTBq0E0i3ljV6tQWy9GJDzlz5Es97r96jULGzFBj6U/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 2
 ---
 
 ## Week 03
 ### March 19 — Markov Process
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1EPNSYNa-7ZtzSF2Z09PIOqf23XYDsfO32XI82HWNsnY/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 3
 
 ### March 23 — Dynamic Programming
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1sKr5zGvHXuhSQk2hm0D6uCWW5EdrQCeXRoWYEZo2cPs/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 4
 ---
@@ -77,7 +77,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### March 26 — Tutorial on Gymnasium
 * [Lecture]()
 * [(Announce) Competition Round 0: Grid Crossing!]()
-  * Due: April 06
+  * Due: April 09
 * Readings
   * [OpenAI Gymnasium](https://gymnasium.farama.org/)
 
@@ -93,17 +93,17 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
   * [Ri20] Chap. 5
 
-### April 06 — Competition Round 0: TBA
-* [Leaderboard]()
-* [(Announce) Competition Round 1: TBA]()
-  * Due: April 20
----
-
-## Week 06
-### April 09 — Temporal Difference Learning
+### April 06 — Temporal Difference Learning
 * [Lecture]()
 * Reference
   * [Ri20] Chap. 6
+
+---
+## Week 06
+### April 09 — Competition Round 0: TBA
+* [Leaderboard]()
+* [(Announce) Competition Round 1: TBA]()
+  * Due: April 27
   
 ### April 13 — n-Step Bootstrapping
 * [Lecture]()
@@ -117,34 +117,34 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
   * [Ri20] Chap. 8
 
-### April 20 — Competition Round 1: TBA
-* [Leaderboard]()
-* [(Announce) Competition Round 2: TBA]()
-  * Due: May 21
----
-
-## Week 08
-### April 23 — Focus on Midterm Exam
-* No Class
-
-### April 27 — Linear Function Approximation
+### April 20 — Linear Function Approximation
 * [Lecture]()
 * Reference
     * [Ri20] Chap. 9 - 10
+---
+
+## Week 08
+### April 23 — Focus on Competition Round 1
+* No Class
+
+### April 27 — Competition Round 1: TBA
+* [Leaderboard]()
+* [(Announce) Competition Round 2: TBA]()
+  * Due: May 21
 ---
 
 ## Week 09
 ### April 30 — Nonlinear Function Approximation: Deep Neural Network
 * [Lecture]()
 * Reference
-    * [Ge23] Chap. 10, 11
-    * [Ri20] Chap. 9 - 10
+  * [Ge23] Chap. 10, 11
+  * [Ri20] Chap. 9 - 10
 
 ### May 04 — Nonlinear Function Approximation: Convolution Neural Network
 * [Lecture]()
 * Reference
-    * [Ge23] Chap. 14
-    * [Ri20] Chap. 9 - 10
+  * [Ge23] Chap. 14
+  * [Ri20] Chap. 9 - 10
 ---
 
 ## Week 10
@@ -157,27 +157,27 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### May 11 — Deep-Q Network
 * [Lecture]()
 * Reference
-    * [Ri20] Chap. 11
-    * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+  * [Ri20] Chap. 11
+  * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
 ---
 
 ## Week 11
 ### May 14 — Policy Gradient Methods
 * [Lecture]()
 * Reference
-    * [Ri20] Chap. 13
+  * [Ri20] Chap. 13
     
 ### May 18 — Practice on Policy Gradient Methods
 * [Lecture]()
 * Reference
-    * [Ri20] Chap. 13
+  * [Ri20] Chap. 13
 ---
 
 ## Week 12
 ### May 21 — Competition Round 2: TBA
 * [Leaderboard]()
 * [(Announce) Competition Round 3: TBA]()
-    * Due: June 15
+  * Due: June 15
 
 ### May 25 — Buddha's Birthday
 * No Class
@@ -187,11 +187,10 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### May 28 — Advanced Topics: Variants of DQN / Asynchronous Methods
 * [Lecture]()
 * Reference
-    * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
-    * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
-    * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
-    * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html
-
+  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+  * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
+  * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
+  * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html
 
 ### June 01 — Advanced Topics: Deterministic Policy Gradient Methods 
 * [Lecture]()
@@ -206,7 +205,6 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
   * Haarnoja, Tuomas, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
 
-
 ### June 08 — Advanced Topics: Trust Region Constraint Methods
 * [Lecture]()
 * Reference
@@ -214,13 +212,13 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
   * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 
 ## Week 15
-### June 11 — Focus on RL Final Competition
+### June 11 — Focus on Final Competition
 * No Class
 
 ### June 15 — Competition Round 3: TBA
 * [Leaderboard]()
 ---
-
+  
 ## Week 16
 ### June 18 — Final Remark
 * [Lecture]()

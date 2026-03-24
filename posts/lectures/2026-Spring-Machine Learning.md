@@ -53,101 +53,103 @@ description: "This course covers theoretical backgrounds and practical implement
 
 # Schedule
 ## Week 01
-### March 03: Overview & Logistics
-* [Lecture]()
+### March 03 — Overview & Logistics
+* [Lecture](https://docs.google.com/presentation/d/1bgcWY6t2vAuro8UpoOFhe2WigtvXIEGC_IVqBOpBI18/edit?usp=drive_link)
 
-### March 04: Machine Learning Landscape
-* [Lecture]()
+### March 04 — Introduction: Machine Learning Landscape
+* [Lecture](https://docs.google.com/presentation/d/1XVxzpPEY8nRM3apJIQM6X-EmVv9o9Vz92jUPwhT4LMI/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 1
 
 ---
 
 ## Week 02
-### March 10: Machine Learning Pipeline
-* [Lecture]()
+### March 10 — Introduction: Machine Learning Pipeline
+* [Lecture](https://docs.google.com/presentation/d/1NrRNO4XQhXNwDddPoYTDLOr17Mv08GdqeDVr8MjBL4I/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 2
   * D. Sculley et al. 2015. Hidden technical debt in Machine learning systems. In Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'15). 
   * Soowon Kang et al. 2023. K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels. Sci Data 10, 351 (2023). 
 
-### March 11: End-to-End Practice for Machine Learning Pipeline
-* [Practice]()
+### March 11 — Introduction: End-to-End Practice
+* [Practice](https://colab.research.google.com/drive/1IiijZB2d-Foia6riXoEJ2pdlHbaaZLzx?usp=drive_link)
 * Reference
   * [Ge23] Chap. 3
 * (Announce) ML Competition Round 0: Getting Familiar w/ Kaggle
-  * Due: March 25
+  * Due: March 18
 ---
 
 ## Week 03
-### March 17: Linear Regression
-* [Lecture]()
-* [Practice]()
+### March 17 — Linear Model: Linear Regression
+* [Lecture](https://docs.google.com/presentation/d/1FH4GlPtroV3RQcZ3QCvzJwcUYg0DbeaT4QNGMv3678k/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1IIWItHn2UuKToKi-EZdPnwRcrCpkC8yr?usp=drive_link)
 * Reference
   * [Ge23] Chap. 4
 
-### March 18: Logistic Regression
-* [Lecture]()
-* [Practice]()
+### March 18 — Linear Model: Logistic Regression
+* [Lecture](https://docs.google.com/presentation/d/1nfQuIoA_MGDKcOr0W0m4eug6aMRrsiCR0lOwxMaBeCE/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1j8cJAfFnpR5aNhUFEQkryGbWtF_h4ne3?usp=drive_link)
 * Reference
   * [Ge23] Chap. 4
-
 ---
+
 ## Week 04
-### March 24: Performance Measures 
-* [Lecture]()
-* [Practice]()
+### March 24 — Performance Estimation: Performance Measures 
+* [Lecture](https://docs.google.com/presentation/d/1ZXddtunwmCuZxhBM9CVT-Nxc9JfJX96QFpPilG0KSTk/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1NeWh69CgFPQ9W3_LstvlPlt7W7o4q0Eo?usp=drive_link)
 * Reference
   * [Br21] Chap. 3
 
-### March 25: Cross-Validation
-* [Lecture]()
-* [Practice]()
+### March 25 — Performance Estimation: Cross-Validation
+* [Lecture](https://docs.google.com/presentation/d/1p6CGC3685Riy87ELZpifLRSRGnGZ1i_CLRC9JAVY5N4/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1IQGwHZkHoa9bELrVGczVODqB_IZPoteT?usp=drive_link)
 * Reference
   * Berrar, D. 2019. Cross-Validation
 * (Announce) ML Competition Round 1
-    * Due: April 07  
+    * Due: April 08
 ---
 
 ## Week 05
-### March 31: Support Vector Machine
+### March 31 — Support Vector Machine
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ge23] Chap. 5
   * [Oh21] Chap. 11
 
-### April 01: Decision Tree
+### April 01 — Decision Tree
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ge23] Chap. 6
+
 ---  
 
 ## Week 06
-### April 07: Ensemble Learning #1: Random Forest
+### April 07 — Ensemble Learning: Random Forest
+* [Lecture]()
+* [Practice]()
+* Reference
+  * [Ge23] Chap. 7
+
+
+### April 08 — Ensemble Learning: Gradient Boosting
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ge23] Chap. 7
 * (Announce) ML Competition Round 2
-    * Due: April 21
-
-### April 08: Ensemble Learning #2: Gradient Boosting
-* [Lecture]()
-* [Practice]()
-* Reference
-  * [Ge23] Chap. 7
+    * Due: April 22
 ---
 
 ## Week 07
-### April 14: Imbalanced Classification
+### April 14 — Imbalanced Classification
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Br21] Chap. 4
 
-### April 15: Feature Extraction
+### April 15 — Feature Engineering: Feature Extraction
 * [Lecture]()
 * [Practice]()
 * Reference
@@ -157,97 +159,99 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 08
-### April 21: Feature Selection
+### April 21 — Focus on Other Exams
+* No Class
+
+### April 22 — Feature Engineering: Feature Selection
 * [Lecture]()
 * [Practice]()
 * Reference
-  * [Br20] Chap. 4
+    * [Br20] Chap. 4
 * (Announce) ML Competition Round 3
-    * Due: April 28
-
-### April 22: Focus on ML Competition
-* No Class
+    * Due: May 06
 ---
 
 ## Week 09
-### April 28: Unsupervised Learning - Dimensionality Reduction
+### April 28 — Unsupervised Learning: Dimensionality Reduction
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ge23] Chap. 8
   * [Br20] Chap. 7
 
-### April 29: Unsupervised Learning - Clustering
+
+### April 29 — Unsupervised Learning: Clustering
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 9
+
 ---
 
 ## Week 10
-### May 05: Children's Day
+### May 05 — Children's Day
 * No Class
 
-### May 06: Hyper-parameter Tuning #1
+### May 06 — Hyper-parameter Tuning: Exhaustive Search & Heuristic Search
 * [Lecture]()
 * [Practice]()
-* (Announce) ML Competition Round 4
-    * Due: May 19
 * Reference
   * [Ow22] Chap. 2, 3, 4, 7, 8
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+* (Announce) ML Competition Round 4
+    * Due: May 20
+* (Announce) Data Collection Assignment: Sensor Data Collection
+    * Due: May 20
 ---
 
 ## Week 11
-### May 12: Hyper-parameter Tuning #2
+### May 12 — Hyper-parameter Tuning: Bayesian Optimization & Multi-Fidelity Optimization
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ow22] Chap. 5, 6, 9, 10
   * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 
-### May 13: Deep Learning - Artificial Neural Network
+### May 13 — Deep Learning: Artificial Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 10
-* (Announce) Data Collection Assignment: Sensor Data Collection
-    * Due: May 26
 ---
 
 ## Week 12
-### May 19: Deep Learning - Deep Neural Network
+### May 19 — Deep Learning: Deep Neural Network
 * [Lecture]()
 * [Practice]()
-* (Announce) ML Competition Round 5
-    * Due: June 02
 * References
   * [Ge23] Chap. 11
 
-### May 20: Deep Learning - Convolution Neural Network
+### May 20 — Deep Learning: Convolution Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 14
+* (Announce) ML Competition Round 5
+    * Due: June 02
 ---
 
 ## Week 13
-### May 26: Deep Learning - Recurrent Neural Network
+### May 26 — Deep Learning: Recurrent Neural Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 15
 
-### May 27: Generative Models - Autoencoder
+
+### May 27 — Generative Models: Autoencoder
 * [Lecture]()
 * [Practice]()
 * References
   * [Ge23] Chap. 17
-
 ---
 
 ## Week 14 
-### June 02: Generative Models - Variational Autoencoder & Autoregressive Models
+### June 02 — Generative Models: Variational Autoencoder & Autoregressive Models
 * [Lecture]()
 * [Practice]()
 * References
@@ -255,21 +259,23 @@ description: "This course covers theoretical backgrounds and practical implement
 * (Announce) ML Competition Round 6
     * Due: June 17
 
-### June 03: Substitution Holiday for Local Election
+### June 03 — Substitution Holiday for Local Election
 * No class
+
 ---
 
 ## Week 15
-### June 09: Generative Models - Generative Adversarial Network
+### June 09 — Generative Models: Generative Adversarial Network
 * [Lecture]()
 * [Practice]()
 * References
   * [Fo23] Chap. 4
 
-### June 10: Generative Models - Diffusion Model
+### June 10 — Generative Models: Diffusion Model
 * [Lecture]()
 * References
   * [Fo23] Chap. 8
+
 ---
 
 ## Week 16
