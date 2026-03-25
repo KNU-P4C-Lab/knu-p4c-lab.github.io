@@ -74,7 +74,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 04
-### March 26 — Tutorial on Gymnasium
+### March 26 — Tutorial on Gymnasium & Dynamical Programming
 * [Lecture]()
 * [(Announce) Competition Round 0: Grid Crossing!]()
   * Due: April 09
@@ -105,27 +105,26 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [(Announce) Competition Round 1: TBA]()
   * Due: April 27
   
-### April 13 — n-Step Bootstrapping
-* [Lecture]()
-* Reference
-  * [Ri20] Chap. 7
+### April 13 — Practice on Tabular Methods
 ---
 
 ## Week 07
-### April 16 — Planning & Learning
+### April 16 — n-Step Bootstrapping
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 8
+    * [Ri20] Chap. 7
 
-### April 20 — Linear Function Approximation
+### April 20 — Planning & Learning
 * [Lecture]()
 * Reference
-    * [Ri20] Chap. 9 - 10
+    * [Ri20] Chap. 8
 ---
 
 ## Week 08
-### April 23 — Focus on Competition Round 1
-* No Class
+### April 23 — Linear Function Approximation
+* [Lecture]()
+* Reference
+    * [Ri20] Chap. 9 - 10
 
 ### April 27 — Competition Round 1: TBA
 * [Leaderboard]()
