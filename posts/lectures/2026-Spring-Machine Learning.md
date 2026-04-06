@@ -126,14 +126,14 @@ description: "This course covers theoretical backgrounds and practical implement
 ---  
 
 ## Week 06
-### April 07 — Ensemble Learning: Random Forest
+### April 07 — Ensemble Learning: Basics & Bagging
 * [Lecture]()
 * [Practice]()
 * Reference
   * [Ge23] Chap. 7
 
 
-### April 08 — Ensemble Learning: Gradient Boosting
+### April 08 — Ensemble Learning: Boosting
 * [Lecture]()
 * [Practice]()
 * Reference
@@ -143,61 +143,62 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 07
-### April 14 — Imbalanced Classification
+### April 14 — Ensemble Learning: Gradient Boosted Trees
 * [Lecture]()
 * [Practice]()
 * Reference
-  * [Br21] Chap. 4
+    * [Ge23] Chap. 7
+    * Tianqi Chen and Carlos Guestrin. 2016. Xgboost: A scalable tree boosting system. In Proceedings of the 22nd acm SIGKDD international conference on knowledge discovery and data mining, 785-794
+    * Guolin Ke et al. 2017. LightGBM: A highly efficient gradient boosting decision tree. Advances in neural information processing systems 30
+    * Liudmila Prokhorenkova et al. 2018. CatBoost: unbiased boosting with categorical features. Advances in neural information processing systems 31
 
-### April 15 — Feature Engineering: Feature Extraction
+### April 15 — Imbalanced Classification
 * [Lecture]()
 * [Practice]()
 * Reference
-  * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3,   Article 33.
-  * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
-
+    * [Br21] Chap. 4
 ---
 
 ## Week 08
 ### April 21 — Focus on Other Exams
 * No Class
 
-### April 22 — Feature Engineering: Feature Selection
+
+### April 22 — Feature Engineering: Feature Extraction
 * [Lecture]()
 * [Practice]()
 * Reference
-    * [Br20] Chap. 4
+    * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3, Article 33.
+    * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
 * (Announce) ML Competition Round 3
     * Due: May 06
 ---
 
 ## Week 09
-### April 28 — Unsupervised Learning: Dimensionality Reduction
+### April 28 — Feature Engineering: Feature Selection
 * [Lecture]()
 * [Practice]()
 * Reference
-  * [Ge23] Chap. 8
-  * [Br20] Chap. 7
+    * [Br20] Chap. 4
 
 
-### April 29 — Unsupervised Learning: Clustering
+### April 29 — Unsupervised Learning: Dimensionality Reduction
 * [Lecture]()
 * [Practice]()
-* References
-  * [Ge23] Chap. 9
-
+* Reference
+    * [Ge23] Chap. 8
+    * [Br20] Chap. 7
 ---
 
 ## Week 10
 ### May 05 — Children's Day
 * No Class
 
-### May 06 — Hyper-parameter Tuning: Exhaustive Search & Heuristic Search
+### May 06 — Unsupervised Learning: Clustering
 * [Lecture]()
 * [Practice]()
-* Reference
-  * [Ow22] Chap. 2, 3, 4, 7, 8
-  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+* References
+    * [Ge23] Chap. 9
 * (Announce) ML Competition Round 4
     * Due: May 20
 * (Announce) Data Collection Assignment: Sensor Data Collection
@@ -205,57 +206,58 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 11
-### May 12 — Hyper-parameter Tuning: Bayesian Optimization & Multi-Fidelity Optimization
+### May 12 — Hyperparameter Tuning: Exhaustive Search & Heuristic Search
 * [Lecture]()
 * [Practice]()
 * Reference
-  * [Ow22] Chap. 5, 6, 9, 10
-  * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
+    * [Ow22] Chap. 2, 3, 4, 7, 8
+    * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 
-### May 13 — Deep Learning: Artificial Neural Network
+### May 13 — Hyperparameter Tuning: Bayesian Optimization & Multi-Fidelity Optimization
 * [Lecture]()
 * [Practice]()
-* References
-  * [Ge23] Chap. 10
+* Reference
+    * [Ow22] Chap. 5, 6, 9, 10
+    * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 ---
 
 ## Week 12
-### May 19 — Deep Learning: Deep Neural Network
+### May 19 — Deep Learning: Artificial Neural Network
 * [Lecture]()
 * [Practice]()
 * References
-  * [Ge23] Chap. 11
+    * [Ge23] Chap. 10
 
-### May 20 — Deep Learning: Convolution Neural Network
+### May 20 — Deep Learning: Deep Neural Network
 * [Lecture]()
 * [Practice]()
 * References
-  * [Ge23] Chap. 14
+    * [Ge23] Chap. 11
 * (Announce) ML Competition Round 5
     * Due: June 02
 ---
 
 ## Week 13
-### May 26 — Deep Learning: Recurrent Neural Network
+### May 26 — Deep Learning: Convolution Neural Network
 * [Lecture]()
 * [Practice]()
 * References
-  * [Ge23] Chap. 15
+    * [Ge23] Chap. 14
 
 
-### May 27 — Generative Models: Autoencoder
+### May 27 — Deep Learning: Recurrent Neural Network
 * [Lecture]()
 * [Practice]()
 * References
-  * [Ge23] Chap. 17
+    * [Ge23] Chap. 15
 ---
 
 ## Week 14 
-### June 02 — Generative Models: Variational Autoencoder & Autoregressive Models
+### June 02 — Generative Models: Autoencoder
 * [Lecture]()
 * [Practice]()
 * References
-  * [Fo23] Chap. 3, Chap. 5
+    * [Ge23] Chap. 17
 * (Announce) ML Competition Round 6
     * Due: June 17
 
@@ -265,22 +267,25 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 15
-### June 09 — Generative Models: Generative Adversarial Network
+### June 09 — Generative Models: Variational Autoencoder & Autoregressive Models
 * [Lecture]()
 * [Practice]()
 * References
-  * [Fo23] Chap. 4
+    * [Fo23] Chap. 3, Chap. 5
 
-### June 10 — Generative Models: Diffusion Model
+### June 10 — Generative Models: Generative Adversarial Network
 * [Lecture]()
+* [Practice]()
 * References
-  * [Fo23] Chap. 8
+    * [Fo23] Chap. 4
 
 ---
 
 ## Week 16
-### June 16: Focus on ML Competition
-* No Class
+### June 16  — Generative Models: Diffusion Model
+* [Lecture]()
+* References
+    * [Fo23] Chap. 8
 
 ### June 17: Final Remark
 

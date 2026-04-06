@@ -106,6 +106,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
   * Due: April 27
   
 ### April 13 — Practice on Tabular Methods
+* [Lecture]()
 ---
 
 ## Week 07
