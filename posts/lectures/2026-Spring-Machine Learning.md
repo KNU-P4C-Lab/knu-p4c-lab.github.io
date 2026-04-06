@@ -271,7 +271,7 @@ description: "This course covers theoretical backgrounds and practical implement
 * [Lecture]()
 * [Practice]()
 * References
-    * [Fo23] Chap. 3, Chap. 5
+    * [Fo23] Chap. 3, 5
 
 ### June 10 — Generative Models: Generative Adversarial Network
 * [Lecture]()
