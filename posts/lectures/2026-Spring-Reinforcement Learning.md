@@ -134,43 +134,46 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 09
-### April 30 — Nonlinear Function Approximation: Deep Neural Network
+### April 30 — Nonlinear Function Approximation
 * [Lecture]()
 * Reference
-  * [Ge23] Chap. 10, 11
+  * [Ge23] Chap. 10, 11, 14
   * [Ri20] Chap. 9 - 10
 
-### May 04 — Nonlinear Function Approximation: Convolution Neural Network
-* [Lecture]()
-* Reference
-  * [Ge23] Chap. 14
-  * [Ri20] Chap. 9 - 10
----
-
-## Week 10
-### May 07 — Practice on Function Approximation
+### May 04 — Practice on Function Approximation
 * [Lectures]()
 * Reference
     * [Ge23] Chap. 10, 11, 14
     * [Ri20] Chap. 9 - 10
+---
 
-### May 11 — Deep-Q Network
+## Week 10
+### May 07 — Deep-Q Network
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 11
-  * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+    * [Ri20] Chap. 11
+    * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+
+### May 11 — Policy Gradient Methods
+* [Lecture]()
+* Reference
+    * [Ri20] Chap. 13
 ---
 
 ## Week 11
-### May 14 — Policy Gradient Methods
+### May 14 — Practice on Policy Gradient Methods
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 13
+    * [Ri20] Chap. 13
     
-### May 18 — Practice on Policy Gradient Methods
+### May 18 — Advanced Topics: Variants of DQN / Asynchronous Methods
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 13
+    * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
+    * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
+    * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html
+    * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+
 ---
 
 ## Week 12
@@ -184,33 +187,31 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 13
-### May 28 — Advanced Topics: Variants of DQN / Asynchronous Methods
+### May 28 — Advanced Topics: Deterministic Policy Gradient Methods
 * [Lecture]()
 * Reference
-  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
-  * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
-  * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
-  * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html
-
-### June 01 — Advanced Topics: Deterministic Policy Gradient Methods 
+    * Lillicrap, Timothy P., Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
+    * Dankwa, Stephen and Zheng, Wenfeng. "Twin-Delayed DDPG: A Deep Reinforcement Learning Technique to Model a Continuous Movement of an Intelligent Robot Agent". In Proceedings of the 3rd International Conference on Vision, Image and Signal Processing (ICVISP 2019). Association for Computing Machinery, New York, NY, USA, Article 66, 1–5. (2020) https://doi.org/10.1145/3387168.3387199
+  
+### June 01 — Advanced Topics: Entropy-Regularized Methods
 * [Lecture]()
 * Reference
-  * Lillicrap, Timothy P., Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
-  * Dankwa, Stephen and Zheng, Wenfeng. "Twin-Delayed DDPG: A Deep Reinforcement Learning Technique to Model a Continuous Movement of an Intelligent Robot Agent". In Proceedings of the 3rd International Conference on Vision, Image and Signal Processing (ICVISP 2019). Association for Computing Machinery, New York, NY, USA, Article 66, 1–5. (2020) https://doi.org/10.1145/3387168.3387199
+    * Haarnoja, Tuomas, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
 ---
 
 ## Week 14
-### June 04 — Advanced Topics: Entropy-Regularized Methods
+### June 040 — Advanced Topics: Trust Region Constraint Methods
 * [Lecture]()
 * Reference
-  * Haarnoja, Tuomas, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
+    * Schulman, John, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR, 2015.
+    * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 
-### June 08 — Advanced Topics: Trust Region Constraint Methods
+### June 08 — Advanced Topics: Hindsight Experience Replay / Evolution Strategy
 * [Lecture]()
 * Reference
-  * Schulman, John, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR, 2015.
-  * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
-
+  * Andrychowicz, Marcin, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, OpenAI Pieter Abbeel, and Wojciech Zaremba. "Hindsight experience replay." Advances in neural information processing systems 30 (2017).
+  * Salimans, Tim, Jonathan Ho, Xi Chen, Szymon Sidor, and Ilya Sutskever. "Evolution strategies as a scalable alternative to reinforcement learning." arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
+  
 ## Week 15
 ### June 11 — Focus on Final Competition
 * No Class
