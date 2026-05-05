@@ -29,10 +29,10 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Grading Policy
 ### Reinforcement Learning Competitions (90%)
-* (10%) Competition Round 0: TBA
-* (20%) Competition Round 1: TBA
-* (30%) Competition Round 2: TBA
-* (40%) Competition Round 3: TBA
+* (10%) Competition Round 0: Grid Crossing
+* (20%) Competition Round 1: Zelda's Adventure
+* (30%) Competition Round 2: Avoid Blurps
+* (40%) Competition Round 3: Bullet Bills
 
 
 ### Attendance (10%)
@@ -75,73 +75,73 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 04
 ### March 26 — Tutorial on Gymnasium & Dynamical Programming
-* [Lecture]()
-* [(Announce) Competition Round 0: Grid Crossing!]()
+* [Lecture](https://colab.research.google.com/drive/188TqKLX4-o2aV_bJRv123JB10BcUwmUF?usp=drive_link)
+* (Announce) [Competition Round 0: Grid Crossing!](https://docs.google.com/document/d/13BV2XCRuaSSI6iaBVQ9eRoJjgAoaBgBoTOfnCsGKxUw/edit?usp=drive_link)
   * Due: April 09
 * Readings
   * [OpenAI Gymnasium](https://gymnasium.farama.org/)
 
-### March 30 — Monte-Carlo Methods: On-Policy Methods
-* [Lecture]()
+### March 30 — On-Policy Monte-Carlo Methods
+* [Lecture](https://docs.google.com/presentation/d/1BPyU-jvonjNc_LKF9hpActeYpKhPny7fUR3ouXFP16c/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 5
 ---
 
 ## Week 05
-### April 02 — Monte-Carlo Methods: Off-Policy Methods
-* [Lecture]()
+### April 02 — Off-Policy Monte-Carlo Methods
+* [Lecture](https://docs.google.com/presentation/d/1o1B84pvRM-GHRgVcbg2VfzWYB1Se6pJHZx-I4Y7f11s/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 5
 
 ### April 06 — Temporal Difference Learning
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1UtPu-zhvF-tOnlaOJgNDxqDZHNhuucCghozuEVYebP0/edit?usp=drive_link)
 * Reference
   * [Ri20] Chap. 6
 
 ---
 ## Week 06
-### April 09 — Competition Round 0: TBA
-* [Leaderboard]()
-* [(Announce) Competition Round 1: TBA]()
+### April 09 — Competition Round 0: Grid Crossing
+* [Leaderboard](https://docs.google.com/spreadsheets/d/1VR5ybJeTd7sXYFrbh6i54V88s7K_v29FQK0dOvEV-ZI/edit?gid=302173946#gid=302173946)
+* (Announce) [Competition Round 1: Zelda's Adventure](https://docs.google.com/document/d/1vXg2VD7LfJSs0cokxOGFQkzDmuWFsUnGUN_eVgQlJ8k/edit?usp=drive_link)
   * Due: April 27
   
-### April 13 — Practice on Tabular Methods
-* [Lecture]()
+### April 13 — Practice on Monte Carlo Methods & Temporal Difference Learning
+* [Lecture](https://colab.research.google.com/drive/12JJk0QrJbd0Ecf43BhvD5zW5KLlof2XC?usp=drive_link)
 ---
 
 ## Week 07
 ### April 16 — n-Step Bootstrapping
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1z1AXGHOKNfYgKLEH33xRsmzCYu75tO94ALnss_VuYN4/edit?usp=drive_link)
 * Reference
     * [Ri20] Chap. 7
 
 ### April 20 — Planning & Learning
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1eN5h0BSPwutgCLv08GriGNHnJ6vsjqLo6FmHlkygwx0/edit?usp=drive_link)
 * Reference
     * [Ri20] Chap. 8
 ---
 
 ## Week 08
 ### April 23 — Linear Function Approximation
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1ylOYzQLOZsau5uvGjYNOi7VYfcjFkn6Ds7Uu8j0u5pI/edit?usp=drive_link)
 * Reference
     * [Ri20] Chap. 9 - 10
 
-### April 27 — Competition Round 1: TBA
-* [Leaderboard]()
-* [(Announce) Competition Round 2: TBA]()
+### April 27 — Competition Round 1: Zelda's Adventure
+* [Leaderboard](https://docs.google.com/spreadsheets/d/1VR5ybJeTd7sXYFrbh6i54V88s7K_v29FQK0dOvEV-ZI/edit?gid=1896967758#gid=1896967758)
+*[(Announce) [Competition Round 2: Avoid Blurps](https://docs.google.com/document/d/1AeTqDQv0M9aXLte3S27HVaNICRw5Nlj4FRtThMACgog/edit?usp=drive_link)
   * Due: May 21
 ---
 
 ## Week 09
 ### April 30 — Nonlinear Function Approximation
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1CwZP5NYkqOJ7YxjqHYuORz0vz0gvaqdKCHjMOOLsfbs/edit?usp=drive_link)
 * Reference
   * [Ge23] Chap. 10, 11, 14
   * [Ri20] Chap. 9 - 10
 
 ### May 04 — Practice on Function Approximation
-* [Lectures]()
+* [Lectures](https://colab.research.google.com/drive/1jL-iCiFOoBB0CDO282cMRo9zt56xGPI8?usp=drive_link)
 * Reference
     * [Ge23] Chap. 10, 11, 14
     * [Ri20] Chap. 9 - 10
@@ -177,9 +177,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 12
-### May 21 — Competition Round 2: TBA
+### May 21 — Competition Round 2: Avoid Blurps
 * [Leaderboard]()
-* [(Announce) Competition Round 3: TBA]()
+* (Announce) [Competition Round 3: Bullet Bills]()
   * Due: June 15
 
 ### May 25 — Buddha's Birthday

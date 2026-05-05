@@ -111,15 +111,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 05
 ### March 31 — Support Vector Machine
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1_pW3Wy52GYTy4IYWVfavlgWZ_HwjjIME91oGKY05akw/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1EvOaT8HKE6_nuvAPwYb96MXH5wiJlRva?usp=drive_link)
 * Reference
   * [Ge23] Chap. 5
   * [Oh21] Chap. 11
 
 ### April 01 — Decision Tree
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/17dd9Mqz2zCnozEqOegXlRTVFMWyk4R8twuotJNlVaGs/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1PSdpeV4a7py4nSa7Y6AsiU906Ns5yPIg?usp=drive_link)
 * Reference
   * [Ge23] Chap. 6
 
@@ -127,15 +127,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 06
 ### April 07 — Ensemble Learning: Basics & Bagging
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1GGQuomvb65VZznIPl4bB6W2G5_Ol4GCIHe-C5S-jylU/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1U8HZUFXZCrgQwTFaZxXjwRUstqMwRAFg?usp=drive_link)
 * Reference
   * [Ge23] Chap. 7
 
 
 ### April 08 — Ensemble Learning: Boosting
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1U6LDhT4mN9ANBP0wQ3-MSEYLR7gjtNXEpw2_x0iVU6k/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1v6-CFKbqwbZxyTocArFc7-5vE61yx7NQ?usp=drive_link)
 * Reference
   * [Ge23] Chap. 7
 * (Announce) ML Competition Round 2
@@ -143,9 +143,9 @@ description: "This course covers theoretical backgrounds and practical implement
 ---
 
 ## Week 07
-### April 14 — Ensemble Learning: Gradient Boosted Trees
-* [Lecture]()
-* [Practice]()
+### April 14 — Ensemble Learning: Gradient-Boosted Trees
+* [Lecture](https://docs.google.com/presentation/d/1DEeAZxr5FtCgK8xFbFFdKkf8GBbDmLHkCrwfPOK7yQE/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1M8Rsa4tCQPaGfN1eR-MBcg542xvN41cM?usp=drive_link)
 * Reference
     * [Ge23] Chap. 7
     * Tianqi Chen and Carlos Guestrin. 2016. Xgboost: A scalable tree boosting system. In Proceedings of the 22nd acm SIGKDD international conference on knowledge discovery and data mining, 785-794
@@ -153,8 +153,8 @@ description: "This course covers theoretical backgrounds and practical implement
     * Liudmila Prokhorenkova et al. 2018. CatBoost: unbiased boosting with categorical features. Advances in neural information processing systems 31
 
 ### April 15 — Imbalanced Classification
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1PAgX7iRGmdxZE3CVt2XtAfeRKB7BB55kRWSckuEiRQY/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1Q1HE8dKBlO8eQdOhv_cbYk6jdsVneMPc?usp=drive_link)
 * Reference
     * [Br21] Chap. 4
 ---
@@ -165,8 +165,8 @@ description: "This course covers theoretical backgrounds and practical implement
 
 
 ### April 22 — Feature Engineering: Feature Extraction
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1XfiXaAkYu5LNsgtCm7pt58QlerldEgGTAOniBY0SC5U/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1pifoqr9oXMs1SlVKIuIcyepvUGzyChib?usp=drive_link)
 * Reference
     * Andreas Bulling et al. 2014. A tutorial on human activity recognition using body-worn inertial sensors. ACM Comput. Surv. 46, 3, Article 33.
     * Soujanya Poria et al. 2017. A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125.
@@ -176,15 +176,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 09
 ### April 28 — Feature Engineering: Feature Selection
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1_ekEri7Ui0HrP4-8wsmW3Fddk0lOsUOczkS5MXtQ3SY/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1N5r0_wQMoKxWEzqbL7qmHEpTg1TlqmzN?usp=drive_link)
 * Reference
     * [Br20] Chap. 4
 
 
 ### April 29 — Unsupervised Learning: Dimensionality Reduction
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1cy-_iQifbVWUJZv-MXuBC-znb7iYPUvtMXXb5LJAc9g/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1Oa1xKTVDKR-s8m7ERR1eOlFk7EfZOTuH?usp=drive_link)
 * Reference
     * [Ge23] Chap. 8
     * [Br20] Chap. 7
@@ -195,14 +195,14 @@ description: "This course covers theoretical backgrounds and practical implement
 * No Class
 
 ### May 06 — Unsupervised Learning: Clustering
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1oC27qUdsYdolBgrBeB4ALnTvEw912XEU7o1z_kZcSb8/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1i6VKAm4adLDI4b_1b6YZFaEI-yu98RTC?usp=drive_link)
 * References
     * [Ge23] Chap. 9
 * (Announce) ML Competition Round 4
     * Due: May 20
-* (Announce) Data Collection Assignment: Sensor Data Collection
-    * Due: May 20
+* (Announce) [Data Collection Assignment: Sensor Data Collection](https://docs.google.com/document/d/1Ay5dOi3D0wP4Jv3omA3V1G6snXYDZNn5NtWKBOcBioA/edit?usp=drive_link)
+    * Due: May 27
 ---
 
 ## Week 11
