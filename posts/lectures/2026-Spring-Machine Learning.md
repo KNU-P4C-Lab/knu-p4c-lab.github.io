@@ -207,15 +207,15 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 11
 ### May 12 — Hyperparameter Tuning: Exhaustive Search & Heuristic Search
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1zlcUivKn3dQTmOkPtB7nvDIVtyfimQ39hQJBqhTAL9Q/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1kZPjRX8Cq72o5evCb_PRP9uPkefMcc2_?usp=drive_link)
 * Reference
     * [Ow22] Chap. 2, 3, 4, 7, 8
     * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
 
 ### May 13 — Hyperparameter Tuning: Bayesian Optimization & Multi-Fidelity Optimization
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1TpiZUxnVT9vs9KXbsDbpS1Q2GJLDzAyY6h6qhA9H_7s/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1gCkmA56nWmAAkbgUAymjWikgtmTbLmti?usp=drive_link)
 * Reference
     * [Ow22] Chap. 5, 6, 9, 10
     * Tong Yu and Hong Zhu. 2000. Hyper-Parameter Optimization: A Review of Algorithms and Applications
@@ -223,14 +223,14 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 12
 ### May 19 — Deep Learning: Artificial Neural Network
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1Y64KJZuLQR4nigHYKypaC17EpoarLceenyu5Err2zQw/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1RZ9N3R5goPAynbatOQm0ZGYVtzZqu-_s?usp=drive_link)
 * References
     * [Ge23] Chap. 10
 
 ### May 20 — Deep Learning: Deep Neural Network
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1anu09WqDq5IW_NXcDneP9YIGo7aP67XLHK3lKIYmqOU/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1acs_Fkj2Kn9VBQ2kRgQcvynJcy22aiMK?usp=drive_link)
 * References
     * [Ge23] Chap. 11
 * (Announce) ML Competition Round 5

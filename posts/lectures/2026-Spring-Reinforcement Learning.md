@@ -149,25 +149,25 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 10
 ### May 07 — Deep-Q Network
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1IhfqPAwOODI09q9oMeAR6_5ahP0Eu_6HuChSKafy0OE/edit?usp=drive_link)
 * Reference
     * [Ri20] Chap. 11
     * Mnih, V., Kavukcuoglu, K., Silver, D. et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
 
 ### May 11 — Policy Gradient Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1YQZCTz8eKqnYwvL8CxEaolEUA3hMKStDc3B-_Nr14GI/edit?usp=drive_link)
 * Reference
     * [Ri20] Chap. 13
 ---
 
 ## Week 11
 ### May 14 — Practice on Policy Gradient Methods
-* [Lecture]()
+* [Lecture](https://colab.research.google.com/drive/1TQIhaz1T9hbGO-Qr_8ifDVazCglkj1nP?usp=drive_link)
 * Reference
     * [Ri20] Chap. 13
     
 ### May 18 — Advanced Topics: Variants of DQN / Asynchronous Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1Bbq0pQ8OC04hgRoXYzNFk_4VusE69l6NSANH69IPAmc/edit?usp=drive_link)
 * Reference
     * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
     * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
