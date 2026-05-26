@@ -191,26 +191,26 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Lecture]()
 * Reference
     * Lillicrap, Timothy P., Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
-    * Dankwa, Stephen and Zheng, Wenfeng. "Twin-Delayed DDPG: A Deep Reinforcement Learning Technique to Model a Continuous Movement of an Intelligent Robot Agent". In Proceedings of the 3rd International Conference on Vision, Image and Signal Processing (ICVISP 2019). Association for Computing Machinery, New York, NY, USA, Article 66, 1–5. (2020) https://doi.org/10.1145/3387168.3387199
+    * Scott Fujimoto, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." In International conference on machine learning, pp. 1587-1596. PMLR (2018).
   
 ### June 01 — Advanced Topics: Entropy-Regularized Methods
 * [Lecture]()
 * Reference
-    * Haarnoja, Tuomas, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
+    * Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
 ---
 
 ## Week 14
 ### June 040 — Advanced Topics: Trust Region Constraint Methods
 * [Lecture]()
 * Reference
-    * Schulman, John, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR, 2015.
-    * Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
+    * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR (2015).
+    * John Schulman et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 
 ### June 08 — Advanced Topics: Hindsight Experience Replay / Evolution Strategy
 * [Lecture]()
 * Reference
-  * Andrychowicz, Marcin, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, OpenAI Pieter Abbeel, and Wojciech Zaremba. "Hindsight experience replay." Advances in neural information processing systems 30 (2017).
-  * Salimans, Tim, Jonathan Ho, Xi Chen, Szymon Sidor, and Ilya Sutskever. "Evolution strategies as a scalable alternative to reinforcement learning." arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
+  * Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, OpenAI Pieter Abbeel, and Wojciech Zaremba. "Hindsight experience replay." Advances in neural information processing systems 30 (2017).
+  * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, and Ilya Sutskever. "Evolution strategies as a scalable alternative to reinforcement learning." arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
   
 ## Week 15
 ### June 11 — Focus on Final Competition
