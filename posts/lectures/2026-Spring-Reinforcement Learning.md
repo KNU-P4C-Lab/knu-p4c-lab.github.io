@@ -166,13 +166,12 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
     * [Ri20] Chap. 13
     
-### May 18 — Advanced Topics: Variants of DQN / Asynchronous Methods
+### May 18 — Advanced Topics: Variants of DQN 
 * [Lecture](https://docs.google.com/presentation/d/1Bbq0pQ8OC04hgRoXYzNFk_4VusE69l6NSANH69IPAmc/edit?usp=drive_link)
 * Reference
     * van Hasselt, H., Guez, A., & Silver, D. "Deep Reinforcement Learning with Double Q-Learning". Proceedings of the AAAI Conference on Artificial Intelligence, 30 (1) (2016). https://doi.org/10.1609/aaai.v30i1.10295
     * Schaul, T., Quan, J., Antonoglou, I., Silver, D. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
     * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html
-    * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
 
 ---
 
@@ -190,13 +189,14 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### May 28 — Advanced Topics: Deterministic Policy Gradient Methods
 * [Lecture]()
 * Reference
-    * Lillicrap, Timothy P., Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
+    * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
     * Scott Fujimoto, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." In International conference on machine learning, pp. 1587-1596. PMLR (2018).
   
-### June 01 — Advanced Topics: Entropy-Regularized Methods
+### June 01 — Advanced Topics: Entropy Maximization
 * [Lecture]()
 * Reference
-    * Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
+  * Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine. "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor". International Conference on Machine Learning (2018).
+  * Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
 ---
 
 ## Week 14
@@ -204,14 +204,15 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Lecture]()
 * Reference
     * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR (2015).
-    * John Schulman et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
 
-### June 08 — Advanced Topics: Hindsight Experience Replay / Evolution Strategy
+
+### June 08 — Advanced Topics: Proximal Policy Optimization & Asynchronous Methods
 * [Lecture]()
 * Reference
-  * Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, OpenAI Pieter Abbeel, and Wojciech Zaremba. "Hindsight experience replay." Advances in neural information processing systems 30 (2017).
-  * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, and Ilya Sutskever. "Evolution strategies as a scalable alternative to reinforcement learning." arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
-  
+  * John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
+  * John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel. "High-Dimensional Continuous Control Using Generalized Advantage Estimation." arXiv preprint arXiv:1506.02438 (2018). https://arxiv.org/abs/1506.02438\
+  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+
 ## Week 15
 ### June 11 — Focus on Final Competition
 * No Class
