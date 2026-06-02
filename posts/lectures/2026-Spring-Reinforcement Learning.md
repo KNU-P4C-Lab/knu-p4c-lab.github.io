@@ -33,7 +33,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * (10%) Competition Round 0: Grid Crossing
 * (20%) Competition Round 1: Zelda's Adventure
 * (30%) Competition Round 2: Avoid Blurps
-* (40%) Competition Round 3: Bullet Bills
+* (30%) Competition Round 3: Bullet Bills
 
 
 ### Attendance (10%)
@@ -178,7 +178,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 12
 ### May 21 — Competition Round 2: Avoid Blurps
-* [Leaderboard]()
+* [Leaderboard](https://docs.google.com/spreadsheets/d/1VR5ybJeTd7sXYFrbh6i54V88s7K_v29FQK0dOvEV-ZI/edit?gid=539701642#gid=539701642)
 * (Announce) [Competition Round 3: Bullet Bills]()
   * Due: June 15
 
@@ -188,13 +188,13 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 13
 ### May 28 — Advanced Topics: Deterministic Policy Gradient Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1EiCqlo0ltvnzAYCVJjCXuoyJT6_t_xRCMzeswM1esxk/edit?usp=drive_link)
 * Reference
     * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
     * Scott Fujimoto, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." In International conference on machine learning, pp. 1587-1596. PMLR (2018).
   
 ### June 01 — Advanced Topics: Entropy Maximization
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1hkW5nHC8o6NgLewBbKklIeK_UGv05AGXOepENF6rEkY/edit?usp=drive_link)
 * Reference
   * Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine. "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor". International Conference on Machine Learning (2018).
   * Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
@@ -218,7 +218,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ### June 11 — Focus on Final Competition
 * No Class
 
-### June 15 — Competition Round 3: TBA
+### June 15 — Competition Round 3: Bullet Bills
 * [Leaderboard]()
 ---
   

@@ -240,23 +240,23 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 13
 ### May 26 — Deep Learning: Convolution Neural Network
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1hUbhBoEKWNfRL_OGWcgPDDVBzbU4nQF-tsUqWoCcOOo/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1NQbCtqzn3fVsMuQiyUSfctilmJNSGQLe?usp=drive_link)
 * References
     * [Ge23] Chap. 14
 
 
 ### May 27 — Deep Learning: Recurrent Neural Network
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1XzLGtm8OA_I3rKAvV8bsmOsfqB1y5_i9sw8IiWz4l0o/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1v9YOWbarY2Ic7P6n4_ghpQieoFVNNZNB?usp=drive_link)
 * References
     * [Ge23] Chap. 15
 ---
 
 ## Week 14 
 ### June 02 — Generative Models: Autoencoder
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1NTSsunX_Yl7Qm28B4YrdD1bcNNpkLCifa19XBHcrgO0/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/1GP00rFTbf1w0rKjlSCryWYLWPNm3KAe7?usp=drive_link)
 * References
     * [Ge23] Chap. 17
 * (Announce) ML Competition Round 6
