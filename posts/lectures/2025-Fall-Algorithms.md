@@ -5,6 +5,7 @@ semester: fall
 division: "2 Div."
 title: Algorithms
 types: major
+active: true
 description: "This courses introduces fundamental concepts and theories to design and analyze computer algorithms that are widely employed in computer science. Throughout the courses, we will cover divide-and-conquer, dynamic programming, greedy algorithms, backtracking, branch-and-bound, genetic algorithms, and NP theory."
 ---
 # Instruction

@@ -4,6 +4,7 @@ year: "2024"
 semester: spring
 title: 'Machine Learning'
 types: major
+active: false
 division: "2 Div"
 description: "This course covers theoretical backgrounds and practical implementation of different machine learning techniques, including supervised learning, unsupervised learning, deep learning, active learning, anmd reinforcement learning. In addition, it explores the entire pipeline to build applications of machine learning with practices. Furthermore, it provides a broad introduction to ethical issues relevant to machine learning."
 ---

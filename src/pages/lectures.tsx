@@ -54,7 +54,10 @@ const Lectures = ({data}: PageProps<Queries.LecturePageQuery>) => {
                                                 {
                                                     curLectures.map(node =>
                                                         <li className='text-gray-500 dark:text-gray-400'>
-                                                            <InnerLink href={node.fields?.sitePath || ""} className='capitalize'>{node.frontmatter?.semester || ""} {node.frontmatter?.year || ""}</InnerLink>
+                                                            {
+                                                                node.frontmatter?.active === true? <InnerLink href={node.fields?.sitePath || ""} className='capitalize'>{node.frontmatter?.semester || ""} {node.frontmatter?.year || ""}</InnerLink>
+                                                                    : <span className='text-gray-400 font-medium capitalize' >{node.frontmatter?.semester || ""} {node.frontmatter?.year || ""}</span>
+                                                            }
                                                         </li>
                                                     )
                                                 }
@@ -133,6 +136,7 @@ export const pageQuery = graphql`
                     division
                     title
                     types
+                    active
                     description
                 }
             }

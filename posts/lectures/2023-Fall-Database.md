@@ -5,6 +5,7 @@ semester: fall
 division: "3 Div."
 title: "Database"
 types: major
+active: false
 description: "This courses covers fundamental concepts of database and database management systems and how to build and query your own database using Structured Query Language. In addition, you will learn a theoretical background for designing a good database and basic techniques for concurrency control and recovery."
 ---
 # Instruction

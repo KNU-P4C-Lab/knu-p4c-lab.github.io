@@ -5,6 +5,7 @@ semester: fall
 division: "3 Div."
 title: "Problem Solving and Programming"
 types: major
+active: false
 description: "This courses aims to cultivate practical skills to solve programming challenges based on what students learned from the data structure and additional techniques, including string manipulation, sorting, backtracking, graph traversal, and dynamic programming."
 ---
 # Instruction
