@@ -269,24 +269,22 @@ description: "This course covers theoretical backgrounds and practical implement
 
 ## Week 15
 ### June 09 — Generative Models: Variational Autoencoder & Autoregressive Models
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1UM5udZPgBlPqQezoI4Kd7Z0DIyceO6G6he9WBr0kask/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/17uRrZMvJpKQkcELNFcxq1VNkawp3Hjux?usp=drive_link)
 * References
     * [Fo23] Chap. 3, 5
 
 ### June 10 — Generative Models: Generative Adversarial Network
-* [Lecture]()
-* [Practice]()
+* [Lecture](https://docs.google.com/presentation/d/1F72djbpGqOTF-OUAJhdl-BRVxumbfxcnrvG2teFSQmI/edit?usp=drive_link)
+* [Practice](https://colab.research.google.com/drive/120HspzXVgVlz42mVk4WEtGEHXanhnMow?usp=drive_link)
 * References
     * [Fo23] Chap. 4
 
 ---
 
 ## Week 16
-### June 16  — Generative Models: Diffusion Model
-* [Lecture]()
-* References
-    * [Fo23] Chap. 8
+### June 16 — Focus on Final Competition
+* No Class
 
 ### June 17: Final Remark
 

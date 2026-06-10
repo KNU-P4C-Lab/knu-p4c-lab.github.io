@@ -179,7 +179,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ## Week 12
 ### May 21 — Competition Round 2: Avoid Blurps
 * [Leaderboard](https://docs.google.com/spreadsheets/d/1VR5ybJeTd7sXYFrbh6i54V88s7K_v29FQK0dOvEV-ZI/edit?gid=539701642#gid=539701642)
-* (Announce) [Competition Round 3: Bullet Bills]()
+* (Announce) [Competition Round 3: Bullet Bills](https://docs.google.com/document/d/1lQo6qmdofz-JvrRcCjKq3P6lhZ2II-SKQenxFJzQz1Q/edit?usp=drive_link)
   * Due: June 15
 
 ### May 25 — Buddha's Birthday
@@ -202,28 +202,29 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 
 ## Week 14
 ### June 04 — Advanced Topics: Trust Region Constraint Methods
-* [Lecture]()
+* [Lecture](https://docs.google.com/presentation/d/1L97MKJQn7Q5NHQnjZmcA33EXEwdqfYpJ8RaSh9kmXkE/edit?usp=drive_link)
 * Reference
     * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR (2015).
 
 
-### June 08 — Advanced Topics: Proximal Policy Optimization & Asynchronous Methods
-* [Lecture]()
+### June 08 — Advanced Topics: Proximal Policy Optimization
+* [Lecture](https://docs.google.com/presentation/d/1VB_n4Gu5itc6InqwZuyXiK8jSgyPqmw8HHLADuLQKsM/edit?usp=drive_link)
 * Reference
   * John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
   * John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel. "High-Dimensional Continuous Control Using Generalized Advantage Estimation." arXiv preprint arXiv:1506.02438 (2018). https://arxiv.org/abs/1506.02438\
-  * Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. &amp; Kavukcuoglu, K.. "Asynchronous Methods for Deep Reinforcement Learning". Proceedings of The 33rd International Conference on Machine Learning. 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html.
+  * Volodymyr Mnih et al. "Asynchronous methods for deep reinforcement learning." In International conference on machine learning, pp. 1928-1937. PMLR. (2016).
+  * Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "Curiosity-driven exploration by self-supervised prediction." In International conference on machine learning, pp. 2778-2787. PMLR. (2017).
+  * Yuri Burda, Harrison Edwards, Amos Storkey, and Oleg Klimov. "Exploration by random network distillation." arXiv preprint arXiv:1810.12894 (2018).
 
 ## Week 15
 ### June 11 — Focus on Final Competition
 * No Class
 
 ### June 15 — Competition Round 3: Bullet Bills
-* [Leaderboard]()
+* [Leaderboard](https://docs.google.com/spreadsheets/d/1VR5ybJeTd7sXYFrbh6i54V88s7K_v29FQK0dOvEV-ZI/edit?gid=1862932531#gid=1862932531)
 ---
   
 ## Week 16
 ### June 18 — Final Remark
-* [Lecture]()
 
 ---
