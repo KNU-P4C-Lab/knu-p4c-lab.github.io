@@ -5,7 +5,7 @@ semester: fall
 division: "1 Div."
 title: "Advanced Reinforcement Learning (for Graduates)"
 types: major
-active: false
+active: true
 description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This course will cover the foundational concepts of RL, state-of-the-art RL algorithms, and recent conceptual shifts in RL. Furthermore, you will work on a small team project to implement an RL agent to solve problems with different difficulties, from simple to complex ones."
 ---
 
@@ -17,7 +17,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Teaching Assistant: None
 
 ## Time & Location
-* TBA
+* Wed. 09:00 - 11:50
 
 ## Office Hours
 * Tue. 13:00 - 15:00
@@ -40,24 +40,24 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 - At least 11-Absence = F grade
 
 # Schedule
-## Week 01 (02, Sep.) — Introduction to Reinforcement Learning
+## Week 01 (September 02) — Introduction to Reinforcement Learning
 * [Lecture]()
   * [Ri20] Chap. 1
 ---
 
-## Week 02 (09, Sep.) — Markov Process / Dynamic Programming
+## Week 02 (September 09) — Markov Process and Dynamic Programming
 * [Lecture]()
 * Reference
   * [Ri20] Chap. 3 - 4
 ---
 
-## Week 03 (16, Sep.) — Monte Carlo Methods / Temporal Difference Learning
+## Week 03 (September 16) — Tabular Methods
 * [Lecture]()
 * Reference
     * [Ri20] Chap. 5 - 6
 ---
 
-## Week 04 (23, Sep.) — Function Approximation
+## Week 04 (September 23) — Function Approximation
 * [Lecture]()
 * Reference
     * [Ge23] Chap. 10 - 11, 14
@@ -65,7 +65,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Readings
 ---
 
-## Week 05 (30, Sep.) — Deep-Q Network / Variants of DQN
+## Week 05 (September 30) — Deep-Q Network and Its Extension
 * [Lecture]()
 * Reference
     * [Ri20] Chap. 11, 13
@@ -75,16 +75,16 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
     * Wang, Ziyu, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, and Nando Freitas. "Dueling network architectures for deep reinforcement learning." In International conference on machine learning, pp. 1995-2003. PMLR, 2016. https://proceedings.mlr.press/v48/wangf16.html****
 ---
 
-## Week 06 (7, Oct.) — Policy Gradient Methods / Deterministic Policy Gradient Methods
+## Week 06 (October 07) — Stochastic and Deterministic Policy Gradient Methods
 * [Lecture]()
 * [Announcement: RL Competition Round 1]()
 * References
     * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
     * Scott Fujimoto, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." In International conference on machine learning, pp. 1587-1596. PMLR (2018).
-* Readings
+
 ---
 
-## Week 07 (14, Oct.) — Entropy Maximization / Trust Region Constraint Methods
+## Week 07 (October 14) — Entropy Maximization / Trust Region Constraint Methods
 * [Lecture]()
 * Reference
     * Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine. "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor". International Conference on Machine Learning (2018).
@@ -92,14 +92,14 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
     * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In International conference on machine learning, pp. 1889-1897. PMLR (2015).
 ---
 
-## Week 08 (21, Oct.) — Proximal Policy Optimization / Generalized Advantage Estimation
+## Week 08 (October 21) — Proximal Policy Optimization / Generalized Advantage Estimation
 * [Lecture]()
 * Reference
     * John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
     * John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel. "High-Dimensional Continuous Control Using Generalized Advantage Estimation." arXiv preprint arXiv:1506.02438 (2018). https://arxiv.org/abs/1506.02438\
 ---
 
-## Week 09 (28, Oct.) — RL Competition Round 1 
+## Week 09 (October 28) — RL Competition Round 1 
 * [Lecture]()
 * Reference
     * Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine. "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor". International Conference on Machine Learning (2018).
@@ -108,38 +108,37 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Announcement: RL Competition Round 2]()
 ---
 
-## Week 10 (4, Nov.) — Distributional RL
+## Week 10 (November 04) — Exploration & Unsupervised Reinforcement Learning
 * [Lecture]()
 * Reference
-  * [Al20] Chap. 7
-  * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning". arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
+    * [Al20] Chap. 8
 ---
 
-## Week 11 (11, Nov.) — Multi-Agent RL
+## Week 11 (November 11) — Multi-Agent Reinforcement Learning
 * [Lecture]()
 * Reference
-  * [Al20] Chap. 9
-  * Volodymyr Mnih et al. "Asynchronous methods for deep reinforcement learning." In International conference on machine learning, pp. 1928-1937. PMLR. (2016).
+    * [Al20] Chap. 9
+    * Volodymyr Mnih et al. "Asynchronous methods for deep reinforcement learning." In International conference on machine learning, pp. 1928-1937. PMLR. (2016). 
 ---
 
-## Week 12 (18, Nov.) — RL Competition Round 2
+## Week 12 (November 18) — RL Competition Round 2
 * [Leaderboard: RL Competition Round 2]()
 * [Announcement: RL Competition Round 3]()
 ---
 
-## Week 13 (25, Nov.) — Exploration & Unsupervised RL
+## Week 13 (November 25) — Distributional Reinforcement Learning
 * [Lecture]()
 * Reference
-  * [Al20] Chap. 8
+    * [Al20] Chap. 7
 ---
 
-## Week 14 (2, Dec.) — Evolutionary RL
+## Week 14 (December 02) — Evolutionary Reinforcement Learning
 * [Lecture]()
 * Reference
   * [Al20] Chap. 6
-
+  * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning". arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
 ---
 
-## Week 15 (9, Dec.) — RL Competition Round 3
+## Week 15 (December 09) — RL Competition Round 3
 * [Leaderboard: RL Competition Round 3]()
 
