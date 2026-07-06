@@ -17,7 +17,7 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Teaching Assistant: None
 
 ## Time & Location
-* Wed. 09:00 - 11:50
+* Wed. 09:00 - 11:50, #412, Hanbit Hall
 
 ## Office Hours
 * Tue. 13:00 - 15:00
