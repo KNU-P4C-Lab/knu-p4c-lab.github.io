@@ -6,7 +6,7 @@ division: "1 Div."
 title: "Advanced Reinforcement Learning (for Graduates)"
 types: major
 active: true
-description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This course will cover the foundational concepts of RL, state-of-the-art RL algorithms, and recent conceptual shifts in RL. Furthermore, you will work on a small team project to implement an RL agent to solve problems with different difficulties, from simple to complex ones."
+description: "Reinforcement learning (RL) is one of the popular machine learning paradigms for solving sequential decision-making problems. In this paradigm, agents learn the optimal policies by repeatedly interacting with an environment to maximize (cumulative) rewards. This course will cover the foundational concepts of RL, state-of-the-art RL algorithms, and recent conceptual shifts in RL."
 ---
 
 # Instruction
