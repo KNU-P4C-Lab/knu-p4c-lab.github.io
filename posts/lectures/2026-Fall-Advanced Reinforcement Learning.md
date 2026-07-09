@@ -60,29 +60,28 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ## Week 04 (September 23) — Function Approximation
 * [Lecture]()
 * Reference
-    * [Ge23] Chap. 10 - 11, 14
     * [Ri20] Chap. 9 - 10
+    * [Ge23] Chap. 10 - 11, 14
 * Readings
 ---
 
-## Week 05 (September 30) — Deep-Q Network and Its Extension
+## Week 05 (September 30) — Deep-Q Network / Policy Gradient Methods
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 11
+  * [Ri20] Chap. 11, 13
   * Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
+---
+
+## Week 06 (October 07) — Extensions of Deep Q-Network / Deterministic Policy Gradient Methods
+* Lecture
+* [Announcement: RL Competition Round 1]()
+* References
   * Hado van Hasselt, Arthur Guez, David Silver. "Deep Reinforcement Learning with Double Q-Learning". In Proceedings of the AAAI Conference on Artificial Intelligence, 2094–2100 (2016). https://doi.org/10.1609/aaai.v30i1.10295
   * Tom Schaul, John Quan, Ioannis Antonoglou, David Silver. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
   * Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando Freitas. "Dueling network architectures for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1995-2003 (2016). https://proceedings.mlr.press/v48/wangf16.html
----
-
-## Week 06 (October 07) — Stochastic and Deterministic Policy Gradient Methods
-* [Lecture]()
-* [Announcement: RL Competition Round 1]()
-* References
-  * [Ri20] Chap. 13
+  * Jiechao Xiong, Qing Wang, Zhuoran Yang, Peng Sun, Lei Han, Yang Zheng, Haobo Fu, Tong Zhang, Ji Liu, Han Liu. "Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space." arXiv preprint arXiv:1810.0639 (2018). https://arxiv.org/abs/1810.06394
   * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
   * Scott Fujimoto, Herke Hoof, David Meger. "Addressing function approximation error in actor-critic methods." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1587-1596 (2018). https://proceedings.mlr.press/v80/fujimoto18a.html
-
 ---
 
 ## Week 07 (October 14) — Entropy Maximization / Trust Region Constraint Methods
@@ -91,7 +90,6 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
     * Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine. "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1861-1870 (2018). https://proceedings.mlr.press/v80/haarnoja18b
     * Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). https://arxiv.org/abs/1812.05905
     * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In Proceedings of the 32nd International Conference on Machine Learning, PMLR 37:1889-1897 (2015). https://proceedings.mlr.press/v37/schulman15.html
-
 ---
 
 ## Week 08 (October 21) — Proximal Policy Optimization / Generalized Advantage Estimation
@@ -123,6 +121,13 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Reference
     * [Al20] Chap. 9
     * Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu. "Asynchronous methods for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html
+    * Johannes Heinrich, Marc Lanctot, and David Silver. “Fictitious self-play in extensive-form games.” In Proceedings of the 32nd International Conference on Machine Learning, PMLR 37:805-813 (2015). https://proceedings.mlr.press/v37/heinrich15
+    * Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Karl Tuyls, Julien Perolat, David Silver, Thore Graepel. “A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning.” Advances in Neural Information Processing Systems 30 (2017). https://proceedings.neurips.cc/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html
+    * Oriol Vinyals, Igor Babuschkin, Wojciech M. Czarnecki et al. “Grandmaster level in StarCraft II using multi-agent reinforcement learning.” Nature 575, 350-354 (2019). https://www.nature.com/articles/s41586-019-1724-z
+    * Tabish Rashid, Mikayel Samvelyan, Christian Schroeder de Witt, Gregory Farquhar, Jakob Foerster, Shimon Whiteson. "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning." Journal of Machine Learning Research, 21:178 (2020). https://www.jmlr.org/papers/v21/20-081.html
+    * Tabish Rashid, Gregory Farquhar, Bei Peng, Shimon Whiteson. “Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning.” Advances in Neural Information Processing Systems 33 (2020). https://proceedings.neurips.cc/paper_files/paper/2020/hash/73a427badebe0e32caa2e1fc7530b7f3-Abstract.html
+    * Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, OpenAI Pieter Abbeel, Igor Mordatch. "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments." Advances in Neural Information Processing Systems 30 (2017). https://proceedings.neurips.cc/paper/2017/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html
+    * Chao Yu, Akash Velu, Eugene Vinitsky, Jiaxuan Gao, Yu Wang, Alexandre Bayen, Yi Wu. "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games". Advances in Neural Information Processing Systems 35 (2022). https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html 
 ---
 
 ## Week 12 (November 18) — RL Competition Round 2
