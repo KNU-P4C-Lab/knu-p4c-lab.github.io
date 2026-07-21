@@ -23,8 +23,9 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Tue. 13:00 - 15:00
 
 ## Textbook
-* [Ri20] Reinforcement Learning: An Introduction, 2nd Ed., Richard S. Sutton and Andrew G. Barto, The MIT Press.
-* [Al20] Deep Reinforcement Learning in Action, Alexander Zai and Brandon Brown. Manning.
+* [Ri20] Richard S. Sutton, Andrew G. Barto. "Reinforcement Learning: An Introduction (2nd Ed.)." The MIT Press.
+* [Al20] Alexander Zai and Brandon Brown. "Deep Reinforcement Learning in Action." Manning.
+* [St24] Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer. "Multi-Agent Reinforcement Learning: Foundations and Modern Approaches." The MIT Press.
 
 ## Prerequisite
 * Python Programming
@@ -61,7 +62,6 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Lecture]()
 * Reference
     * [Ri20] Chap. 9 - 10
-    * [Ge23] Chap. 10 - 11, 14
 * Readings
 ---
 
@@ -73,13 +73,13 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 ---
 
 ## Week 06 (October 07) — Extensions of Deep Q-Network / Deterministic Policy Gradient Methods
-* Lecture
+* [Lecture]()
 * [Announcement: RL Competition Round 1]()
 * References
   * Hado van Hasselt, Arthur Guez, David Silver. "Deep Reinforcement Learning with Double Q-Learning". In Proceedings of the AAAI Conference on Artificial Intelligence, 2094–2100 (2016). https://doi.org/10.1609/aaai.v30i1.10295
   * Tom Schaul, John Quan, Ioannis Antonoglou, David Silver. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
   * Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando Freitas. "Dueling network architectures for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1995-2003 (2016). https://proceedings.mlr.press/v48/wangf16.html
-  * Jiechao Xiong, Qing Wang, Zhuoran Yang, Peng Sun, Lei Han, Yang Zheng, Haobo Fu, Tong Zhang, Ji Liu, Han Liu. "Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space." arXiv preprint arXiv:1810.0639 (2018). https://arxiv.org/abs/1810.06394
+  * Matthew Hausknecht, Peter Stone. "Deep Recurrent Q-Learning for Partially Observable MDPs." AAAI Fall symposia. Vol. 45 (2015). https://cdn.aaai.org/ocs/11673/11673-51288-1-PB.pdf
   * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
   * Scott Fujimoto, Herke Hoof, David Meger. "Addressing function approximation error in actor-critic methods." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1587-1596 (2018). https://proceedings.mlr.press/v80/fujimoto18a.html
 ---
@@ -92,11 +92,12 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
     * John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. "Trust region policy optimization." In Proceedings of the 32nd International Conference on Machine Learning, PMLR 37:1889-1897 (2015). https://proceedings.mlr.press/v37/schulman15.html
 ---
 
-## Week 08 (October 21) — Proximal Policy Optimization / Generalized Advantage Estimation
+## Week 08 (October 21) — Proximal Policy Optimization 
 * [Lecture]()
 * Reference
   * John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). https://arxiv.org/abs/1707.06347
   * John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, Pieter Abbeel. "High-Dimensional Continuous Control Using Generalized Advantage Estimation." arXiv preprint arXiv:1506.02438 (2018). https://arxiv.org/abs/1506.02438
+  * Karl Cobbe, Jacob Hilton, Oleg Klimov, John Schulman. "Phasic Policy Gradient." Proceedings of the 38th International Conference on Machine Learning, PMLR 139:2020-2027 (2021). https://proceedings.mlr.press/v139/cobbe21a
 ---
 
 ## Week 09 (October 28) — RL Competition Round 1 
@@ -116,18 +117,16 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
     * Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine. "Diversity is All You Need: Learning Skills without a Reward Function. arXiv preprint arXiv:1802.06070 (2018). https://arxiv.org/abs/1802.06070
 ---
 
-## Week 11 (November 11) — Multi-Agent Reinforcement Learning
+## Week 11 (November 11) — Handling Hybrid Action Space
 * [Lecture]()
 * Reference
-    * [Al20] Chap. 9
-    * Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu. "Asynchronous methods for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html
-    * Johannes Heinrich, Marc Lanctot, and David Silver. “Fictitious self-play in extensive-form games.” In Proceedings of the 32nd International Conference on Machine Learning, PMLR 37:805-813 (2015). https://proceedings.mlr.press/v37/heinrich15
-    * Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Karl Tuyls, Julien Perolat, David Silver, Thore Graepel. “A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning.” Advances in Neural Information Processing Systems 30 (2017). https://proceedings.neurips.cc/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html
-    * Oriol Vinyals, Igor Babuschkin, Wojciech M. Czarnecki et al. “Grandmaster level in StarCraft II using multi-agent reinforcement learning.” Nature 575, 350-354 (2019). https://www.nature.com/articles/s41586-019-1724-z
-    * Tabish Rashid, Mikayel Samvelyan, Christian Schroeder de Witt, Gregory Farquhar, Jakob Foerster, Shimon Whiteson. "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning." Journal of Machine Learning Research, 21:178 (2020). https://www.jmlr.org/papers/v21/20-081.html
-    * Tabish Rashid, Gregory Farquhar, Bei Peng, Shimon Whiteson. “Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning.” Advances in Neural Information Processing Systems 33 (2020). https://proceedings.neurips.cc/paper_files/paper/2020/hash/73a427badebe0e32caa2e1fc7530b7f3-Abstract.html
-    * Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, OpenAI Pieter Abbeel, Igor Mordatch. "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments." Advances in Neural Information Processing Systems 30 (2017). https://proceedings.neurips.cc/paper/2017/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html
-    * Chao Yu, Akash Velu, Eugene Vinitsky, Jiaxuan Gao, Yu Wang, Alexandre Bayen, Yi Wu. "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games". Advances in Neural Information Processing Systems 35 (2022). https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html 
+  * Warwick Masson, Pravesh Ranchod, George Konidaris. "Reinforcement learning with parameterized actions." In Proceedings of the AAAI conference on artificial intelligence, 30:1 (2016). https://doi.org/10.1609/aaai.v30i1.10226
+  * Matthew Hausknecht, Peter Stone. "Deep reinforcement learning in parameterized action space." arXiv preprint arXiv:1511.04143 (2015). https://arxiv.org/abs/1511.04143
+  * Craig J. Bester, Steven D. James, George D. Konidaris. "Multi-pass q-networks for deep reinforcement learning with parameterised action spaces." arXiv preprint arXiv:1905.04388 (2019). https://arxiv.org/abs/1905.04388
+  * Zhou Fan, Rui Su, Weinan Zhang, Yong Yu. "Hybrid actor-critic reinforcement learning in parameterized action space." arXiv preprint arXiv:1903.01344 (2019). https://arxiv.org/abs/1903.01344
+  * Michael Neunert, Abbas Abdolmaleki, Markus Wulfmeier, Thomas Lampe, Tobias Springenberg, Roland Hafner, Francesco Romano, Jonas Buchli, Nicolas Heess, Martin Riedmiller. "Continuous-discrete reinforcement learning for hybrid control in robotics." In Conference on Robot Learning, 735-751 (2020). https://proceedings.mlr.press/v100/neunert20a.html
+  * Jiechao Xiong, Qing Wang, Zhuoran Yang, Peng Sun, Lei Han, Yang Zheng, Haobo Fu, Tong Zhang, Ji Liu, Han Liu. "Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space." arXiv preprint arXiv:1810.0639 (2018). https://arxiv.org/abs/1810.06394
+
 ---
 
 ## Week 12 (November 18) — RL Competition Round 2
@@ -135,20 +134,24 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * [Announcement: RL Competition Round 3]()
 ---
 
-## Week 13 (November 25) — Distributional Reinforcement Learning
+## Week 13 (November 25) — Distributed Reinforcement Learning
 * [Lecture]()
 * Reference
-    * [Al20] Chap. 7
+  * Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu. "Asynchronous methods for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1928-1937 (2016). https://proceedings.mlr.press/v48/mniha16.html
+  * Lasse Espeholt, Hubert Soyer, Remi Munos, Karen Simonyan, Vlad Mnih, Tom Ward, Yotam Doron, Vlad Firoiu, Tim Harley, Iain Dunning, Shane Legg, Koray Kavukcuoglu. "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures". In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1407-1416 (2018). https://proceedings.mlr.press/v80/espeholt18a.html
+  * Lasse Espeholt, Raphaël Marinier, Piotr Stanczyk, Ke Wang, and Marcin Michalski. "Seed rl: Scalable and efficient deep-rl with accelerated central inference." arXiv preprint arXiv:1910.06591 (2019). https://arxiv.org/abs/1910.06591
+  * Steven Kapturowski, Georg Ostrovski, John Quan, Remi Munos, and Will Dabney. "Recurrent experience replay in distributed reinforcement learning." In International conference on learning representations (2019). https://openreview.net/forum?id=r1lyTjAqYX&utm_campaign=RL
+
+---
+
+## Week 14 (December 02) — Distributional Reinforcement Learning / Evolutionary Reinforcement Learning
+* [Lecture]()
+* Reference
+    * [Al20] Chap. 6 - 7
     * Marc G. Bellemare, Will Dabney, Rémi Munos. "A Distributional Perspective on Reinforcement Learning." In Proceedings of the 34th International Conference on Machine Learning, PMLR 70:449-458 (2017). https://proceedings.mlr.press/v70/bellemare17a.html
     * Will Dabney, Mark Rowland, Marc G. Bellemare, Rémi Munos. "Distributional Reinforcement Learning with Quantile Regression." In Proceedings of the AAAI Conference on Artificial Intelligence, 32(1) (2018). https://doi.org/10.1609/aaai.v32i1.11791
     * Will Dabney, Georg Ostrovski, David Silver, Rémi Munos. "Implicit Quantile Networks for Distributional Reinforcement Learning." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1096-1105 (2018). https://proceedings.mlr.press/v80/dabney18a.html
----
-
-## Week 14 (December 02) — Evolutionary Reinforcement Learning
-* [Lecture]()
-* Reference
-  * [Al20] Chap. 6
-  * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning". arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
+    * Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever. "Evolution Strategies as a Scalable Alternative to Reinforcement Learning". arXiv preprint arXiv:1703.03864 (2017). https://arxiv.org/abs/1703.03864
 ---
 
 ## Week 15 (December 09) — RL Competition Round 3
