@@ -65,23 +65,25 @@ description: "Reinforcement learning (RL) is one of the popular machine learning
 * Readings
 ---
 
-## Week 05 (September 30) — Deep-Q Network / Policy Gradient Methods
+## Week 05 (September 30) — Deep-Q Network and Its Extensions
 * [Lecture]()
 * Reference
-  * [Ri20] Chap. 11, 13
+  * [Ri20] Chap. 11
   * Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al. “Human-level control through deep reinforcement learning”. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature14236
----
-
-## Week 06 (October 07) — Extensions of Deep Q-Network / Deterministic Policy Gradient Methods
-* [Lecture]()
-* [Announcement: RL Competition Round 1]()
-* References
   * Hado van Hasselt, Arthur Guez, David Silver. "Deep Reinforcement Learning with Double Q-Learning". In Proceedings of the AAAI Conference on Artificial Intelligence, 2094–2100 (2016). https://doi.org/10.1609/aaai.v30i1.10295
   * Tom Schaul, John Quan, Ioannis Antonoglou, David Silver. "Prioritized Experience Replay." arXiv preprint arXiv:1511.05952 (2015). https://arxiv.org/abs/1511.05952
   * Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando Freitas. "Dueling network architectures for deep reinforcement learning." In Proceedings of The 33rd International Conference on Machine Learning, PMLR 48:1995-2003 (2016). https://proceedings.mlr.press/v48/wangf16.html
   * Matthew Hausknecht, Peter Stone. "Deep Recurrent Q-Learning for Partially Observable MDPs." AAAI Fall symposia. Vol. 45 (2015). https://cdn.aaai.org/ocs/11673/11673-51288-1-PB.pdf
-  * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
-  * Scott Fujimoto, Herke Hoof, David Meger. "Addressing function approximation error in actor-critic methods." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1587-1596 (2018). https://proceedings.mlr.press/v80/fujimoto18a.html
+
+---
+
+## Week 06 (October 07) — Stochastic & Deterministic Policy Gradient Methods
+* [Lecture]()
+* [Announcement: RL Competition Round 1](`)`
+* References
+ * [Ri20] Chap. 13
+   * Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). https://arxiv.org/abs/1509.02971
+   * Scott Fujimoto, Herke Hoof, David Meger. "Addressing function approximation error in actor-critic methods." In Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1587-1596 (2018). https://proceedings.mlr.press/v80/fujimoto18a.html
 ---
 
 ## Week 07 (October 14) — Entropy Maximization / Trust Region Constraint Methods
